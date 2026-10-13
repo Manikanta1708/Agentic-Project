@@ -1,0 +1,72 @@
+branch,regulation,year_semester,s_no,course_code,course_title,L,T,P,credits
+CIVIL,R25,I YEAR I SEMESTER,1,MA101BS,Matrices and Calculus,3,1,0,4
+CIVIL,R25,I YEAR I SEMESTER,2,PH102BS,Advanced Engineering Physics,3,0,0,3
+CIVIL,R25,I YEAR I SEMESTER,3,ME103ES,C Programming and Data Structures,3,0,0,3
+CIVIL,R25,I YEAR I SEMESTER,4,EN104HS,English for Skill Enhancement,3,0,0,3
+CIVIL,R25,I YEAR I SEMESTER,5,ME105ES,Engineering Drawing and Computer Aided Drafting,2,0,2,3
+CIVIL,R25,I YEAR I SEMESTER,6,PH106BS,Advanced Engineering Physics Lab,0,0,2,1
+CIVIL,R25,I YEAR I SEMESTER,7,CS107ES,C Programming and Data Structures Lab,0,0,2,1
+CIVIL,R25,I YEAR I SEMESTER,8,ME108ES,Engineering Workshop,0,0,2,1
+CIVIL,R25,I YEAR I SEMESTER,9,EN109HS,English Language and Communication Skills Lab,0,0,2,1
+CIVIL,R25,I YEAR II SEMESTER,1,MA201BS,Ordinary Differential Equations and Vector Calculus,3,0,0,3
+CIVIL,R25,I YEAR II SEMESTER,2,CH202BS,Applied Chemistry,3,0,0,3
+CIVIL,R25,I YEAR II SEMESTER,3,CS203ES,Python Programming,3,0,0,3
+CIVIL,R25,I YEAR II SEMESTER,4,EE204ES,Elements of Electrical and Electronics Engineering,3,0,0,3
+CIVIL,R25,I YEAR II SEMESTER,5,CE205PC,Building Planning and Construction,3,0,0,3
+CIVIL,R25,I YEAR II SEMESTER,6,CE206PC,Engineering Mechanics for Civil Engineers,3,0,0,3
+CIVIL,R25,I YEAR II SEMESTER,7,CH207BS,Chemistry Lab for Engineers,0,0,2,1
+CIVIL,R25,I YEAR II SEMESTER,8,CS208ES,Python Programming Lab,0,0,2,1
+CIVIL,R25,II YEAR I SEMESTER,1,MA301BS,Probability and Statistics,3,0,0,3
+CIVIL,R25,II YEAR I SEMESTER,2,CE302PC,Building Materials and Concrete Technology,3,0,0,3
+CIVIL,R25,II YEAR I SEMESTER,3,CE303PC,Strength of Materials,3,0,0,3
+CIVIL,R25,II YEAR I SEMESTER,4,CE304PC,Surveying and Geomatics,3,0,0,3
+CIVIL,R25,II YEAR I SEMESTER,5,CE305PC,Fluid Mechanics,3,0,0,3
+CIVIL,R25,II YEAR I SEMESTER,6,MA306PC,Computational Mathematics Lab,0,0,2,1
+CIVIL,R25,II YEAR I SEMESTER,7,CE307PC,Material Testing Lab,0,0,2,1
+CIVIL,R25,II YEAR I SEMESTER,8,CE308PC,Strength of Materials Lab,0,0,2,1
+CIVIL,R25,II YEAR I SEMESTER,9,CE309PC,Surveying & Geomatics Lab,0,0,2,1
+CIVIL,R25,II YEAR I SEMESTER,10,CE310SD,Design Thinking and Tinkering Lab,0,0,2,1
+CIVIL,R25,II YEAR II SEMESTER,1,CE401PC,Structural Mechanics,3,0,0,3
+CIVIL,R25,II YEAR II SEMESTER,2,CE402PC,Water Resources and Irrigation Engineering,3,0,0,3
+CIVIL,R25,II YEAR II SEMESTER,3,CE403PC,Hydraulics & Hydraulic Machinery,3,0,0,3
+CIVIL,R25,II YEAR II SEMESTER,4,CE404PC,Theory of Structures,3,0,0,3
+CIVIL,R25,II YEAR II SEMESTER,5,CE405PC,Engineering Geology,2,0,0,2
+CIVIL,R25,II YEAR II SEMESTER,6,MS406HS,Innovation and Entrepreneurship,2,0,0,2
+CIVIL,R25,II YEAR II SEMESTER,7,CE407PC,Engineering Geology Lab,0,0,2,1
+CIVIL,R25,II YEAR II SEMESTER,8,CE408PC,Hydraulics & Hydraulic Machinery Lab,0,0,2,1
+CIVIL,R25,II YEAR II SEMESTER,9,CE409PC,Computer Aided Building Drafting Lab,0,0,2,1
+CIVIL,R25,II YEAR II SEMESTER,10,CE410SD,Digital Surveying Lab,0,0,2,1
+CIVIL,R25,II YEAR II SEMESTER,11,VA400HS,Indian Knowledge System,1,0,0,1
+CIVIL,R25,III YEAR I SEMESTER,1,CE501PC,Environmental Engineering,3,0,0,3
+CIVIL,R25,III YEAR I SEMESTER,2,CE502PC,Design of Reinforced Concrete Members,3,0,0,3
+CIVIL,R25,III YEAR I SEMESTER,3,CE503PC,Transportation Engineering,3,0,0,3
+CIVIL,R25,III YEAR I SEMESTER,4,Professional,Elective-I,3,0,0,3
+CIVIL,R25,III YEAR I SEMESTER,5,Open,Elective-I,2,0,0,2
+CIVIL,R25,III YEAR I SEMESTER,6,CE504PC,Environmental Engineering Lab,0,0,2,1
+CIVIL,R25,III YEAR I SEMESTER,7,CE505PC,Computer Aided Design Lab,0,0,2,1
+CIVIL,R25,III YEAR I SEMESTER,8,CE506PC,Highway Materials Lab,0,0,2,1
+CIVIL,R25,III YEAR I SEMESTER,9,CE507PC,Field Based Project/ Internship,0,0,4,2
+CIVIL,R25,III YEAR I SEMESTER,10,CE508SD,Building Information Modelling Lab,0,0,2,1
+CIVIL,R25,III YEAR II SEMESTER,1,CE601PC,Geotechnical Engineering,3,0,0,3
+CIVIL,R25,III YEAR II SEMESTER,2,CE602PC,Design of Steel Structures,3,0,0,3
+CIVIL,R25,III YEAR II SEMESTER,3,CE603PC,Business Economics and Financial Analysis,3,0,0,3
+CIVIL,R25,III YEAR II SEMESTER,4,Professional,Elective-II,3,0,0,3
+CIVIL,R25,III YEAR II SEMESTER,5,Open,Elective – II,2,0,0,2
+CIVIL,R25,III YEAR II SEMESTER,6,CE604PC,Geotechnical Engineering Lab,0,0,2,1
+CIVIL,R25,III YEAR II SEMESTER,7,CE605PC,GIS Lab,0,0,2,1
+CIVIL,R25,III YEAR II SEMESTER,8,CE606PC,Civil Engineering Software Lab,0,0,2,1
+CIVIL,R25,III YEAR II SEMESTER,9,EN607HS,English for Employability Skills Lab,0,0,2,1
+CIVIL,R25,III YEAR II SEMESTER,10,CE608SD,Project Management Software Lab,0,0,2,1
+CIVIL,R25,III YEAR II SEMESTER,11,VS600ES,Environmental Science,1,0,0,1
+CIVIL,R25,IV YEAR I SEMESTER,1,CE701PC,Estimation Quantity Surveying & Valuation,3,0,0,3
+CIVIL,R25,IV YEAR I SEMESTER,2,CE702PC,Foundation Engineering,3,0,0,3
+CIVIL,R25,IV YEAR I SEMESTER,3,MS703HS,Fundamentals of Management,3,0,0,3
+CIVIL,R25,IV YEAR I SEMESTER,4,Professional,Elective-III,3,0,0,3
+CIVIL,R25,IV YEAR I SEMESTER,5,Professional,Elective – IV,3,0,0,3
+CIVIL,R25,IV YEAR I SEMESTER,6,Open,Elective – III,2,0,0,2
+CIVIL,R25,IV YEAR I SEMESTER,7,CE704PC,Quantity Surveying Laboratory,0,0,2,1
+CIVIL,R25,IV YEAR I SEMESTER,8,CE705PC,Computational Lab / IOT Lab,0,0,2,1
+CIVIL,R25,IV YEAR I SEMESTER,9,CE706PC,Industry Oriented Mini Project/ Summer Internship,0,0,4,2
+CIVIL,R25,IV YEAR II SEMESTER,1,Professional,Elective – V,3,0,0,3
+CIVIL,R25,IV YEAR II SEMESTER,2,Professional,Elective – VI,3,0,0,3
+CIVIL,R25,IV YEAR II SEMESTER,3,CE801PC,Project Work,0,0,42,14

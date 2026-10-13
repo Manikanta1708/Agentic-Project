@@ -1,0 +1,10 @@
+﻿streamlit
+pandas
+numpy
+networkx
+matplotlib
+scipy
+pyvis
+rank-bm25
+faiss-cpu
+sentence-transformers

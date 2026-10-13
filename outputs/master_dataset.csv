@@ -1,0 +1,297 @@
+skill,AIML,CIVIL,CSE,DS,ECE,EEE,IT,MECH,research_count,job_count
+3d printing,0,0,0,0,0,0,0,1,0,0
+5g,0,0,0,0,1,0,0,0,0,0
+ad hoc networks,1,0,0,0,0,0,0,0,0,0
+advanced manufacturing,0,0,0,0,0,0,0,1,0,0
+advanced operating systems,0,0,0,0,0,0,1,0,0,0
+agentic ai,0,0,0,0,0,0,0,0,44,0
+agile,0,0,1,0,0,0,0,0,0,0
+air pollution,0,1,0,0,0,0,0,0,0,0
+algorithms,1,0,1,1,1,1,1,1,0,0
+analog circuits,0,0,0,0,1,0,0,0,0,0
+analog electronics,0,0,0,0,1,1,0,0,0,0
+analog ic design,0,0,0,0,1,0,0,0,0,0
+antenna design,0,0,0,0,1,0,0,0,0,0
+artificial intelligence,1,0,1,1,1,1,1,1,0,0
+artificial neural networks,0,0,0,0,0,0,0,1,0,0
+augmented reality,1,0,0,0,0,0,1,0,0,0
+automata,1,0,1,1,0,0,1,0,0,0
+automation,0,0,0,0,0,0,0,1,0,0
+automobile engineering,0,0,0,0,0,0,0,1,0,0
+battery technology,0,0,0,0,0,1,0,0,0,0
+big data,0,0,1,1,0,0,1,0,0,0
+biomedical engineering,0,0,0,0,1,0,0,0,0,0
+biometrics,0,0,0,0,0,0,1,0,0,0
+blockchain,0,0,1,1,0,0,1,0,0,0
+building materials,0,1,0,0,0,0,0,0,0,0
+business analytics,0,1,0,0,1,1,0,1,0,0
+business economics,1,0,0,0,0,0,0,0,0,0
+business intelligence,1,0,0,1,0,0,0,0,0,0
+c programming,1,1,1,1,1,1,1,1,0,0
+c++,0,0,0,0,0,0,1,0,0,0
+cad,0,1,0,0,0,0,0,1,0,0
+cae,0,0,0,0,0,0,0,1,0,0
+cam,0,0,0,0,0,0,0,1,0,0
+capstone project,1,1,0,1,1,1,1,1,0,0
+cfd,0,0,0,0,0,0,0,1,0,0
+chatbots,1,0,1,0,0,0,0,0,0,0
+circuit analysis,0,0,0,0,1,1,0,0,0,0
+civil engineering,0,1,0,0,0,0,0,0,0,0
+civil engineering software,0,1,0,0,0,0,0,0,0,0
+cloud computing,1,0,1,1,0,0,1,0,0,0
+cmos,0,0,0,0,1,0,0,0,0,0
+cognitive computing,1,0,0,0,0,0,0,0,0,0
+communication systems,0,0,0,0,1,0,0,0,0,0
+compiler design,1,0,1,1,0,0,1,0,0,0
+complexity theory,0,0,1,0,0,0,0,0,0,0
+composite materials,0,0,0,0,0,0,0,1,0,0
+computer architecture,0,0,1,0,1,0,1,0,0,0
+computer fundamentals,0,0,1,0,0,0,0,0,0,0
+computer graphics,1,0,1,1,0,0,1,0,0,0
+computer hardware,0,0,1,0,0,0,0,0,0,0
+computer networks,1,0,1,1,1,0,1,0,0,0
+computer organization,1,0,0,1,0,0,1,0,0,0
+computer vision,1,0,0,1,0,0,0,0,0,0
+concrete technology,0,1,0,0,0,0,0,0,0,0
+construction management,0,1,0,0,0,0,0,0,0,0
+control systems,0,0,0,0,1,1,0,1,0,0
+conversational ai,1,0,0,0,0,0,0,0,0,0
+cryptography,0,0,0,1,1,0,0,0,0,0
+css,0,0,1,0,0,0,0,0,0,0
+cyber forensics,0,0,0,0,0,0,1,0,0,0
+cyber physical systems,0,0,0,0,0,1,0,0,0,0
+cyber security,0,0,1,0,1,0,0,0,0,0
+data analytics,1,0,1,1,0,0,1,0,0,0
+data communication,0,0,0,0,1,0,0,0,0,0
+data mining,1,0,0,1,0,0,1,0,0,0
+data privacy,0,0,0,1,0,0,0,0,0,0
+data science,1,0,0,1,0,0,0,0,0,0
+data stream mining,0,0,0,1,0,0,0,0,0,0
+data structures,1,1,1,1,1,1,1,1,0,0
+data visualization,0,0,1,1,0,0,1,0,0,0
+data warehousing,1,0,0,1,0,0,0,0,0,0
+database,0,0,1,0,0,0,0,0,0,0
+database management,1,0,0,1,1,0,1,0,0,0
+database security,0,0,0,1,0,0,0,0,0,0
+deep learning,1,0,1,0,0,0,1,0,1,468
+devops,1,0,1,1,0,0,1,0,0,0
+digital electronics,0,0,1,1,1,1,1,0,0,0
+digital forensics,0,0,1,0,0,0,0,0,0,0
+digital signal processing,0,0,0,0,1,1,0,0,0,0
+discrete mathematics,1,0,0,1,0,0,1,0,0,0
+distributed computing,0,0,0,1,0,0,0,0,0,0
+distributed database,0,0,1,0,0,0,0,0,0,0
+distributed databases,0,0,0,0,0,0,1,0,0,0
+distributed systems,0,0,1,0,0,0,1,0,0,0
+django,1,0,1,1,0,0,1,0,0,0
+dynamics,0,0,0,0,0,0,0,1,0,0
+earthquake engineering,0,1,0,0,0,0,0,0,0,0
+electric power,0,0,0,0,0,1,0,0,0,0
+electric vehicles,0,0,0,0,0,1,0,1,0,0
+electrical distribution,0,0,0,0,0,1,0,0,0,0
+electrical engineering,0,1,0,0,1,1,0,1,0,0
+electrical machine design,0,0,0,0,0,1,0,0,0,0
+electrical machines,0,0,0,0,0,1,0,0,0,0
+electromagnetics,0,0,0,0,1,1,0,0,0,0
+electronic circuits,0,0,0,0,1,0,0,0,0,0
+electronic devices,0,0,0,0,1,0,0,0,0,0
+electronic measurements,0,0,0,0,1,0,0,0,0,0
+electronics,0,1,0,0,1,1,0,1,0,0
+embedded systems,0,0,1,0,1,1,1,0,0,0
+energy management,0,0,0,0,0,0,0,1,0,0
+energy storage,0,0,0,0,0,1,0,0,0,0
+engineering geology,0,1,0,0,0,0,0,0,0,0
+engineering mechanics,0,1,0,0,0,0,0,1,0,0
+environmental engineering,0,1,0,0,0,0,0,0,0,0
+environmental impact assessment,0,1,0,0,0,0,0,0,0,0
+etl,0,0,0,1,0,0,0,0,0,0
+ev charging,0,0,0,0,0,1,0,0,0,0
+evolutionary computing,1,0,0,0,0,0,0,0,0,0
+expert systems,1,0,0,0,0,0,0,0,0,0
+exploratory data analysis,0,0,0,1,0,0,0,0,0,0
+facts,0,0,0,0,0,1,0,0,0,0
+federated machine learning,1,0,0,0,0,0,0,0,0,0
+financial analysis,1,0,0,0,0,0,0,0,0,0
+finite element analysis,0,0,0,0,0,0,0,1,0,0
+fluid mechanics,0,1,0,0,0,0,0,1,0,0
+fluid power,0,0,0,0,0,0,0,1,0,0
+flutter,1,0,1,1,0,0,1,0,0,0
+foundation engineering,0,1,0,0,0,0,0,0,0,0
+full stack,0,0,1,0,0,0,0,0,0,0
+full stack development,0,0,0,0,0,0,1,0,0,0
+fuzzy logic,0,0,0,0,0,0,0,1,0,0
+game theory,1,0,0,0,0,0,0,0,0,0
+gas turbines,0,0,0,0,0,0,0,1,0,0
+geomatics,0,1,0,0,0,0,0,0,0,0
+geotechnical engineering,0,1,0,0,0,0,0,0,0,0
+graph theory,1,0,1,0,0,0,0,0,0,0
+green buildings,0,1,0,0,0,0,0,0,0,0
+ground improvement,0,1,0,0,0,0,0,0,0,0
+groundwater hydrology,0,1,0,0,0,0,0,0,0,0
+hci,0,0,1,0,0,0,0,0,0,0
+healthcare electronics,0,0,0,0,1,0,0,0,0,0
+heat transfer,0,0,0,0,0,0,0,1,0,0
+high performance computing,0,0,0,0,0,0,1,0,0,0
+high voltage engineering,0,0,0,0,0,1,0,0,0,0
+html,0,0,1,0,0,0,0,0,0,0
+human computer interaction,0,0,0,0,0,0,1,0,0,0
+hvac,0,0,0,0,0,0,0,1,0,0
+hvdc,0,0,0,0,0,1,0,0,0,0
+hydraulic machinery,0,1,0,0,0,0,0,0,0,0
+hydraulic structures,0,1,0,0,0,0,0,0,0,0
+hydraulics,0,1,0,0,0,1,0,1,0,0
+image processing,1,0,1,1,1,0,1,0,0,0
+industrial automation,0,0,0,0,0,0,0,1,0,0
+industrial management,0,0,0,0,0,0,0,1,0,0
+industry 4.0,0,0,0,0,0,0,0,1,0,0
+industry project,0,1,0,0,1,1,0,1,0,0
+information retrieval,1,0,1,1,0,0,1,0,0,0
+information security,0,0,0,0,0,0,1,0,0,0
+instrumentation,0,0,0,0,1,1,0,1,0,0
+integrated circuits,0,0,0,0,1,0,0,0,0,0
+internal combustion engines,0,0,0,0,0,0,0,1,0,0
+internet of things,1,0,0,1,1,1,1,0,0,0
+internship,1,0,0,1,0,0,0,0,0,0
+intrusion detection,0,0,0,0,0,0,1,0,0,0
+iot,0,0,1,0,1,1,0,0,0,0
+java,1,0,1,1,0,0,1,0,0,0
+javascript,0,0,1,0,0,0,0,0,0,0
+jet propulsion,0,0,0,0,0,0,0,1,0,0
+kafka,0,0,0,1,0,0,0,0,0,0
+kinematics,0,0,0,0,0,0,0,1,0,0
+knowledge graph,0,0,0,0,0,0,0,0,105,25
+knowledge representation,1,0,0,0,0,0,0,0,0,0
+lisp,1,0,0,0,0,0,0,0,0,0
+llm,0,0,1,0,0,0,0,0,81,94
+llmops,0,0,0,0,0,0,0,0,57,0
+logic design,0,0,0,0,1,0,0,0,0,0
+lubrication,0,0,0,0,0,0,0,1,0,0
+machine design,0,0,0,0,0,0,0,1,0,0
+machine learning,1,0,1,1,1,1,1,0,21,1973
+machine tools,0,0,0,0,0,0,0,1,0,0
+management,0,0,1,0,0,1,0,0,0,0
+manufacturing,0,1,0,0,0,0,0,1,0,0
+material science,0,0,0,0,0,0,0,1,0,0
+material testing,0,1,0,0,0,0,0,0,0,0
+materials engineering,0,0,0,0,0,0,0,1,0,0
+mathematics,1,0,0,0,0,0,0,0,0,0
+mechanical engineering,0,0,0,0,0,0,0,1,0,0
+mechatronics,0,0,0,0,0,0,0,1,0,0
+metrology,0,0,0,0,0,0,0,1,0,0
+microcontrollers,0,0,0,0,1,1,0,0,0,0
+microprocessors,0,0,0,0,0,0,0,1,0,0
+microwave engineering,0,0,0,0,1,0,0,0,0,0
+mlops,0,0,0,0,0,0,0,0,105,80
+mobile app development,1,0,0,1,0,0,1,0,0,0
+mobile communication,0,0,0,0,1,0,0,0,0,0
+mobile computing,1,0,0,0,0,0,0,0,0,0
+mobile development,0,0,1,0,0,1,0,0,0,0
+multimedia databases,0,0,0,1,0,0,0,0,0,0
+natural language processing,1,0,0,1,0,0,1,0,0,0
+nature inspired computing,1,0,0,0,0,0,0,0,0,0
+network analysis,0,0,0,0,1,0,0,0,0,0
+network security,0,0,1,1,0,0,0,0,0,0
+neural networks,0,0,0,0,1,0,0,0,0,0
+nlp,0,0,1,0,0,0,0,0,1,353
+node.js,1,0,0,1,0,0,1,0,0,0
+nodejs,0,0,1,0,0,0,0,0,0,0
+oop,0,0,1,0,0,0,0,0,0,0
+operating systems,1,0,1,1,1,0,1,0,0,0
+operations research,0,0,0,0,0,0,0,1,0,0
+optical communication,0,0,0,0,1,0,0,0,0,0
+organizational behavior,0,0,0,1,0,0,1,0,0,0
+pandas,0,0,1,0,0,0,0,0,0,0
+parallel computing,0,0,0,1,0,0,0,0,0,0
+pattern recognition,1,0,0,0,0,0,1,0,0,0
+pavement design,0,1,0,0,0,0,0,0,0,0
+pavement engineering,0,1,0,0,0,0,0,0,0,0
+power bi,0,0,1,1,0,0,1,0,0,0
+power electronics,0,0,0,0,0,1,0,0,0,0
+power engineering,0,0,0,0,0,0,0,1,0,0
+power plants,0,0,0,0,0,0,0,1,0,0
+power quality,0,0,0,0,0,1,0,0,0,0
+power system protection,0,0,0,0,0,1,0,0,0,0
+power system reliability,0,0,0,0,0,1,0,0,0,0
+power systems,0,0,0,0,0,1,0,0,0,0
+predictive analytics,0,0,0,1,0,0,0,0,0,0
+prestressed concrete,0,1,0,0,0,0,0,0,0,0
+probability,0,0,0,0,1,0,0,0,0,0
+production planning,0,0,0,0,0,0,0,1,0,0
+programming languages,0,0,1,0,0,0,1,0,0,0
+project management,0,1,1,1,0,0,1,0,0,0
+prolog,1,0,0,0,0,0,0,0,0,0
+pyswip,1,0,0,0,0,0,0,0,0,0
+python,1,1,1,1,1,1,1,1,0,2493
+pytorch,0,0,1,0,0,0,0,0,0,295
+quality management,0,0,0,0,0,0,0,1,0,0
+quantity surveying,0,1,0,0,0,0,0,0,0,0
+quantum computing,1,0,1,1,0,0,1,0,0,0
+r programming,0,0,1,1,0,0,1,0,0,0
+radar,0,0,0,0,1,0,0,0,0,0
+rag,0,0,0,0,0,0,0,0,28,1784
+randomized algorithms,1,0,0,0,0,0,0,0,0,0
+react,0,0,1,0,0,0,0,0,0,0
+react.js,1,0,0,1,0,0,1,0,0,0
+real time systems,0,0,0,0,1,0,1,0,0,0
+reasoning,1,0,0,0,0,0,0,0,0,0
+reengineering,0,0,0,0,0,0,0,1,0,0
+refrigeration,0,0,0,0,0,0,0,1,0,0
+reinforced concrete,0,1,0,0,0,0,0,0,0,0
+reliability engineering,0,0,0,0,0,1,0,0,0,0
+renewable energy,0,0,0,0,0,1,0,1,0,0
+research,1,1,1,1,1,1,1,1,0,0
+retaining structures,0,1,0,0,0,0,0,0,0,0
+robotics,1,0,0,1,0,0,0,1,0,0
+rpa,1,0,1,0,0,0,0,0,0,0
+satellite communication,0,0,0,0,1,0,0,0,0,0
+scripting,1,0,1,1,0,0,1,0,0,0
+semantic web,1,0,0,0,0,0,0,0,0,0
+sensor networks,1,0,0,0,0,0,1,0,0,0
+sensors,0,0,0,0,1,0,0,0,0,0
+signal processing,0,0,0,0,1,1,0,0,0,0
+simulation,0,0,0,0,0,1,0,0,0,0
+slope stability,0,1,0,0,0,0,0,0,0,0
+smart cities,0,1,0,0,0,0,0,0,0,0
+smart grid,0,0,0,0,0,1,0,0,0,0
+social media analytics,0,0,0,1,0,0,0,0,0,0
+social media mining,0,0,0,1,0,0,0,0,0,0
+social network analysis,1,0,0,0,1,0,0,0,0,0
+soft computing,0,0,1,0,0,0,0,0,0,0
+software engineering,1,0,1,1,0,0,1,0,0,0
+software testing,1,0,1,1,0,0,1,0,0,0
+soil mechanics,0,1,0,0,0,0,0,0,0,0
+solar energy,0,0,0,0,0,0,0,1,0,0
+solid mechanics,0,0,0,0,0,0,0,1,0,0
+solid waste management,0,1,0,0,0,0,0,0,0,0
+spark,0,0,1,0,0,0,1,0,0,0
+speech processing,1,0,0,0,0,0,0,0,0,0
+sql,1,0,1,1,0,0,1,0,0,2074
+statistics,1,0,1,1,0,0,0,0,0,0
+steel structures,0,1,0,0,0,0,0,0,0,0
+stochastic processes,0,0,0,0,1,0,0,0,0,0
+storage management,0,0,0,1,0,0,0,0,0,0
+strength of materials,0,1,0,0,0,0,0,0,0,0
+structural analysis,0,1,0,0,0,0,0,0,0,0
+surveying,0,1,0,0,0,0,0,0,0,0
+system on chip,0,0,0,0,1,0,0,0,0,0
+talend,0,0,0,1,0,0,0,0,0,0
+telecommunication,0,0,0,0,1,0,0,0,0,0
+tensorflow,0,0,1,0,0,0,0,0,0,378
+thermal engineering,0,0,0,0,0,0,0,1,0,0
+thermodynamics,0,0,0,0,0,0,0,1,0,0
+transmission lines,0,0,0,0,1,0,0,0,0,0
+transport infrastructure,0,1,0,0,0,0,0,0,0,0
+transportation engineering,0,1,0,0,0,0,0,0,0,0
+turbomachinery,0,0,0,0,0,0,0,1,0,0
+vibration analysis,0,0,0,0,0,0,0,1,0,0
+video analytics,0,0,0,1,0,0,0,0,0,0
+video processing,1,0,0,0,0,0,0,0,0,0
+virtual reality,1,0,0,0,0,0,1,0,0,0
+vlsi,0,0,0,0,1,0,0,0,0,0
+water resources,0,1,0,0,0,0,0,0,0,0
+web development,1,0,0,1,0,0,0,0,0,0
+web security,1,0,0,1,0,0,1,0,0,0
+wireless communication,0,0,0,0,1,0,0,0,0,0
+wireless networks,0,0,1,0,0,0,0,0,0,0
+wireless sensor networks,0,0,0,0,1,0,0,0,0,0
+workshop practice,0,1,0,0,0,0,0,1,0,0

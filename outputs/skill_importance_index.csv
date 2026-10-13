@@ -1,0 +1,291 @@
+skill,job_count,research_count,branch_count,branch_coverage,job_score,research_score,importance_score
+python,2493,0,8,1.0,1.0,0.0,0.7
+machine learning,1973,21,6,0.75,0.7914159647011633,0.2,0.6098495788206979
+sql,2074,0,4,0.5,0.8319294023265142,0.0,0.5491576413959085
+rag,1784,28,0,0.0,0.7156036903329323,0.26666666666666666,0.5093622141997594
+mlops,80,105,0,0.0,0.032089851584436425,1.0,0.31925391095066186
+knowledge graph,25,105,0,0.0,0.010028078620136383,1.0,0.30601684717208183
+llm,94,81,1,0.125,0.0377055756117128,0.7714285714285715,0.26655191679559914
+llmops,0,57,0,0.0,0.0,0.5428571428571428,0.16285714285714284
+deep learning,468,1,3,0.375,0.18772563176895307,0.009523809523809525,0.1529925219185147
+agentic ai,0,44,0,0.0,0.0,0.41904761904761906,0.12571428571428572
+tensorflow,378,0,1,0.125,0.15162454873646208,0.0,0.10347472924187724
+nlp,353,1,1,0.125,0.1415964701163257,0.009523809523809525,0.10031502492693828
+data structures,0,0,8,1.0,0.0,0.0,0.1
+c programming,0,0,8,1.0,0.0,0.0,0.1
+artificial intelligence,0,0,7,0.875,0.0,0.0,0.08750000000000001
+algorithms,0,0,7,0.875,0.0,0.0,0.08750000000000001
+pytorch,295,0,1,0.125,0.1183313277176093,0.0,0.08349879663056557
+image processing,0,0,5,0.625,0.0,0.0,0.0625
+computer networks,0,0,5,0.625,0.0,0.0,0.0625
+digital electronics,0,0,5,0.625,0.0,0.0,0.0625
+internet of things,0,0,5,0.625,0.0,0.0,0.0625
+operating systems,0,0,5,0.625,0.0,0.0,0.0625
+software engineering,0,0,4,0.5,0.0,0.0,0.05
+software testing,0,0,4,0.5,0.0,0.0,0.05
+scripting,0,0,4,0.5,0.0,0.0,0.05
+project management,0,0,4,0.5,0.0,0.0,0.05
+quantum computing,0,0,4,0.5,0.0,0.0,0.05
+business analytics,0,0,4,0.5,0.0,0.0,0.05
+flutter,0,0,4,0.5,0.0,0.0,0.05
+information retrieval,0,0,4,0.5,0.0,0.0,0.05
+cloud computing,0,0,4,0.5,0.0,0.0,0.05
+java,0,0,4,0.5,0.0,0.0,0.05
+compiler design,0,0,4,0.5,0.0,0.0,0.05
+computer graphics,0,0,4,0.5,0.0,0.0,0.05
+devops,0,0,4,0.5,0.0,0.0,0.05
+database management,0,0,4,0.5,0.0,0.0,0.05
+electronics,0,0,4,0.5,0.0,0.0,0.05
+embedded systems,0,0,4,0.5,0.0,0.0,0.05
+electrical engineering,0,0,4,0.5,0.0,0.0,0.05
+django,0,0,4,0.5,0.0,0.0,0.05
+data analytics,0,0,4,0.5,0.0,0.0,0.05
+automata,0,0,4,0.5,0.0,0.0,0.05
+statistics,0,0,3,0.375,0.0,0.0,0.037500000000000006
+discrete mathematics,0,0,3,0.375,0.0,0.0,0.037500000000000006
+control systems,0,0,3,0.375,0.0,0.0,0.037500000000000006
+data visualization,0,0,3,0.375,0.0,0.0,0.037500000000000006
+computer organization,0,0,3,0.375,0.0,0.0,0.037500000000000006
+data mining,0,0,3,0.375,0.0,0.0,0.037500000000000006
+hydraulics,0,0,3,0.375,0.0,0.0,0.037500000000000006
+computer architecture,0,0,3,0.375,0.0,0.0,0.037500000000000006
+robotics,0,0,3,0.375,0.0,0.0,0.037500000000000006
+mobile app development,0,0,3,0.375,0.0,0.0,0.037500000000000006
+r programming,0,0,3,0.375,0.0,0.0,0.037500000000000006
+power bi,0,0,3,0.375,0.0,0.0,0.037500000000000006
+web security,0,0,3,0.375,0.0,0.0,0.037500000000000006
+blockchain,0,0,3,0.375,0.0,0.0,0.037500000000000006
+big data,0,0,3,0.375,0.0,0.0,0.037500000000000006
+react.js,0,0,3,0.375,0.0,0.0,0.037500000000000006
+natural language processing,0,0,3,0.375,0.0,0.0,0.037500000000000006
+node.js,0,0,3,0.375,0.0,0.0,0.037500000000000006
+iot,0,0,3,0.375,0.0,0.0,0.037500000000000006
+instrumentation,0,0,3,0.375,0.0,0.0,0.037500000000000006
+chatbots,0,0,2,0.25,0.0,0.0,0.025
+data science,0,0,2,0.25,0.0,0.0,0.025
+cyber security,0,0,2,0.25,0.0,0.0,0.025
+circuit analysis,0,0,2,0.25,0.0,0.0,0.025
+microcontrollers,0,0,2,0.25,0.0,0.0,0.025
+virtual reality,0,0,2,0.25,0.0,0.0,0.025
+management,0,0,2,0.25,0.0,0.0,0.025
+manufacturing,0,0,2,0.25,0.0,0.0,0.025
+pattern recognition,0,0,2,0.25,0.0,0.0,0.025
+real time systems,0,0,2,0.25,0.0,0.0,0.025
+renewable energy,0,0,2,0.25,0.0,0.0,0.025
+programming languages,0,0,2,0.25,0.0,0.0,0.025
+business intelligence,0,0,2,0.25,0.0,0.0,0.025
+cad,0,0,2,0.25,0.0,0.0,0.025
+spark,0,0,2,0.25,0.0,0.0,0.025
+web development,0,0,2,0.25,0.0,0.0,0.025
+sensor networks,0,0,2,0.25,0.0,0.0,0.025
+signal processing,0,0,2,0.25,0.0,0.0,0.025
+social network analysis,0,0,2,0.25,0.0,0.0,0.025
+rpa,0,0,2,0.25,0.0,0.0,0.025
+distributed systems,0,0,2,0.25,0.0,0.0,0.025
+organizational behavior,0,0,2,0.25,0.0,0.0,0.025
+mobile development,0,0,2,0.25,0.0,0.0,0.025
+network security,0,0,2,0.25,0.0,0.0,0.025
+data warehousing,0,0,2,0.25,0.0,0.0,0.025
+computer vision,0,0,2,0.25,0.0,0.0,0.025
+cryptography,0,0,2,0.25,0.0,0.0,0.025
+digital signal processing,0,0,2,0.25,0.0,0.0,0.025
+electric vehicles,0,0,2,0.25,0.0,0.0,0.025
+fluid mechanics,0,0,2,0.25,0.0,0.0,0.025
+engineering mechanics,0,0,2,0.25,0.0,0.0,0.025
+graph theory,0,0,2,0.25,0.0,0.0,0.025
+analog electronics,0,0,2,0.25,0.0,0.0,0.025
+electromagnetics,0,0,2,0.25,0.0,0.0,0.025
+augmented reality,0,0,2,0.25,0.0,0.0,0.025
+air pollution,0,0,1,0.125,0.0,0.0,0.0125
+electronic devices,0,0,1,0.125,0.0,0.0,0.0125
+electronic measurements,0,0,1,0.125,0.0,0.0,0.0125
+data stream mining,0,0,1,0.125,0.0,0.0,0.0125
+database,0,0,1,0.125,0.0,0.0,0.0125
+digital forensics,0,0,1,0.125,0.0,0.0,0.0125
+database security,0,0,1,0.125,0.0,0.0,0.0125
+distributed computing,0,0,1,0.125,0.0,0.0,0.0125
+distributed database,0,0,1,0.125,0.0,0.0,0.0125
+earthquake engineering,0,0,1,0.125,0.0,0.0,0.0125
+electric power,0,0,1,0.125,0.0,0.0,0.0125
+dynamics,0,0,1,0.125,0.0,0.0,0.0125
+finite element analysis,0,0,1,0.125,0.0,0.0,0.0125
+financial analysis,0,0,1,0.125,0.0,0.0,0.0125
+federated machine learning,0,0,1,0.125,0.0,0.0,0.0125
+electrical machine design,0,0,1,0.125,0.0,0.0,0.0125
+electrical distribution,0,0,1,0.125,0.0,0.0,0.0125
+exploratory data analysis,0,0,1,0.125,0.0,0.0,0.0125
+facts,0,0,1,0.125,0.0,0.0,0.0125
+ev charging,0,0,1,0.125,0.0,0.0,0.0125
+expert systems,0,0,1,0.125,0.0,0.0,0.0125
+etl,0,0,1,0.125,0.0,0.0,0.0125
+environmental impact assessment,0,0,1,0.125,0.0,0.0,0.0125
+environmental engineering,0,0,1,0.125,0.0,0.0,0.0125
+evolutionary computing,0,0,1,0.125,0.0,0.0,0.0125
+engineering geology,0,0,1,0.125,0.0,0.0,0.0125
+energy storage,0,0,1,0.125,0.0,0.0,0.0125
+healthcare electronics,0,0,1,0.125,0.0,0.0,0.0125
+energy management,0,0,1,0.125,0.0,0.0,0.0125
+hci,0,0,1,0.125,0.0,0.0,0.0125
+groundwater hydrology,0,0,1,0.125,0.0,0.0,0.0125
+electrical machines,0,0,1,0.125,0.0,0.0,0.0125
+electronic circuits,0,0,1,0.125,0.0,0.0,0.0125
+green buildings,0,0,1,0.125,0.0,0.0,0.0125
+analog circuits,0,0,1,0.125,0.0,0.0,0.0125
+analog ic design,0,0,1,0.125,0.0,0.0,0.0125
+antenna design,0,0,1,0.125,0.0,0.0,0.0125
+automation,0,0,1,0.125,0.0,0.0,0.0125
+artificial neural networks,0,0,1,0.125,0.0,0.0,0.0125
+transmission lines,0,0,1,0.125,0.0,0.0,0.0125
+thermodynamics,0,0,1,0.125,0.0,0.0,0.0125
+storage management,0,0,1,0.125,0.0,0.0,0.0125
+stochastic processes,0,0,1,0.125,0.0,0.0,0.0125
+speech processing,0,0,1,0.125,0.0,0.0,0.0125
+steel structures,0,0,1,0.125,0.0,0.0,0.0125
+strength of materials,0,0,1,0.125,0.0,0.0,0.0125
+data privacy,0,0,1,0.125,0.0,0.0,0.0125
+data communication,0,0,1,0.125,0.0,0.0,0.0125
+agile,0,0,1,0.125,0.0,0.0,0.0125
+construction management,0,0,1,0.125,0.0,0.0,0.0125
+conversational ai,0,0,1,0.125,0.0,0.0,0.0125
+cyber forensics,0,0,1,0.125,0.0,0.0,0.0125
+css,0,0,1,0.125,0.0,0.0,0.0125
+cyber physical systems,0,0,1,0.125,0.0,0.0,0.0125
+advanced operating systems,0,0,1,0.125,0.0,0.0,0.0125
+distributed databases,0,0,1,0.125,0.0,0.0,0.0125
+concrete technology,0,0,1,0.125,0.0,0.0,0.0125
+structural analysis,0,0,1,0.125,0.0,0.0,0.0125
+surveying,0,0,1,0.125,0.0,0.0,0.0125
+system on chip,0,0,1,0.125,0.0,0.0,0.0125
+wireless sensor networks,0,0,1,0.125,0.0,0.0,0.0125
+talend,0,0,1,0.125,0.0,0.0,0.0125
+3d printing,0,0,1,0.125,0.0,0.0,0.0125
+thermal engineering,0,0,1,0.125,0.0,0.0,0.0125
+telecommunication,0,0,1,0.125,0.0,0.0,0.0125
+civil engineering software,0,0,1,0.125,0.0,0.0,0.0125
+cmos,0,0,1,0.125,0.0,0.0,0.0125
+cognitive computing,0,0,1,0.125,0.0,0.0,0.0125
+communication systems,0,0,1,0.125,0.0,0.0,0.0125
+complexity theory,0,0,1,0.125,0.0,0.0,0.0125
+composite materials,0,0,1,0.125,0.0,0.0,0.0125
+computer fundamentals,0,0,1,0.125,0.0,0.0,0.0125
+computer hardware,0,0,1,0.125,0.0,0.0,0.0125
+html,0,0,1,0.125,0.0,0.0,0.0125
+automobile engineering,0,0,1,0.125,0.0,0.0,0.0125
+battery technology,0,0,1,0.125,0.0,0.0,0.0125
+high voltage engineering,0,0,1,0.125,0.0,0.0,0.0125
+hvac,0,0,1,0.125,0.0,0.0,0.0125
+human computer interaction,0,0,1,0.125,0.0,0.0,0.0125
+hvdc,0,0,1,0.125,0.0,0.0,0.0125
+hydraulic machinery,0,0,1,0.125,0.0,0.0,0.0125
+game theory,0,0,1,0.125,0.0,0.0,0.0125
+hydraulic structures,0,0,1,0.125,0.0,0.0,0.0125
+industrial automation,0,0,1,0.125,0.0,0.0,0.0125
+industrial management,0,0,1,0.125,0.0,0.0,0.0125
+information security,0,0,1,0.125,0.0,0.0,0.0125
+industry 4.0,0,0,1,0.125,0.0,0.0,0.0125
+fluid power,0,0,1,0.125,0.0,0.0,0.0125
+foundation engineering,0,0,1,0.125,0.0,0.0,0.0125
+geomatics,0,0,1,0.125,0.0,0.0,0.0125
+full stack,0,0,1,0.125,0.0,0.0,0.0125
+full stack development,0,0,1,0.125,0.0,0.0,0.0125
+fuzzy logic,0,0,1,0.125,0.0,0.0,0.0125
+geotechnical engineering,0,0,1,0.125,0.0,0.0,0.0125
+gas turbines,0,0,1,0.125,0.0,0.0,0.0125
+ground improvement,0,0,1,0.125,0.0,0.0,0.0125
+civil engineering,0,0,1,0.125,0.0,0.0,0.0125
+nodejs,0,0,1,0.125,0.0,0.0,0.0125
+oop,0,0,1,0.125,0.0,0.0,0.0125
+logic design,0,0,1,0.125,0.0,0.0,0.0125
+lubrication,0,0,1,0.125,0.0,0.0,0.0125
+machine tools,0,0,1,0.125,0.0,0.0,0.0125
+machine design,0,0,1,0.125,0.0,0.0,0.0125
+material testing,0,0,1,0.125,0.0,0.0,0.0125
+material science,0,0,1,0.125,0.0,0.0,0.0125
+mobile computing,0,0,1,0.125,0.0,0.0,0.0125
+mobile communication,0,0,1,0.125,0.0,0.0,0.0125
+power systems,0,0,1,0.125,0.0,0.0,0.0125
+power system reliability,0,0,1,0.125,0.0,0.0,0.0125
+nature inspired computing,0,0,1,0.125,0.0,0.0,0.0125
+network analysis,0,0,1,0.125,0.0,0.0,0.0125
+multimedia databases,0,0,1,0.125,0.0,0.0,0.0125
+high performance computing,0,0,1,0.125,0.0,0.0,0.0125
+microprocessors,0,0,1,0.125,0.0,0.0,0.0125
+microwave engineering,0,0,1,0.125,0.0,0.0,0.0125
+integrated circuits,0,0,1,0.125,0.0,0.0,0.0125
+internal combustion engines,0,0,1,0.125,0.0,0.0,0.0125
+mechanical engineering,0,0,1,0.125,0.0,0.0,0.0125
+materials engineering,0,0,1,0.125,0.0,0.0,0.0125
+mechatronics,0,0,1,0.125,0.0,0.0,0.0125
+metrology,0,0,1,0.125,0.0,0.0,0.0125
+jet propulsion,0,0,1,0.125,0.0,0.0,0.0125
+kafka,0,0,1,0.125,0.0,0.0,0.0125
+intrusion detection,0,0,1,0.125,0.0,0.0,0.0125
+javascript,0,0,1,0.125,0.0,0.0,0.0125
+knowledge representation,0,0,1,0.125,0.0,0.0,0.0125
+kinematics,0,0,1,0.125,0.0,0.0,0.0125
+heat transfer,0,0,1,0.125,0.0,0.0,0.0125
+lisp,0,0,1,0.125,0.0,0.0,0.0125
+prolog,0,0,1,0.125,0.0,0.0,0.0125
+pyswip,0,0,1,0.125,0.0,0.0,0.0125
+quality management,0,0,1,0.125,0.0,0.0,0.0125
+quantity surveying,0,0,1,0.125,0.0,0.0,0.0125
+radar,0,0,1,0.125,0.0,0.0,0.0125
+operations research,0,0,1,0.125,0.0,0.0,0.0125
+optical communication,0,0,1,0.125,0.0,0.0,0.0125
+pandas,0,0,1,0.125,0.0,0.0,0.0125
+power electronics,0,0,1,0.125,0.0,0.0,0.0125
+parallel computing,0,0,1,0.125,0.0,0.0,0.0125
+pavement engineering,0,0,1,0.125,0.0,0.0,0.0125
+pavement design,0,0,1,0.125,0.0,0.0,0.0125
+power system protection,0,0,1,0.125,0.0,0.0,0.0125
+power quality,0,0,1,0.125,0.0,0.0,0.0125
+power plants,0,0,1,0.125,0.0,0.0,0.0125
+power engineering,0,0,1,0.125,0.0,0.0,0.0125
+neural networks,0,0,1,0.125,0.0,0.0,0.0125
+reengineering,0,0,1,0.125,0.0,0.0,0.0125
+reasoning,0,0,1,0.125,0.0,0.0,0.0125
+reinforced concrete,0,0,1,0.125,0.0,0.0,0.0125
+reliability engineering,0,0,1,0.125,0.0,0.0,0.0125
+retaining structures,0,0,1,0.125,0.0,0.0,0.0125
+semantic web,0,0,1,0.125,0.0,0.0,0.0125
+solid waste management,0,0,1,0.125,0.0,0.0,0.0125
+cae,0,0,1,0.125,0.0,0.0,0.0125
+cam,0,0,1,0.125,0.0,0.0,0.0125
+refrigeration,0,0,1,0.125,0.0,0.0,0.0125
+satellite communication,0,0,1,0.125,0.0,0.0,0.0125
+prestressed concrete,0,0,1,0.125,0.0,0.0,0.0125
+predictive analytics,0,0,1,0.125,0.0,0.0,0.0125
+probability,0,0,1,0.125,0.0,0.0,0.0125
+production planning,0,0,1,0.125,0.0,0.0,0.0125
+biomedical engineering,0,0,1,0.125,0.0,0.0,0.0125
+biometrics,0,0,1,0.125,0.0,0.0,0.0125
+business economics,0,0,1,0.125,0.0,0.0,0.0125
+building materials,0,0,1,0.125,0.0,0.0,0.0125
+c++,0,0,1,0.125,0.0,0.0,0.0125
+cfd,0,0,1,0.125,0.0,0.0,0.0125
+solar energy,0,0,1,0.125,0.0,0.0,0.0125
+react,0,0,1,0.125,0.0,0.0,0.0125
+social media mining,0,0,1,0.125,0.0,0.0,0.0125
+soft computing,0,0,1,0.125,0.0,0.0,0.0125
+social media analytics,0,0,1,0.125,0.0,0.0,0.0125
+smart grid,0,0,1,0.125,0.0,0.0,0.0125
+slope stability,0,0,1,0.125,0.0,0.0,0.0125
+soil mechanics,0,0,1,0.125,0.0,0.0,0.0125
+solid mechanics,0,0,1,0.125,0.0,0.0,0.0125
+randomized algorithms,0,0,1,0.125,0.0,0.0,0.0125
+sensors,0,0,1,0.125,0.0,0.0,0.0125
+simulation,0,0,1,0.125,0.0,0.0,0.0125
+smart cities,0,0,1,0.125,0.0,0.0,0.0125
+5g,0,0,1,0.125,0.0,0.0,0.0125
+wireless communication,0,0,1,0.125,0.0,0.0,0.0125
+wireless networks,0,0,1,0.125,0.0,0.0,0.0125
+water resources,0,0,1,0.125,0.0,0.0,0.0125
+vlsi,0,0,1,0.125,0.0,0.0,0.0125
+video processing,0,0,1,0.125,0.0,0.0,0.0125
+video analytics,0,0,1,0.125,0.0,0.0,0.0125
+vibration analysis,0,0,1,0.125,0.0,0.0,0.0125
+turbomachinery,0,0,1,0.125,0.0,0.0,0.0125
+transportation engineering,0,0,1,0.125,0.0,0.0,0.0125
+transport infrastructure,0,0,1,0.125,0.0,0.0,0.0125
+advanced manufacturing,0,0,1,0.125,0.0,0.0,0.0125
+ad hoc networks,0,0,1,0.125,0.0,0.0,0.0125

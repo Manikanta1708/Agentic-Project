@@ -1,0 +1,74 @@
+branch,regulation,year_semester,s_no,course_code,course_title,L,T,P,credits
+ECE,R25,I YEAR I SEMESTER,1,MA101BS,Matrices and Calculus,3,1,0,4
+ECE,R25,I YEAR I SEMESTER,2,PH102BS,Advanced Engineering Physics,3,0,0,3
+ECE,R25,I YEAR I SEMESTER,3,CS103ES,Programming for Problem Solving,3,0,0,3
+ECE,R25,I YEAR I SEMESTER,4,EC104ES,Introduction to Electrical Engineering,2,0,0,2
+ECE,R25,I YEAR I SEMESTER,5,ME105ES,Engineering Drawing and Computer Aided Drafting,2,0,2,3
+ECE,R25,I YEAR I SEMESTER,6,EN106HS,English for Skill Enhancement,3,0,0,3
+ECE,R25,I YEAR I SEMESTER,7,PH107BS,Advanced Engineering Physics Lab,0,0,2,1
+ECE,R25,I YEAR I SEMESTER,8,CS108ES,Programming for Problem Solving Lab,0,,2,1
+ECE,R25,I YEAR I SEMESTER,9,EN109HS,English Language and Communication Skills Lab,0,0,2,1
+ECE,R25,I YEAR II SEMESTER,1,MA201BS,Ordinary Differential Equations and Vector Calculus,3,0,0,3
+ECE,R25,I YEAR II SEMESTER,2,CH202BS,Engineering Chemistry,3,0,0,3
+ECE,R25,I YEAR II SEMESTER,3,CS203ES,Python Programming,3,0,0,3
+ECE,R25,I YEAR II SEMESTER,4,CS204ES,Data Structures,3,0,0,3
+ECE,R25,I YEAR II SEMESTER,5,EE205ES,Network Analysis and Synthesis,3,0,0,3
+ECE,R25,I YEAR II SEMESTER,6,CH206BS,Engineering Chemistry Lab,0,0,2,1
+ECE,R25,I YEAR II SEMESTER,7,EC207ES,Applied Python Programming Lab,0,0,2,1
+ECE,R25,I YEAR II SEMESTER,8,CS208ES,Data Structures Lab,0,0,2,1
+ECE,R25,I YEAR II SEMESTER,9,EC209ES,Basic Electrical Engineering Lab,0,0,2,1
+ECE,R25,I YEAR II SEMESTER,10,ME210ES,Engineering Workshop,0,0,2,1
+ECE,R25,II YEAR I SEMESTER,1,EC301PC,Probability Theory and Stochastic Processes,3,0,0,3
+ECE,R25,II YEAR I SEMESTER,2,EC302PC,Signals and Systems,3,0,0,3
+ECE,R25,II YEAR I SEMESTER,3,EC303PC,Electronic Devices and Circuits,3,0,0,3
+ECE,R25,II YEAR I SEMESTER,4,EC304PC,Digital Logic Design,3,0,0,3
+ECE,R25,II YEAR I SEMESTER,5,EC305PC,Control Systems,2,0,0,2
+ECE,R25,II YEAR I SEMESTER,6,MS306HS,Innovation and Entrepreneurship,2,0,0,2
+ECE,R25,II YEAR I SEMESTER,7,EC307PC,Modelling and Simulation Lab,0,0,2,1
+ECE,R25,II YEAR I SEMESTER,8,EC308PC,Electronic Devices and Circuits Lab,0,0,2,1
+ECE,R25,II YEAR I SEMESTER,9,EC309PC,Digital Logic Design Lab,0,0,2,1
+ECE,R25,II YEAR I SEMESTER,10,EC310SD,Linux and Shell Scripting,0,0,2,1
+ECE,R25,II YEAR I SEMESTER,11,VA300ES,Environmental Science,1,0,0,1
+ECE,R25,II YEAR II SEMESTER,1,MA401BS,Numerical Methods and Complex Variables,3,0,0,3
+ECE,R25,II YEAR II SEMESTER,2,EC402PC,Electromagnetic Fields and Transmission Lines,3,0,0,3
+ECE,R25,II YEAR II SEMESTER,3,EC403PC,Analog and Digital Communications,3,0,0,3
+ECE,R25,II YEAR II SEMESTER,4,EC404PC,Electronic Circuit Analysis,3,0,0,3
+ECE,R25,II YEAR II SEMESTER,5,EC405PC,Linear and Digital IC Applications,3,0,0,3
+ECE,R25,II YEAR II SEMESTER,6,MA406PC,Computational Mathematics Lab,0,0,2,1
+ECE,R25,II YEAR II SEMESTER,7,EC407PC,Analog and Digital Communications Lab,0,0,2,1
+ECE,R25,II YEAR II SEMESTER,8,EC408PC,Electronic Circuit Analysis Lab,0,0,2,1
+ECE,R25,II YEAR II SEMESTER,9,EC409PC,Linear and Digital IC Applications Lab,0,0,2,1
+ECE,R25,II YEAR II SEMESTER,10,EC410SD,Web and Mobile Applications,0,0,2,1
+ECE,R25,III YEAR I SEMESTER,1,EC501PC,Digital Signal Processing,3,0,0,3
+ECE,R25,III YEAR I SEMESTER,2,EC502PC,RISC and Microcontroller architectures,3,0,0,3
+ECE,R25,III YEAR I SEMESTER,3,EC503PC,CMOS VLSI Design,3,0,0,3
+ECE,R25,III YEAR I SEMESTER,4,Professional,Elective-I,3,0,0,3
+ECE,R25,III YEAR I SEMESTER,5,Open,Elective-I,2,0,0,2
+ECE,R25,III YEAR I SEMESTER,6,EC504PC,RISC and Microcontroller Interfacing Laboratory,0,0,2,1
+ECE,R25,III YEAR I SEMESTER,7,EC505PC,CMOS VLSI Design Laboratory,0,0,2,1
+ECE,R25,III YEAR I SEMESTER,8,EC506PC,Digital Signal Processing Laboratory,0,0,2,1
+ECE,R25,III YEAR I SEMESTER,9,EC507PC,Field-based Research Project,0,0,4,2
+ECE,R25,III YEAR I SEMESTER,10,EC508SD,FPGA based System Design,0,0,2,1
+ECE,R25,III YEAR I SEMESTER,11,VA500HS,Indian Knowledge System,1,0,0,1
+ECE,R25,III YEAR II SEMESTER,1,EC601PC,Antenna Design and Wave Propagation,3,0,0,3
+ECE,R25,III YEAR II SEMESTER,2,EC602PC,IoT Architectures and Protocols,3,0,0,3
+ECE,R25,III YEAR II SEMESTER,3,MS603HS,Business Economics and Financial Analysis,3,0,0,3
+ECE,R25,III YEAR II SEMESTER,4,Professional,Elective-II,3,0,0,3
+ECE,R25,III YEAR II SEMESTER,5,Open,Elective – II,2,0,0,2
+ECE,R25,III YEAR II SEMESTER,6,EC604PC,Advanced Communications Lab,0,0,2,1
+ECE,R25,III YEAR II SEMESTER,7,EC605PC,IoT Architectures and Protocols Laboratory,0,0,2,1
+ECE,R25,III YEAR II SEMESTER,8,EC606PC,VLSI Design Verification Laboratory,0,0,2,1
+ECE,R25,III YEAR II SEMESTER,9,EN607HS,English for Employability Skills Lab,0,0,2,1
+ECE,R25,III YEAR II SEMESTER,10,EC608SD,45G Practical Lab/Robotic Lab/Drone Lab,0,0,2,1
+ECE,R25,IV YEAR I SEMESTER,1,EC701PC,Microwave and Optical Communications,3,0,0,3
+ECE,R25,IV YEAR I SEMESTER,2,EC702PC,Embedded System Design,3,0,0,3
+ECE,R25,IV YEAR I SEMESTER,3,MS703HS,Fundamentals of Management for Engineers,3,0,0,3
+ECE,R25,IV YEAR I SEMESTER,4,Professional,Elective-III,3,0,0,3
+ECE,R25,IV YEAR I SEMESTER,5,Professional,Elective – IV,3,0,0,3
+ECE,R25,IV YEAR I SEMESTER,6,Open,Elective – III,2,0,0,2
+ECE,R25,IV YEAR I SEMESTER,7,EC704PC,Microwave and Optical Communications Laboratory,0,0,2,1
+ECE,R25,IV YEAR I SEMESTER,8,EC705PC,Embedded System Design Lab,0,0,2,1
+ECE,R25,IV YEAR I SEMESTER,9,EC706PC,Industry Oriented Mini Project/ Internship,0,0,4,2
+ECE,R25,IV YEAR II SEMESTER,1,Professional,Elective – V,3,0,0,3
+ECE,R25,IV YEAR II SEMESTER,2,Professional,Elective – VI,3,0,0,3
+ECE,R25,IV YEAR II SEMESTER,3,EC801PC,Project Work,0,0,42,14

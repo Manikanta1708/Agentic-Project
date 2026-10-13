@@ -1,0 +1,73 @@
+branch,regulation,year_semester,s_no,course_code,course_title,L,T,P,credits
+CSIT,R25,I YEAR I SEMESTER,1,BSC,Matrices and Calculus,3,1,0,4
+CSIT,R25,I YEAR I SEMESTER,2,BSC,Advanced Engineering Physics,3,0,0,3
+CSIT,R25,I YEAR I SEMESTER,3,MEC,Engineering Graphics and Computer Aided Drafting,2,0,2,3
+CSIT,R25,I YEAR I SEMESTER,4,Basic,Electrical Engineering,3,0,0,3
+CSIT,R25,I YEAR I SEMESTER,5,CSC,Programming for Problem Solving,3,0,0,3
+CSIT,R25,I YEAR I SEMESTER,6,BSC,Advanced Engineering Physics Lab,0,0,2,1
+CSIT,R25,I YEAR I SEMESTER,7,CSC,Programming for Problem Solving Lab,0,0,2,1
+CSIT,R25,I YEAR I SEMESTER,8,Python,Programming Lab,0,0,2,1
+CSIT,R25,I YEAR I SEMESTER,9,HSC,Basic Electrical Engineering Lab,0,0,2,1
+CSIT,R25,I YEAR II SEMESTER,1,BSC,Ordinary Differential Equations and Vector Calculus,3,0,0,3
+CSIT,R25,I YEAR II SEMESTER,2,BSC,Engineering Chemistry,3,0,0,3
+CSIT,R25,I YEAR II SEMESTER,3,HSC,English for Skill Enhancement,3,0,0,3
+CSIT,R25,I YEAR II SEMESTER,4,Electronic,Devices and Circuits,3,0,0,3
+CSIT,R25,I YEAR II SEMESTER,5,Data,Structures,3,0,0,3
+CSIT,R25,I YEAR II SEMESTER,6,BSC,Engineering Chemistry Lab,0,0,2,1
+CSIT,R25,I YEAR II SEMESTER,7,Data,Structures Lab,0,0,2,1
+CSIT,R25,I YEAR II SEMESTER,8,HSC,English Language and Communication Skills Lab,0,0,2,1
+CSIT,R25,I YEAR II SEMESTER,9,MEC,Engineering Workshop,0,0,2,1
+CSIT,R25,I YEAR II SEMESTER,10,IT,Workshop,0,0,2,1
+CSIT,R25,II YEAR I SEMESTER,1,BSC,Mathematical and Statistical Foundation,3,0,0,3
+CSIT,R25,II YEAR I SEMESTER,2,JAVA,Programming,3,0,0,3
+CSIT,R25,II YEAR I SEMESTER,3,Operating,Systems,3,0,0,3
+CSIT,R25,II YEAR I SEMESTER,4,Computer,Organization and Microprocessor,3,0,0,3
+CSIT,R25,II YEAR I SEMESTER,5,Introduction,to IoT,3,0,0,3
+CSIT,R25,II YEAR I SEMESTER,6,Computational,Mathematics Laboratory,0,0,2,1
+CSIT,R25,II YEAR I SEMESTER,7,JAVA,Programming Laboratory,0,0,2,1
+CSIT,R25,II YEAR I SEMESTER,8,Operating,Systems Laboratory,0,0,2,1
+CSIT,R25,II YEAR I SEMESTER,9,Internet,of Things Laboratory,0,0,2,1
+CSIT,R25,II YEAR I SEMESTER,10,SDC,Data Visualization-R Programming/Power BI/,0,0,2,1
+CSIT,R25,II YEAR II SEMESTER,1,Discrete,Mathematics,3,0,0,3
+CSIT,R25,II YEAR II SEMESTER,2,Data,Communications and Computer Networks,3,0,0,3
+CSIT,R25,II YEAR II SEMESTER,3,Database,Management Systems,3,0,0,3
+CSIT,R25,II YEAR II SEMESTER,4,Web,Programming,3,0,0,3
+CSIT,R25,II YEAR II SEMESTER,5,Formal,Languages and Automata Theory,3,0,0,3
+CSIT,R25,II YEAR II SEMESTER,6,Innovation,and Entrepreneurship,2,0,0,2
+CSIT,R25,II YEAR II SEMESTER,7,Computer,Networks Laboratory,0,0,2,1
+CSIT,R25,II YEAR II SEMESTER,8,Database,Management Systems Laboratory,0,0,2,1
+CSIT,R25,II YEAR II SEMESTER,9,Web,Programming Laboratory,0,0,2,1
+CSIT,R25,II YEAR II SEMESTER,10,SDC,"Node JS/ React JS/ Django, UI Design - Flutter",0,0,2,1
+CSIT,R25,II YEAR II SEMESTER,11,,*MC          Indian Knowledge Systems,1,0,0,1
+CSIT,R25,III YEAR I SEMESTER,1,Machine,Learning,3,0,0,3
+CSIT,R25,III YEAR I SEMESTER,2,Algorithm,Design and Analysis,3,0,0,3
+CSIT,R25,III YEAR I SEMESTER,3,Mobile,Application Development,3,0,0,3
+CSIT,R25,III YEAR I SEMESTER,4,Professional,Elective-I,3,0,0,3
+CSIT,R25,III YEAR I SEMESTER,5,Open,Elective-I,2,0,0,2
+CSIT,R25,III YEAR I SEMESTER,6,Machine,Learning Laboratory,0,0,2,1
+CSIT,R25,III YEAR I SEMESTER,7,Algorithm,Design and Analysis Laboratory,0,0,2,1
+CSIT,R25,III YEAR I SEMESTER,8,Mobile,Application Development Laboratory,0,0,2,1
+CSIT,R25,III YEAR I SEMESTER,9,SDC,Full Stack Development,0,0,2,1
+CSIT,R25,III YEAR II SEMESTER,1,Software,Engineering,3,0,0,3
+CSIT,R25,III YEAR II SEMESTER,2,Compiler,Design,3,0,0,3
+CSIT,R25,III YEAR II SEMESTER,3,Business,Economics and Financial Analysis,3,0,0,3
+CSIT,R25,III YEAR II SEMESTER,4,Professional,Elective-II,3,0,0,3
+CSIT,R25,III YEAR II SEMESTER,5,Open,Elective-II,2,0,0,2
+CSIT,R25,III YEAR II SEMESTER,6,Software,Engineering Laboratory,0,0,2,1
+CSIT,R25,III YEAR II SEMESTER,7,Compiler,Design Laboratory,0,0,2,1
+CSIT,R25,III YEAR II SEMESTER,8,Development,Operations (DevOps) Laboratory,0,0,2,1
+CSIT,R25,III YEAR II SEMESTER,9,HSC,English for Employability Skills Lab,0,0,2,1
+CSIT,R25,III YEAR II SEMESTER,10,SDC,Big data-Spark,0,0,2,1
+CSIT,R25,III YEAR II SEMESTER,11,MC*,Environmental Science,1,0,0,1
+CSIT,R25,IV YEAR I SEMESTER,1,Information,Security,3,0,0,3
+CSIT,R25,IV YEAR I SEMESTER,2,Deep,Learning,3,0,0,3
+CSIT,R25,IV YEAR I SEMESTER,3,Fundamentals,of Management,3,0,0,3
+CSIT,R25,IV YEAR I SEMESTER,4,Professional,Elective-III,3,0,0,3
+CSIT,R25,IV YEAR I SEMESTER,5,Professional,Elective-IV,3,0,0,3
+CSIT,R25,IV YEAR I SEMESTER,6,Open,Elective – III,2,0,0,2
+CSIT,R25,IV YEAR I SEMESTER,7,Information,Security Laboratory,0,0,2,1
+CSIT,R25,IV YEAR I SEMESTER,8,Deep,Learning Laboratory,0,0,2,1
+CSIT,R25,IV YEAR I SEMESTER,9,Industry,Oriented Mini Project/ Summer Internship,0,0,4,2
+CSIT,R25,IV YEAR II SEMESTER,1,Professional,Elective – V,3,0,0,3
+CSIT,R25,IV YEAR II SEMESTER,2,Professional,Elective – VI,3,0,0,3
+CSIT,R25,IV YEAR II SEMESTER,3,Project,Work,0,0,28,14

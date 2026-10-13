@@ -1,0 +1,264 @@
+query,branch,relevant_skill
+AIML curriculum algorithms,AIML,algorithms
+AIML curriculum artificial intelligence,AIML,artificial intelligence
+AIML curriculum business economics,AIML,business economics
+AIML curriculum c programming,AIML,c programming
+AIML curriculum cad,AIML,cad
+AIML curriculum capstone project,AIML,capstone project
+AIML curriculum chatbots,AIML,chatbots
+AIML curriculum compiler design,AIML,compiler design
+AIML curriculum computer networks,AIML,computer networks
+AIML curriculum computer organization,AIML,computer organization
+AIML curriculum data analytics,AIML,data analytics
+AIML curriculum data structures,AIML,data structures
+AIML curriculum data visualization,AIML,data visualization
+AIML curriculum database management,AIML,database management
+AIML curriculum deep learning,AIML,deep learning
+AIML curriculum discrete mathematics,AIML,discrete mathematics
+AIML curriculum electrical engineering,AIML,electrical engineering
+AIML curriculum electronic circuits,AIML,electronic circuits
+AIML curriculum electronics,AIML,electronics
+AIML curriculum environmental engineering,AIML,environmental engineering
+AIML curriculum generative ai,AIML,generative ai
+AIML curriculum internship,AIML,internship
+AIML curriculum java,AIML,java
+AIML curriculum machine learning,AIML,machine learning
+AIML curriculum material science,AIML,material science
+AIML curriculum mathematics,AIML,mathematics
+AIML curriculum mobile app development,AIML,mobile app development
+AIML curriculum natural language processing,AIML,natural language processing
+AIML curriculum node.js,AIML,node.js
+AIML curriculum operating systems,AIML,operating systems
+AIML curriculum programming languages,AIML,programming languages
+AIML curriculum python,AIML,python
+AIML curriculum reinforcement learning,AIML,reinforcement learning
+AIML curriculum research,AIML,research
+AIML curriculum software engineering,AIML,software engineering
+AIML curriculum sql,AIML,sql
+AIML curriculum statistics,AIML,statistics
+AIML curriculum workshop practice,AIML,workshop practice
+CIVIL curriculum business analytics,CIVIL,business analytics
+CIVIL curriculum c programming,CIVIL,c programming
+CIVIL curriculum cad,CIVIL,cad
+CIVIL curriculum capstone project,CIVIL,capstone project
+CIVIL curriculum civil engineering software,CIVIL,civil engineering software
+CIVIL curriculum electrical engineering,CIVIL,electrical engineering
+CIVIL curriculum electronics,CIVIL,electronics
+CIVIL curriculum engineering geology,CIVIL,engineering geology
+CIVIL curriculum engineering mechanics,CIVIL,engineering mechanics
+CIVIL curriculum environmental engineering,CIVIL,environmental engineering
+CIVIL curriculum fluid mechanics,CIVIL,fluid mechanics
+CIVIL curriculum foundation engineering,CIVIL,foundation engineering
+CIVIL curriculum geomatics,CIVIL,geomatics
+CIVIL curriculum geotechnical engineering,CIVIL,geotechnical engineering
+CIVIL curriculum hydraulic structures,CIVIL,hydraulic structures
+CIVIL curriculum hydraulics,CIVIL,hydraulics
+CIVIL curriculum industry project,CIVIL,industry project
+CIVIL curriculum internet of things,CIVIL,internet of things
+CIVIL curriculum material science,CIVIL,material science
+CIVIL curriculum material testing,CIVIL,material testing
+CIVIL curriculum mathematics,CIVIL,mathematics
+CIVIL curriculum pavement engineering,CIVIL,pavement engineering
+CIVIL curriculum probability,CIVIL,probability
+CIVIL curriculum project management,CIVIL,project management
+CIVIL curriculum python,CIVIL,python
+CIVIL curriculum quantity surveying,CIVIL,quantity surveying
+CIVIL curriculum soil mechanics,CIVIL,soil mechanics
+CIVIL curriculum strength of materials,CIVIL,strength of materials
+CIVIL curriculum structural analysis,CIVIL,structural analysis
+CIVIL curriculum surveying,CIVIL,surveying
+CIVIL curriculum transportation engineering,CIVIL,transportation engineering
+CIVIL curriculum water resources,CIVIL,water resources
+CIVIL curriculum workshop practice,CIVIL,workshop practice
+CSE curriculum algorithms,CSE,algorithms
+CSE curriculum artificial intelligence,CSE,artificial intelligence
+CSE curriculum big data,CSE,big data
+CSE curriculum c programming,CSE,c programming
+CSE curriculum cad,CSE,cad
+CSE curriculum capstone project,CSE,capstone project
+CSE curriculum compiler design,CSE,compiler design
+CSE curriculum computer architecture,CSE,computer architecture
+CSE curriculum computer hardware,CSE,computer hardware
+CSE curriculum computer networks,CSE,computer networks
+CSE curriculum cyber security,CSE,cyber security
+CSE curriculum data structures,CSE,data structures
+CSE curriculum data visualization,CSE,data visualization
+CSE curriculum deep learning,CSE,deep learning
+CSE curriculum devops,CSE,devops
+CSE curriculum discrete mathematics,CSE,discrete mathematics
+CSE curriculum electrical engineering,CSE,electrical engineering
+CSE curriculum electronic circuits,CSE,electronic circuits
+CSE curriculum electronics,CSE,electronics
+CSE curriculum environmental engineering,CSE,environmental engineering
+CSE curriculum java,CSE,java
+CSE curriculum machine learning,CSE,machine learning
+CSE curriculum material science,CSE,material science
+CSE curriculum mathematics,CSE,mathematics
+CSE curriculum mobile app development,CSE,mobile app development
+CSE curriculum natural language processing,CSE,natural language processing
+CSE curriculum node.js,CSE,node.js
+CSE curriculum operating systems,CSE,operating systems
+CSE curriculum programming languages,CSE,programming languages
+CSE curriculum python,CSE,python
+CSE curriculum software engineering,CSE,software engineering
+CSE curriculum sql,CSE,sql
+CSE curriculum statistics,CSE,statistics
+CSE curriculum workshop practice,CSE,workshop practice
+DS curriculum algorithms,DS,algorithms
+DS curriculum artificial intelligence,DS,artificial intelligence
+DS curriculum big data,DS,big data
+DS curriculum c programming,DS,c programming
+DS curriculum cad,DS,cad
+DS curriculum capstone project,DS,capstone project
+DS curriculum computer networks,DS,computer networks
+DS curriculum computer organization,DS,computer organization
+DS curriculum data mining,DS,data mining
+DS curriculum data science,DS,data science
+DS curriculum data structures,DS,data structures
+DS curriculum data visualization,DS,data visualization
+DS curriculum discrete mathematics,DS,discrete mathematics
+DS curriculum electrical engineering,DS,electrical engineering
+DS curriculum electronic circuits,DS,electronic circuits
+DS curriculum electronics,DS,electronics
+DS curriculum environmental engineering,DS,environmental engineering
+DS curriculum generative ai,DS,generative ai
+DS curriculum internship,DS,internship
+DS curriculum java,DS,java
+DS curriculum machine learning,DS,machine learning
+DS curriculum material science,DS,material science
+DS curriculum mathematics,DS,mathematics
+DS curriculum mobile app development,DS,mobile app development
+DS curriculum node.js,DS,node.js
+DS curriculum operating systems,DS,operating systems
+DS curriculum programming languages,DS,programming languages
+DS curriculum python,DS,python
+DS curriculum r programming,DS,r programming
+DS curriculum software engineering,DS,software engineering
+DS curriculum sql,DS,sql
+DS curriculum statistics,DS,statistics
+DS curriculum workshop practice,DS,workshop practice
+ECE curriculum 5g,ECE,5g
+ECE curriculum antenna design,ECE,antenna design
+ECE curriculum business analytics,ECE,business analytics
+ECE curriculum c programming,ECE,c programming
+ECE curriculum cad,ECE,cad
+ECE curriculum capstone project,ECE,capstone project
+ECE curriculum circuit analysis,ECE,circuit analysis
+ECE curriculum communication systems,ECE,communication systems
+ECE curriculum control systems,ECE,control systems
+ECE curriculum data structures,ECE,data structures
+ECE curriculum digital electronics,ECE,digital electronics
+ECE curriculum digital signal processing,ECE,digital signal processing
+ECE curriculum electrical engineering,ECE,electrical engineering
+ECE curriculum electromagnetics,ECE,electromagnetics
+ECE curriculum electronic circuits,ECE,electronic circuits
+ECE curriculum electronic devices,ECE,electronic devices
+ECE curriculum electronics,ECE,electronics
+ECE curriculum embedded systems,ECE,embedded systems
+ECE curriculum environmental engineering,ECE,environmental engineering
+ECE curriculum industry project,ECE,industry project
+ECE curriculum integrated circuits,ECE,integrated circuits
+ECE curriculum internet of things,ECE,internet of things
+ECE curriculum material science,ECE,material science
+ECE curriculum mathematics,ECE,mathematics
+ECE curriculum microcontrollers,ECE,microcontrollers
+ECE curriculum microwave engineering,ECE,microwave engineering
+ECE curriculum network analysis,ECE,network analysis
+ECE curriculum probability,ECE,probability
+ECE curriculum programming languages,ECE,programming languages
+ECE curriculum python,ECE,python
+ECE curriculum robotics,ECE,robotics
+ECE curriculum scripting,ECE,scripting
+ECE curriculum signal processing,ECE,signal processing
+ECE curriculum vlsi,ECE,vlsi
+ECE curriculum workshop practice,ECE,workshop practice
+EEE curriculum analog electronics,EEE,analog electronics
+EEE curriculum business analytics,EEE,business analytics
+EEE curriculum c programming,EEE,c programming
+EEE curriculum capstone project,EEE,capstone project
+EEE curriculum circuit analysis,EEE,circuit analysis
+EEE curriculum control systems,EEE,control systems
+EEE curriculum digital electronics,EEE,digital electronics
+EEE curriculum electric vehicles,EEE,electric vehicles
+EEE curriculum electrical machines,EEE,electrical machines
+EEE curriculum electromagnetics,EEE,electromagnetics
+EEE curriculum electronics,EEE,electronics
+EEE curriculum environmental engineering,EEE,environmental engineering
+EEE curriculum ev charging,EEE,ev charging
+EEE curriculum industry project,EEE,industry project
+EEE curriculum material science,EEE,material science
+EEE curriculum mathematics,EEE,mathematics
+EEE curriculum microcontrollers,EEE,microcontrollers
+EEE curriculum power electronics,EEE,power electronics
+EEE curriculum power system protection,EEE,power system protection
+EEE curriculum power systems,EEE,power systems
+EEE curriculum python,EEE,python
+EEE curriculum renewable energy,EEE,renewable energy
+EEE curriculum sensors,EEE,sensors
+EEE curriculum smart grid,EEE,smart grid
+EEE curriculum workshop practice,EEE,workshop practice
+IT curriculum algorithms,IT,algorithms
+IT curriculum big data,IT,big data
+IT curriculum c programming,IT,c programming
+IT curriculum capstone project,IT,capstone project
+IT curriculum compiler design,IT,compiler design
+IT curriculum computer networks,IT,computer networks
+IT curriculum computer organization,IT,computer organization
+IT curriculum data structures,IT,data structures
+IT curriculum data visualization,IT,data visualization
+IT curriculum deep learning,IT,deep learning
+IT curriculum discrete mathematics,IT,discrete mathematics
+IT curriculum electrical engineering,IT,electrical engineering
+IT curriculum electronics,IT,electronics
+IT curriculum embedded systems,IT,embedded systems
+IT curriculum environmental engineering,IT,environmental engineering
+IT curriculum full stack development,IT,full stack development
+IT curriculum information security,IT,information security
+IT curriculum internet of things,IT,internet of things
+IT curriculum java,IT,java
+IT curriculum machine learning,IT,machine learning
+IT curriculum material science,IT,material science
+IT curriculum mathematics,IT,mathematics
+IT curriculum mobile app development,IT,mobile app development
+IT curriculum node.js,IT,node.js
+IT curriculum operating systems,IT,operating systems
+IT curriculum programming languages,IT,programming languages
+IT curriculum software engineering,IT,software engineering
+IT curriculum sql,IT,sql
+IT curriculum web security,IT,web security
+IT curriculum workshop practice,IT,workshop practice
+MECH curriculum 3d printing,MECH,3d printing
+MECH curriculum business analytics,MECH,business analytics
+MECH curriculum c programming,MECH,c programming
+MECH curriculum cad,MECH,cad
+MECH curriculum cae,MECH,cae
+MECH curriculum capstone project,MECH,capstone project
+MECH curriculum data analytics,MECH,data analytics
+MECH curriculum dynamics,MECH,dynamics
+MECH curriculum electrical engineering,MECH,electrical engineering
+MECH curriculum electronics,MECH,electronics
+MECH curriculum engineering mechanics,MECH,engineering mechanics
+MECH curriculum environmental engineering,MECH,environmental engineering
+MECH curriculum finite element analysis,MECH,finite element analysis
+MECH curriculum fluid mechanics,MECH,fluid mechanics
+MECH curriculum heat transfer,MECH,heat transfer
+MECH curriculum industrial management,MECH,industrial management
+MECH curriculum industry project,MECH,industry project
+MECH curriculum instrumentation,MECH,instrumentation
+MECH curriculum kinematics,MECH,kinematics
+MECH curriculum machine design,MECH,machine design
+MECH curriculum manufacturing,MECH,manufacturing
+MECH curriculum material science,MECH,material science
+MECH curriculum mathematics,MECH,mathematics
+MECH curriculum mechanical engineering,MECH,mechanical engineering
+MECH curriculum metrology,MECH,metrology
+MECH curriculum microprocessors,MECH,microprocessors
+MECH curriculum operations research,MECH,operations research
+MECH curriculum probability,MECH,probability
+MECH curriculum python,MECH,python
+MECH curriculum robotics,MECH,robotics
+MECH curriculum simulation,MECH,simulation
+MECH curriculum solid mechanics,MECH,solid mechanics
+MECH curriculum thermal engineering,MECH,thermal engineering
+MECH curriculum thermodynamics,MECH,thermodynamics
+MECH curriculum workshop practice,MECH,workshop practice

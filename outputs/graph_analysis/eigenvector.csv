@@ -1,0 +1,297 @@
+node,type,eigenvector
+IT,Branch,0.29428717486759415
+DS,Branch,0.29281912071164623
+AIML,Branch,0.2896837252438711
+CSE,Branch,0.27807715817575895
+ECE,Branch,0.22266056322772249
+MECH,Branch,0.19049995406051257
+EEE,Branch,0.1895506833519552
+CIVIL,Branch,0.16306225300759222
+agentic ai,Skill,0.12416149111205782
+sql,Skill,0.12416149111205782
+llm,Skill,0.12416149111205782
+knowledge graph,Skill,0.12416149111205782
+pytorch,Skill,0.12416149111205782
+rag,Skill,0.12416149111205782
+python,Skill,0.12416149111205782
+machine learning,Skill,0.12416149111205782
+mlops,Skill,0.12416149111205782
+nlp,Skill,0.12416149111205782
+tensorflow,Skill,0.12416149111205782
+llmops,Skill,0.12416149111205782
+deep learning,Skill,0.12416149111205782
+research,Skill,0.11298871516789342
+data structures,Skill,0.11298871516789342
+c programming,Skill,0.11298871516789342
+artificial intelligence,Skill,0.10339598129225884
+algorithms,Skill,0.10339598129225884
+capstone project,Skill,0.09662980851677162
+Research,Research,0.09496031274420974
+Industry,Industry,0.09496031274420974
+iot,Skill,0.09218912422437554
+operating systems,Skill,0.08103811148045544
+cyber security,Skill,0.08103811148045544
+image processing,Skill,0.08103811148045544
+computer networks,Skill,0.08103811148045544
+digital electronics,Skill,0.0751474187829726
+software testing,Skill,0.06793928886365395
+compiler design,Skill,0.06793928886365395
+cloud computing,Skill,0.06793928886365395
+automata,Skill,0.06793928886365395
+computer graphics,Skill,0.06793928886365395
+django,Skill,0.06793928886365395
+information retrieval,Skill,0.06793928886365395
+nodejs,Skill,0.06793928886365395
+java,Skill,0.06793928886365395
+quantum computing,Skill,0.06793928886365395
+scripting,Skill,0.06793928886365395
+react,Skill,0.06793928886365395
+flutter,Skill,0.06793928886365395
+data analytics,Skill,0.06793928886365395
+devops,Skill,0.06793928886365395
+software engineering,Skill,0.06793928886365395
+database management,Skill,0.06467920482933363
+project management,Skill,0.0604903172978856
+embedded systems,Skill,0.057921262226964726
+data mining,Skill,0.05158038221253217
+discrete mathematics,Skill,0.05158038221253217
+computer organization,Skill,0.05158038221253217
+mobile app development,Skill,0.05158038221253217
+data visualization,Skill,0.05089758342225101
+big data,Skill,0.05089758342225101
+r programming,Skill,0.05089758342225101
+blockchain,Skill,0.05089758342225101
+power bi,Skill,0.05089758342225101
+statistics,Skill,0.0506267686485326
+computer architecture,Skill,0.04677024948304461
+robotics,Skill,0.045474719065294114
+industry project,Skill,0.04504942630423948
+business analytics,Skill,0.04504942630423948
+electrical engineering,Skill,0.04504942630423948
+electronics,Skill,0.04504942630423948
+instrumentation,Skill,0.03545669242860489
+control systems,Skill,0.03545669242860489
+organizational behavior,Skill,0.03453867677112923
+sensor networks,Skill,0.03435422565652431
+virtual reality,Skill,0.03435422565652431
+augmented reality,Skill,0.03435422565652431
+pattern recognition,Skill,0.03435422565652431
+internship,Skill,0.03426786199741082
+web development,Skill,0.03426786199741082
+data science,Skill,0.03426786199741082
+data warehousing,Skill,0.03426786199741082
+computer vision,Skill,0.03426786199741082
+programming languages,Skill,0.033671426866243144
+distributed systems,Skill,0.033671426866243144
+spark,Skill,0.033671426866243144
+chatbots,Skill,0.03340061209252474
+graph theory,Skill,0.03340061209252474
+rpa,Skill,0.03340061209252474
+hydraulics,Skill,0.03195060368743801
+real time systems,Skill,0.030411342831922823
+cryptography,Skill,0.030324979172809328
+social network analysis,Skill,0.030140528058204413
+management,Skill,0.027509919395041906
+mobile development,Skill,0.027509919395041906
+signal processing,Skill,0.024249835360721585
+analog electronics,Skill,0.024249835360721585
+digital signal processing,Skill,0.024249835360721585
+electromagnetics,Skill,0.024249835360721585
+circuit analysis,Skill,0.024249835360721585
+microcontrollers,Skill,0.024249835360721585
+renewable energy,Skill,0.022357869811803426
+electric vehicles,Skill,0.022357869811803426
+workshop practice,Skill,0.020799590943517892
+fluid mechanics,Skill,0.020799590943517892
+engineering mechanics,Skill,0.020799590943517892
+cad,Skill,0.020799590943517892
+manufacturing,Skill,0.020799590943517892
+information security,Skill,0.01731252021512136
+intrusion detection,Skill,0.01731252021512136
+full stack development,Skill,0.01731252021512136
+human computer interaction,Skill,0.01731252021512136
+advanced operating systems,Skill,0.01731252021512136
+biometrics,Skill,0.01731252021512136
+high performance computing,Skill,0.01731252021512136
+cyber forensics,Skill,0.01731252021512136
+distributed databases,Skill,0.01731252021512136
+c++,Skill,0.01731252021512136
+video analytics,Skill,0.017226156556007864
+social media mining,Skill,0.017226156556007864
+storage management,Skill,0.017226156556007864
+parallel computing,Skill,0.017226156556007864
+multimedia databases,Skill,0.017226156556007864
+talend,Skill,0.017226156556007864
+kafka,Skill,0.017226156556007864
+social media analytics,Skill,0.017226156556007864
+data privacy,Skill,0.017226156556007864
+database security,Skill,0.017226156556007864
+etl,Skill,0.017226156556007864
+distributed computing,Skill,0.017226156556007864
+data stream mining,Skill,0.017226156556007864
+ad hoc networks,Skill,0.01704170544140295
+cognitive computing,Skill,0.01704170544140295
+federated machine learning,Skill,0.01704170544140295
+expert systems,Skill,0.01704170544140295
+semantic web,Skill,0.01704170544140295
+game theory,Skill,0.01704170544140295
+financial analysis,Skill,0.01704170544140295
+randomized algorithms,Skill,0.01704170544140295
+reasoning,Skill,0.01704170544140295
+conversational ai,Skill,0.01704170544140295
+pyswip,Skill,0.01704170544140295
+prolog,Skill,0.01704170544140295
+nature inspired computing,Skill,0.01704170544140295
+mobile computing,Skill,0.01704170544140295
+video processing,Skill,0.01704170544140295
+mathematics,Skill,0.01704170544140295
+business economics,Skill,0.01704170544140295
+knowledge representation,Skill,0.01704170544140295
+lisp,Skill,0.01704170544140295
+speech processing,Skill,0.01704170544140295
+evolutionary computing,Skill,0.01704170544140295
+distributed database,Skill,0.016358906651121788
+wireless networks,Skill,0.016358906651121788
+javascript,Skill,0.016358906651121788
+agile,Skill,0.016358906651121788
+complexity theory,Skill,0.016358906651121788
+computer fundamentals,Skill,0.016358906651121788
+computer hardware,Skill,0.016358906651121788
+soft computing,Skill,0.016358906651121788
+database,Skill,0.016358906651121788
+html,Skill,0.016358906651121788
+full stack,Skill,0.016358906651121788
+pandas,Skill,0.016358906651121788
+hci,Skill,0.016358906651121788
+digital forensics,Skill,0.016358906651121788
+css,Skill,0.016358906651121788
+oop,Skill,0.016358906651121788
+antenna design,Skill,0.013098822616801469
+biomedical engineering,Skill,0.013098822616801469
+5g,Skill,0.013098822616801469
+wireless sensor networks,Skill,0.013098822616801469
+analog ic design,Skill,0.013098822616801469
+cmos,Skill,0.013098822616801469
+communication systems,Skill,0.013098822616801469
+data communication,Skill,0.013098822616801469
+sensors,Skill,0.013098822616801469
+electronic devices,Skill,0.013098822616801469
+electronic measurements,Skill,0.013098822616801469
+electronic circuits,Skill,0.013098822616801469
+analog circuits,Skill,0.013098822616801469
+radar,Skill,0.013098822616801469
+healthcare electronics,Skill,0.013098822616801469
+satellite communication,Skill,0.013098822616801469
+mobile communication,Skill,0.013098822616801469
+integrated circuits,Skill,0.013098822616801469
+probability,Skill,0.013098822616801469
+optical communication,Skill,0.013098822616801469
+network analysis,Skill,0.013098822616801469
+microwave engineering,Skill,0.013098822616801469
+logic design,Skill,0.013098822616801469
+wireless communication,Skill,0.013098822616801469
+vlsi,Skill,0.013098822616801469
+stochastic processes,Skill,0.013098822616801469
+transmission lines,Skill,0.013098822616801469
+telecommunication,Skill,0.013098822616801469
+system on chip,Skill,0.013098822616801469
+turbomachinery,Skill,0.01120685706788331
+vibration analysis,Skill,0.01120685706788331
+thermodynamics,Skill,0.01120685706788331
+thermal engineering,Skill,0.01120685706788331
+operations research,Skill,0.01120685706788331
+jet propulsion,Skill,0.01120685706788331
+microprocessors,Skill,0.01120685706788331
+cfd,Skill,0.01120685706788331
+solar energy,Skill,0.01120685706788331
+lubrication,Skill,0.01120685706788331
+machine design,Skill,0.01120685706788331
+solid mechanics,Skill,0.01120685706788331
+machine tools,Skill,0.01120685706788331
+kinematics,Skill,0.01120685706788331
+metrology,Skill,0.01120685706788331
+cae,Skill,0.01120685706788331
+mechatronics,Skill,0.01120685706788331
+mechanical engineering,Skill,0.01120685706788331
+materials engineering,Skill,0.01120685706788331
+material science,Skill,0.01120685706788331
+cam,Skill,0.01120685706788331
+finite element analysis,Skill,0.01120685706788331
+fuzzy logic,Skill,0.01120685706788331
+reengineering,Skill,0.01120685706788331
+heat transfer,Skill,0.01120685706788331
+hvac,Skill,0.01120685706788331
+refrigeration,Skill,0.01120685706788331
+gas turbines,Skill,0.01120685706788331
+quality management,Skill,0.01120685706788331
+production planning,Skill,0.01120685706788331
+industry 4.0,Skill,0.01120685706788331
+industrial management,Skill,0.01120685706788331
+internal combustion engines,Skill,0.01120685706788331
+industrial automation,Skill,0.01120685706788331
+power plants,Skill,0.01120685706788331
+power engineering,Skill,0.01120685706788331
+dynamics,Skill,0.01120685706788331
+automation,Skill,0.01120685706788331
+advanced manufacturing,Skill,0.01120685706788331
+3d printing,Skill,0.01120685706788331
+energy management,Skill,0.01120685706788331
+automobile engineering,Skill,0.01120685706788331
+artificial neural networks,Skill,0.01120685706788331
+composite materials,Skill,0.01120685706788331
+fluid power,Skill,0.01120685706788331
+ev charging,Skill,0.011151012743920117
+electrical machines,Skill,0.011151012743920117
+simulation,Skill,0.011151012743920117
+power system protection,Skill,0.011151012743920117
+power systems,Skill,0.011151012743920117
+power quality,Skill,0.011151012743920117
+hvdc,Skill,0.011151012743920117
+battery technology,Skill,0.011151012743920117
+cyber physical systems,Skill,0.011151012743920117
+energy storage,Skill,0.011151012743920117
+electric power,Skill,0.011151012743920117
+smart grid,Skill,0.011151012743920117
+electrical machine design,Skill,0.011151012743920117
+electrical distribution,Skill,0.011151012743920117
+facts,Skill,0.011151012743920117
+high voltage engineering,Skill,0.011151012743920117
+power system reliability,Skill,0.011151012743920117
+reliability engineering,Skill,0.011151012743920117
+power electronics,Skill,0.011151012743920117
+air pollution,Skill,0.009592733875634583
+strength of materials,Skill,0.009592733875634583
+structural analysis,Skill,0.009592733875634583
+surveying,Skill,0.009592733875634583
+pavement engineering,Skill,0.009592733875634583
+pavement design,Skill,0.009592733875634583
+civil engineering,Skill,0.009592733875634583
+civil engineering software,Skill,0.009592733875634583
+material testing,Skill,0.009592733875634583
+water resources,Skill,0.009592733875634583
+solid waste management,Skill,0.009592733875634583
+steel structures,Skill,0.009592733875634583
+soil mechanics,Skill,0.009592733875634583
+transportation engineering,Skill,0.009592733875634583
+transport infrastructure,Skill,0.009592733875634583
+hydraulic structures,Skill,0.009592733875634583
+prestressed concrete,Skill,0.009592733875634583
+hydraulic machinery,Skill,0.009592733875634583
+geomatics,Skill,0.009592733875634583
+building materials,Skill,0.009592733875634583
+geotechnical engineering,Skill,0.009592733875634583
+green buildings,Skill,0.009592733875634583
+ground improvement,Skill,0.009592733875634583
+groundwater hydrology,Skill,0.009592733875634583
+reinforced concrete,Skill,0.009592733875634583
+quantity surveying,Skill,0.009592733875634583
+foundation engineering,Skill,0.009592733875634583
+retaining structures,Skill,0.009592733875634583
+smart cities,Skill,0.009592733875634583
+slope stability,Skill,0.009592733875634583
+construction management,Skill,0.009592733875634583
+environmental impact assessment,Skill,0.009592733875634583
+engineering geology,Skill,0.009592733875634583
+earthquake engineering,Skill,0.009592733875634583
+environmental engineering,Skill,0.009592733875634583
+concrete technology,Skill,0.009592733875634583

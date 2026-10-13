@@ -1,0 +1,52 @@
+Branch : EEE
+
+Curriculum Skills
+========================================
+
+- algorithms
+- analog electronics
+- artificial intelligence
+- battery technology
+- business analytics
+- c programming
+- capstone project
+- circuit analysis
+- control systems
+- cyber physical systems
+- data structures
+- digital electronics
+- digital signal processing
+- electric power
+- electric vehicles
+- electrical distribution
+- electrical engineering
+- electrical machine design
+- electrical machines
+- electromagnetics
+- electronics
+- embedded systems
+- energy storage
+- ev charging
+- facts
+- high voltage engineering
+- hvdc
+- hydraulics
+- industry project
+- instrumentation
+- iot
+- machine learning
+- management
+- microcontrollers
+- mobile development
+- power electronics
+- power quality
+- power system protection
+- power system reliability
+- power systems
+- python
+- reliability engineering
+- renewable energy
+- research
+- signal processing
+- simulation
+- smart grid

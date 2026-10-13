@@ -1,0 +1,55 @@
+branch,regulation,year_semester,s_no,course_code,course_title,L,T,P,credits
+EEE,R25,I YEAR I SEMESTER,1,BSC,Matrices and Calculus,3,1,0,4
+EEE,R25,I YEAR I SEMESTER,2,BSC,Engineering Chemistry,3,0,0,3
+EEE,R25,I YEAR I SEMESTER,3,CSC,C and Data Structures,3,0,0,3
+EEE,R25,I YEAR I SEMESTER,4,ESC,Analog Electronics,2,0,0,2
+EEE,R25,I YEAR I SEMESTER,5,ESC,Electrical Circuits - I,3,0,0,3
+EEE,R25,I YEAR I SEMESTER,6,HSC,English for Skill Enhancement,3,0,0,3
+EEE,R25,I YEAR I SEMESTER,7,BSC,Engineering Chemistry Laboratory,0,0,2,1
+EEE,R25,I YEAR I SEMESTER,8,CSC,C and Data Structures Laboratory,0,0,2,1
+EEE,R25,I YEAR II SEMESTER,1,BSC,Ordinary Differential Equations and Vector Calculus,3,0,0,3
+EEE,R25,I YEAR II SEMESTER,2,BSC,Applied Physics,3,0,0,3
+EEE,R25,I YEAR II SEMESTER,3,ESC,Electromagnetic fields,2,0,0,2
+EEE,R25,I YEAR II SEMESTER,4,MEC,Engineering Graphics and Computer Aided Drafting,2,0,2,3
+EEE,R25,I YEAR II SEMESTER,5,,Dept. Core    Electrical Circuits - II,3,0,0,3
+EEE,R25,I YEAR II SEMESTER,6,MEC,Engineering Workshop,0,0,2,1
+EEE,R25,I YEAR II SEMESTER,7,CSC,IoT and Python Programming Laboratory 1*,0,,2,2
+EEE,R25,I YEAR II SEMESTER,8,BSC,Applied Physics Laboratory,0,0,2,1
+EEE,R25,I YEAR II SEMESTER,9,ESC,Analog Electronics Laboratory,0,0,2,1
+EEE,R25,I YEAR II SEMESTER,10,ESC,Electrical Circuits Laboratory,0,0,2,1
+EEE,R25,II YEAR I SEMESTER,1,,Dept. Core    Control Systems,3,0,0,3
+EEE,R25,II YEAR I SEMESTER,2,,Dept. Core    Electrical Machines - I,3,0,0,3
+EEE,R25,II YEAR I SEMESTER,3,,Dept. Core    Digital Electronics,3,0,0,3
+EEE,R25,II YEAR I SEMESTER,4,,Dept. Core    Power Systems - I,3,0,0,3
+EEE,R25,II YEAR I SEMESTER,5,,Dept. Core    Electrical Measurements and Sensors,3,0,0,3
+EEE,R25,II YEAR I SEMESTER,6,Innovation,and Entrepreneurship,2,0,0,2
+EEE,R25,II YEAR I SEMESTER,11,MC,Environmental Science,1,0,0,0
+EEE,R25,II YEAR II SEMESTER,1,BSC,Numerical Methods and Complex Variables,3,1,0,4
+EEE,R25,II YEAR II SEMESTER,2,,Dept. Core    Electrical Machines - II,3,0,0,3
+EEE,R25,II YEAR II SEMESTER,3,,Dept. Core    Power Systems - II,3,0,0,3
+EEE,R25,II YEAR II SEMESTER,4,,Dept. Core    Power Electronics,3,0,0,3
+EEE,R25,II YEAR II SEMESTER,5,,Dept. Core    Microprocessors and Microcontrollers,3,0,0,3
+EEE,R25,II YEAR II SEMESTER,8,Microprocessors,and Microcontrollers Laboratory,0,0,2,1
+EEE,R25,III YEAR I SEMESTER,1,,Dept. Core     Power Semiconductor Drives,3,0,0,3
+EEE,R25,III YEAR I SEMESTER,2,,Dept. Core     Power System Protection,3,1,0,4
+EEE,R25,III YEAR I SEMESTER,3,,Dept. Core     Power Electronics for Renewable Energy Systems,3,0,0,3
+EEE,R25,III YEAR I SEMESTER,4,Professional,Elective-I,3,0,0,3
+EEE,R25,III YEAR I SEMESTER,5,Open,Elective-I,2,0,0,2
+EEE,R25,III YEAR I SEMESTER,9,Field-Based,Project/Internship,0,0,4,2
+EEE,R25,III YEAR I SEMESTER,11,MC,Indian Knowledge System,1,0,0,0
+EEE,R25,III YEAR II SEMESTER,1,,Dept. Core       Power System Operation and Control,3,1,0,4
+EEE,R25,III YEAR II SEMESTER,2,,Dept. Core       Hybrid Electric Vehicles,3,0,0,3
+EEE,R25,III YEAR II SEMESTER,3,Business,Economics and Financial Analysis/,3,0,0,3
+EEE,R25,III YEAR II SEMESTER,4,Professional,Elective-II,3,0,0,3
+EEE,R25,III YEAR II SEMESTER,5,Open,Elective – II,2,0,0,2
+EEE,R25,III YEAR II SEMESTER,9,HSC,English for Employability Skills Laboratory,0,0,2,1
+EEE,R25,IV YEAR I SEMESTER,1,,Dept. Core     Smart Metering and Communication Protocols,3,0,0,3
+EEE,R25,IV YEAR I SEMESTER,2,,Dept. Core     EV Charging Infrastructure,3,0,0,3
+EEE,R25,IV YEAR I SEMESTER,3,Business,Economics and Financial Analysis/,3,0,0,3
+EEE,R25,IV YEAR I SEMESTER,4,Professional,Elective - III,3,0,0,3
+EEE,R25,IV YEAR I SEMESTER,5,Professional,Elective – IV,3,0,0,3
+EEE,R25,IV YEAR I SEMESTER,6,Open,Elective – III,2,0,0,2
+EEE,R25,IV YEAR I SEMESTER,9,Industry,Oriented Mini Project/ Summer Internship,0,0,4,2
+EEE,R25,IV YEAR II SEMESTER,1,Professional,Elective – V,3,0,0,3
+EEE,R25,IV YEAR II SEMESTER,2,Professional,Elective – VI,3,0,0,3
+EEE,R25,IV YEAR II SEMESTER,3,Project,Work,0,0,28,14

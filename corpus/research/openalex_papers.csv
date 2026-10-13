@@ -1,0 +1,501 @@
+topic,title,year,citations
+retrieval augmented generation,Retrieval-Augmented Generation for Large Language Models: A Survey,2023,652
+retrieval augmented generation,Active Retrieval Augmented Generation,2023,328
+retrieval augmented generation,Benchmarking Large Language Models in Retrieval-Augmented Generation,2024,320
+retrieval augmented generation,Benchmarking Retrieval-Augmented Generation for Medicine,2024,212
+retrieval augmented generation,RAGAs: Automated Evaluation of Retrieval Augmented Generation,2024,269
+retrieval augmented generation,Improving the Domain Adaptation of Retrieval Augmented Generation (RAG) Models for Open Domain Question Answering,2023,276
+retrieval augmented generation,Evaluating Retrieval Quality in Retrieval-Augmented Generation,2024,121
+retrieval augmented generation,Evaluation of Retrieval-Augmented Generation: A Survey,2025,104
+retrieval augmented generation,Retrieval augmented generation for large language models in healthcare: A systematic review,2025,138
+retrieval augmented generation,Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering,2024,129
+retrieval augmented generation,Optimization of hepatological clinical guidelines interpretation by large language models: a retrieval augmented generation-based framework,2024,180
+retrieval augmented generation,Integrating Retrieval-Augmented Generation with Large Language Models in Nephrology: Advancing Practical Applications,2024,150
+retrieval augmented generation,Interactive AI With Retrieval-Augmented Generation for Next Generation Networking,2024,96
+retrieval augmented generation,Corrective Retrieval Augmented Generation,2025,77
+retrieval augmented generation,Retrieval-augmented generation for generative artificial intelligence in health care,2025,86
+retrieval augmented generation,Seven Failure Points When Engineering a Retrieval Augmented Generation System,2024,103
+retrieval augmented generation,Retrieval-Augmented Generation for AI-Generated Content: A Survey,2024,78
+retrieval augmented generation,LightRAG: Simple and Fast Retrieval-Augmented Generation,2025,82
+retrieval augmented generation,Development of a liver disease–specific large language model chat interface using retrieval-augmented generation,2024,132
+retrieval augmented generation,Searching for Best Practices in Retrieval-Augmented Generation,2024,78
+retrieval augmented generation,HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction,2024,100
+retrieval augmented generation,Retrieval-Augmented Generation (RAG) Chatbots for Education: A Survey of Applications,2025,73
+retrieval augmented generation,Retrieval-augmented generation for educational application: A systematic survey,2025,66
+retrieval augmented generation,GRAG: Graph Retrieval-Augmented Generation,2025,47
+retrieval augmented generation,Retrieval augmented generation for 10 large language models and its generalizability in assessing medical fitness,2025,98
+retrieval augmented generation,ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems,2024,83
+retrieval augmented generation,Rag-Fusion: A New Take on Retrieval Augmented Generation,2024,61
+retrieval augmented generation,Benchmarking Large Language Models in Retrieval-Augmented Generation,2023,53
+retrieval augmented generation,CareerX: A Retrieval-Augmented Generation Framework for Personalized AI-Driven Career Guidance,2023,89
+retrieval augmented generation,"Improving large language model applications in biomedicine with retrieval-augmented generation: a systematic review, meta-analysis, and clinical development guidelines",2025,112
+retrieval augmented generation,Design and Evaluation of a Retrieval-Augmented Generation Architecture for OWASP Security Data,2023,68
+retrieval augmented generation,Retrieval-Augmented Generation for Code Summarization via Hybrid GNN,2020,69
+retrieval augmented generation,Graph Retrieval-Augmented Generation: A Survey,2025,44
+retrieval augmented generation,Fine Tuning vs. Retrieval Augmented Generation for Less Popular Knowledge,2024,65
+retrieval augmented generation,CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs for Legal Question Answering,2024,78
+retrieval augmented generation,Retrieval-Augmented Generation–Enabled GPT-4 for Clinical Trial Screening,2024,69
+retrieval augmented generation,CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models,2024,78
+retrieval augmented generation,Retrieval augmented generation using engineering design knowledge,2024,52
+retrieval augmented generation,Performance comparison of retrieval-augmented generation and fine-tuned large language models for construction safety management knowledge retrieval,2024,88
+retrieval augmented generation,Applying generative AI with retrieval augmented generation to summarize and extract key clinical information from electronic health records,2024,112
+retrieval augmented generation,Enhancing medical AI with retrieval-augmented generation: A mini narrative review,2025,63
+retrieval augmented generation,The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG),2024,73
+retrieval augmented generation,MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot,2025,73
+retrieval augmented generation,Retrieval-augmented Generation across Heterogeneous Knowledge,2022,40
+retrieval augmented generation,Retrieval-Augmented Generation (RAG),2025,40
+retrieval augmented generation,Retrieval-Augmented Generation for AI-Generated Content: A Survey,2026,47
+retrieval augmented generation,Potential for GPT Technology to Optimize Future Clinical Decision-Making Using Retrieval-Augmented Generation,2023,68
+retrieval augmented generation,Graph Retrieval-Augmented Generation for Large Language Models: A Survey,2024,48
+retrieval augmented generation,Empowering LLMs by hybrid retrieval-augmented generation for domain-centric Q&amp;A in smart manufacturing,2025,62
+retrieval augmented generation,Retrieval augmented generation-driven information retrieval and question answering in construction management,2025,47
+retrieval augmented generation,An advanced retrieval-augmented generation system for manufacturing quality control,2024,43
+retrieval augmented generation,Corrective Retrieval Augmented Generation,2024,25
+retrieval augmented generation,Reducing hallucination in structured outputs via Retrieval-Augmented Generation,2024,52
+retrieval augmented generation,Automating Systematic Literature Reviews with Retrieval-Augmented Generation: A Comprehensive Overview,2024,45
+retrieval augmented generation,Retrieval-Augmented Generation (RAG) in Healthcare: A Comprehensive Review,2025,37
+retrieval augmented generation,Knowledge Graph-Guided Retrieval Augmented Generation,2025,40
+retrieval augmented generation,Improving Retrieval-Augmented Generation in Medicine with Iterative Follow-up Questions,2024,46
+retrieval augmented generation,Accelerating Retrieval-Augmented Generation,2025,25
+retrieval augmented generation,Effectiveness of retrieval augmented generation-based large language models for generating construction safety information,2024,58
+retrieval augmented generation,Systematic Analysis of Retrieval-Augmented Generation-Based LLMs for Medical Chatbot Applications,2024,48
+retrieval augmented generation,PRAG: Paninian Retrieval-Augmented Generation for Safety-Critical Medical Question Answering,2020,62
+retrieval augmented generation,Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy,2023,147
+retrieval augmented generation,Dynamic Retrieval Augmented Generation of Ontologies using Artificial Intelligence (DRAGON-AI),2024,44
+retrieval augmented generation,Benchmarking Retrieval-Augmented Generation for Medicine,2024,23
+retrieval augmented generation,DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models,2024,47
+retrieval augmented generation,RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation,2025,30
+retrieval augmented generation,CyberMetric: A Benchmark Dataset based on Retrieval-Augmented Generation for Evaluating LLMs in Cybersecurity Knowledge,2024,46
+retrieval augmented generation,GastroBot: a Chinese gastrointestinal disease chatbot based on the retrieval-augmented generation,2024,36
+retrieval augmented generation,Retrieval-Augmented Generation for Natural Language Processing: A Survey,2025,28
+retrieval augmented generation,Graph Retrieval-Augmented Generation: A Survey,2024,22
+retrieval augmented generation,Retrieval-Augmented Generation (RAG) and LLM Integration,2024,26
+retrieval augmented generation,Web Application for Retrieval-Augmented Generation: Implementation and Testing,2024,28
+retrieval augmented generation,Evaluating Retrieval-Augmented Generation Models for Financial Report Question and Answering,2024,34
+retrieval augmented generation,Knowledge graph enhanced retrieval-augmented generation for failure mode and effects analysis,2025,37
+retrieval augmented generation,Enhancing the Precision and Interpretability of Retrieval-Augmented Generation (RAG) in Legal Technology: A Survey,2025,37
+retrieval augmented generation,Enhancement of the Performance of Large Language Models in Diabetes Education through Retrieval-Augmented Generation: Comparative Study,2024,58
+retrieval augmented generation,Active Retrieval Augmented Generation,2023,17
+retrieval augmented generation,Analysis of Points of Interests Recommended for Leisure Walk Descriptions,2024,1291
+retrieval augmented generation,A Retrieval-Augmented Generation Approach for Data-Driven Energy Infrastructure Digital Twins,2024,36
+retrieval augmented generation,Evaluation of Retrieval-Augmented Generation: A Survey,2024,19
+retrieval augmented generation,Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs,2024,34
+retrieval augmented generation,SurgeryLLM: a retrieval-augmented generation large language model framework for surgical decision support and workflow enhancement,2024,38
+retrieval augmented generation,Enhancing textual textbook question answering with large language models and retrieval augmented generation,2025,36
+retrieval augmented generation,LightRAG: Simple and Fast Retrieval-Augmented Generation,2024,21
+retrieval augmented generation,Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG,2025,23
+retrieval augmented generation,Retrieval Augmented Generation or Long-Context LLMs? A Comprehensive Study and Hybrid Approach,2024,31
+retrieval augmented generation,Chatbots in Academia: A Retrieval-Augmented Generation Approach for Improved Efficient Information Access,2024,32
+retrieval augmented generation,Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation,2025,31
+retrieval augmented generation,"Application of NotebookLM, a large language model with retrieval-augmented generation, for lung cancer staging",2024,36
+retrieval augmented generation,Retrieval-Augmented Generation with Graphs (GraphRAG),2024,19
+retrieval augmented generation,Development of a Liver Disease-Specific Large Language Model Chat Interface using Retrieval Augmented Generation,2023,41
+retrieval augmented generation,RealGen: Retrieval Augmented Generation for Controllable Traffic Scenarios,2024,23
+retrieval augmented generation,Hybrid Retrieval-Augmented Generation Approach for LLMs Query Response Enhancement,2024,28
+retrieval augmented generation,Nanjing Yunjin intelligent question-answering system based on knowledge graphs and retrieval augmented generation technology,2024,36
+retrieval augmented generation,FlashRAG: A Modular Toolkit for Efficient Retrieval-Augmented Generation Research,2025,24
+retrieval augmented generation,Efficient Retrieval Augmented Generation from Unstructured Knowledge for Task-Oriented Dialog,2021,29
+retrieval augmented generation,Development and Testing of Retrieval Augmented Generation in Large Language Models,2024,26
+retrieval augmented generation,RAGLog: Log Anomaly Detection using Retrieval Augmented Generation,2024,30
+retrieval augmented generation,VistaRAG: Toward Safe and Trustworthy Autonomous Driving Through Retrieval-Augmented Generation,2024,28
+retrieval augmented generation,Generation-Augmented Retrieval for Open-Domain Question Answering,2021,141
+agentic ai,Agentic AI: Autonomous Intelligence for Complex Goals—A Comprehensive Survey,2025,424
+agentic ai,"Aion Framework: Dimensional Emergence of AI Consciousness, Observer-Induced Collapse, and Cosmological Portal Dynamics",2023,14225
+agentic ai,"AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges",2025,124
+agentic ai,The role of agentic AI in shaping a smart future: A systematic review,2025,152
+agentic ai,"AI Agents vs. Agentic AI: A Conceptual taxonomy, applications and challenges",2025,106
+agentic ai,Modelling social action for AI agents,1998,538
+agentic ai,Next-generation agentic AI for transforming healthcare,2025,99
+agentic ai,The rise of agentic AI teammates in medicine,2025,96
+agentic ai,"I, Chatbot: Modeling the determinants of users’ satisfaction and continuance intention of AI-powered service agents",2020,903
+agentic ai,"The Rise of Agentic AI: Implications, Concerns, and the Path Forward",2025,79
+agentic ai,Remote Agent: to boldly go where no AI system has gone before,1998,700
+agentic ai,"The Rise of Agentic AI: A Review of Definitions, Frameworks, Architectures, Applications, Evaluation Metrics, and Challenges",2025,83
+agentic ai,"Distributing Accountability, Not Capability: Phase Separation and the LLM Workflow Quadrant in Autonomous AI Agent Architectures",2022,551
+agentic ai,Agent AI: Surveying the Horizons of Multimodal Interaction,2024,48
+agentic ai,Empowering biomedical discovery with AI agents,2024,242
+agentic ai,Asymmetric Total Synthesis of the Gastroprotective Microbial Agent AI‐77‐B,2003,66
+agentic ai,Bots with Feelings: Should AI Agents Express Positive Emotion in Customer Service?,2022,252
+agentic ai,Systematic review and meta-analysis of AI-based conversational agents for promoting mental health and well-being,2023,446
+agentic ai,"Agentic AI: a comprehensive survey of architectures, applications, and future directions",2025,52
+agentic ai,"Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI",2019,8966
+agentic ai,"Agentic AI: A Comprehensive Survey of Technologies, Applications, and Societal Implications",2025,39
+agentic ai,Transforming cybersecurity with agentic AI to combat emerging cyber threats,2025,37
+agentic ai,AUTONOMOUS AGENTS AS EMBODIED AI,1997,140
+agentic ai,Agnostic Learning with Unknown Utilities,2016,1405
+agentic ai,"Generative AI and LLMs for Critical Infrastructure Protection: Evaluation Benchmarks, Agentic AI, Challenges, and Opportunities",2025,42
+agentic ai,Human-artificial interaction in the age of agentic AI: a system-theoretical approach,2025,45
+agentic ai,AI Agents and Agentic AI–navigating a plethora of concepts for future manufacturing,2025,26
+agentic ai,Agentic AI,2025,20
+agentic ai,Agentic AI: The building blocks of sophisticated AI business applications,2024,28
+agentic ai,Agentic AI: The age of reasoning—A review,2025,21
+agentic ai,Stereoselective Synthesis of Pseudopeptide Microbial Agent AI-77-B,2001,41
+agentic ai,"The need to move away from agential-AI: Empirical investigations, useful concepts and open issues",2021,50
+agentic ai,Learners’ perceived AI presences in AI-supported language learning: a study of AI as a humanized agent from community of inquiry,2022,156
+agentic ai,On agent-based software engineering,2000,1612
+agentic ai,CRYSTAL: a multi-agent AI system for automated mapping of materials’ crystal structures,2019,34
+agentic ai,Generative artificial intelligence (AI) powered conversational educational agents: The inevitable paradigm shift,2023,207
+agentic ai,"A Research Landscape of Agentic AI and Large Language Models: Applications, Challenges and Future Directions",2025,30
+agentic ai,LLM Agents for Smart City Management: Enhancing Decision Support Through Multi-Agent AI Systems,2025,39
+agentic ai,"Agent theories, architectures, and languages: A survey",1995,1357
+agentic ai,AI Agents and Agentic Systems: A Multi-Expert Analysis,2025,98
+agentic ai,"Whatever next? Predictive brains, situated agents, and the future of cognitive science",2013,5846
+agentic ai,Interactive Debugging and Steering of Multi-Agent AI Systems,2025,24
+agentic ai,From prompt to platform: an agentic AI workflow for healthcare simulation scenario design,2025,28
+agentic ai,"Autonomous Agents, AI, and Chaos Theory",1991,19
+agentic ai,"AI Agents as Team Members: Effects on Satisfaction, Conflict, Trustworthiness, and Willingness to Work With",2023,164
+agentic ai,Agentic AI in Predictive AIOps: Enhancing IT Autonomy and Performance,2024,18
+agentic ai,"Homo agenticus in the age of agentic AI: Agency loops, power displacement, and the circulation of responsibility",2025,31
+agentic ai,Mental Models of AI Agents in a Cooperative Game Setting,2020,114
+agentic ai,Multimodal Agent AI: A Survey of Recent Advances and Future Directions,2025,20
+agentic ai,Enabling Zero-Touch Operations in Telecom: The Convergence of Agentic AI and Advanced DevOps for OSS/BSS Ecosystems,2022,36
+agentic ai,AGENTIC AI: A COMPREHENSIVE FRAMEWORK FOR AUTONOMOUS DECISION-MAKING SYSTEMS IN ARTIFICIAL INTELLIGENCE,2025,22
+agentic ai,SustAI-SCM: Intelligent Supply Chain Process Automation with Agentic AI for Sustainability and Cost Efficiency,2025,37
+agentic ai,AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways,2025,137
+agentic ai,BreastScreening-AI: Evaluating medical intelligent agents for human-AI interactions,2022,116
+agentic ai,"Conversational AI: Dialogue Systems, Conversational Agents, and Chatbots",2020,137
+agentic ai,Industrial Agentic AI and generative modeling in complex systems,2025,17
+agentic ai,The Chatbot Usability Scale: the Design and Pilot of a Usability Scale for Interaction with AI-Based Conversational Agents,2021,214
+agentic ai,Scaling Laws for Neural Language Models,2020,1508
+agentic ai,"TRiSM for Agentic AI: A review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems",2026,21
+agentic ai,Agentic AI Frameworks in SMMEs: A Systematic Literature Review of Ecosystemic Interconnected Agents,2025,17
+agentic ai,Agentic AI Systems: What It Is and Isn't,2025,12
+agentic ai,AI-Based Conversational Agents: A Scoping Review From Technologies to Future Directions,2022,128
+agentic ai,Virtual agents and flow experience: An empirical examination of AI-powered chatbots,2022,155
+agentic ai,"AI agents, agentic AI, and the future of sales",2025,12
+agentic ai,AI-based chatbots in customer service and their effects on user compliance,2020,1072
+agentic ai,"AI4People—An Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations",2018,3487
+agentic ai,"Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",2019,4035
+agentic ai,Employing ai methods to control the behavior of animated interface agents,1999,138
+agentic ai,"Minds, brains, and programs",1980,6476
+agentic ai,The Arcade Learning Environment: An Evaluation Platform for General Agents,2013,1059
+agentic ai,Agentic AI in radiology: emerging potential and unresolved challenges,2025,14
+agentic ai,"Agentic AI: Autonomy, Accountability, and the Algorithmic Society",2025,18
+agentic ai,What (de) motivates customers to use AI-powered conversational agents for shopping? The extended behavioral reasoning perspective,2023,161
+agentic ai,Biomni: A General-Purpose Biomedical AI Agent,2025,86
+agentic ai,Smiling AI agents: How anthropomorphism and broad smiles increase charitable giving,2021,116
+agentic ai,Agentic AI in Education: State of the Art and Future Directions,2025,15
+agentic ai,"A contemporary review on chatbots, AI-powered virtual conversational agents, ChatGPT: Applications, open challenges and future research directions",2024,177
+agentic ai,Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models,2023,3553
+agentic ai,Adapt and overcome: Perceptions of adaptive autonomous agents for human-AI teaming,2022,98
+agentic ai,Retail Resilience Engine: An Agentic AI Framework for Building Reliable Retail Systems With Test-Driven Development Approach,2025,25
+agentic ai,Toward Agentic AI Networking in 6G: A Generative Foundation Model-as-Agent Approach,2025,14
+agentic ai,Visibility into AI Agents,2024,51
+agentic ai,Generative AI Agents With Large Language Model for Satellite Networks via a Mixture of Experts Transmission,2024,138
+agentic ai,Generative AI,2023,1170
+agentic ai,A digital twin framework for enhancing human–agentic AI–machine collaboration,2025,14
+agentic ai,An Agentic AI-based Multi-Agent Framework for Recommender Systems,2024,11
+agentic ai,Humanoid robotics and agentic AI: reframing management theories and future research directions,2025,20
+agentic ai,Economics of Agentic AI in the Health-Care Industry,2025,10
+agentic ai,Artificial Intelligence and Virtual Worlds – Toward Human-Level AI Agents,2018,91
+agentic ai,"Agentic AI: Autonomy, Accountability, and the Algorithmic Society",2025,10
+agentic ai,A real‐world rational agent: unifying old and new AI,2003,107
+agentic ai,An Analysis of the Principal-Agent Problem,1992,1971
+agentic ai,Generative AI at Work,2025,488
+agentic ai,Do You Mind if I Ask You a Personal Question? How AI Service Agents Alter Consumer Self-Disclosure,2022,144
+agentic ai,"Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Future Directions",2025,13
+agentic ai,"Porous PLGA microparticles: AI-700, an intravenously administered ultrasound contrast agent for use in echocardiography",2005,110
+agentic ai,Adoption of AI-based chatbots for hospitality and tourism,2020,888
+agentic ai,"Edge-enabled smart agriculture framework: Integrating IoT, lightweight deep learning, and agentic AI for context-aware farming",2025,23
+agentic ai,Building LLM-based AI Agents in Social Virtual Reality,2024,75
+agentic ai,Small Language Models are the Future of Agentic AI,2025,9
+knowledge graph,Knowledge Graph Embedding by Translating on Hyperplanes,2014,3786
+knowledge graph,Learning Entity and Relation Embeddings for Knowledge Graph Completion,2015,3646
+knowledge graph,"A Survey on Knowledge Graphs: Representation, Acquisition, and Applications",2021,2686
+knowledge graph,Convolutional 2D Knowledge Graph Embeddings,2018,2412
+knowledge graph,Knowledge Graphs,2021,1537
+knowledge graph,Knowledge Graph Embedding: A Survey of Approaches and Applications,2017,2652
+knowledge graph,A Review of Relational Machine Learning for Knowledge Graphs,2015,1647
+knowledge graph,Knowledge Graph Embedding via Dynamic Mapping Matrix,2015,1854
+knowledge graph,A review: Knowledge reasoning over knowledge graph,2019,1030
+knowledge graph,Knowledge graph refinement: A survey of approaches and evaluation methods,2016,1199
+knowledge graph,Holographic Embeddings of Knowledge Graphs,2016,884
+knowledge graph,Knowledge Graph Convolutional Networks for Recommender Systems,2019,965
+knowledge graph,A Survey on Knowledge Graph-Based Recommender Systems,2020,843
+knowledge graph,Knowledge Graphs: Opportunities and Challenges,2023,600
+knowledge graph,COMET: Commonsense Transformers for Automatic Knowledge Graph Construction,2019,864
+knowledge graph,Holographic Embeddings of Knowledge Graphs,2016,616
+knowledge graph,Unifying Large Language Models and Knowledge Graphs: A Roadmap,2024,941
+knowledge graph,Representation Learning of Knowledge Graphs with Entity Descriptions,2016,730
+knowledge graph,Explainable Reasoning over Knowledge Graphs for Recommendation,2019,735
+knowledge graph,Convolutional 2D Knowledge Graph Embeddings,2017,733
+knowledge graph,DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning,2017,770
+knowledge graph,K-BERT: Enabling Language Representation with Knowledge Graph,2020,770
+knowledge graph,RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space,2019,771
+knowledge graph,Knowledge Graph Embedding Based Question Answering,2019,574
+knowledge graph,Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks,2018,633
+knowledge graph,Zero-Shot Recognition via Semantic Embeddings and Knowledge Graphs,2018,698
+knowledge graph,RotatE: Knowledge Graph Embedding by Relational Rotation in Complex\n Space,2019,750
+knowledge graph,Multilingual Knowledge Graph Embeddings for Cross-lingual Knowledge Alignment,2017,540
+knowledge graph,Learning Sequence Encoders for Temporal Knowledge Graph Completion,2018,534
+knowledge graph,Knowledge Graph Contrastive Learning for Recommendation,2022,451
+knowledge graph,Learning Intents behind Interactions with Knowledge Graph for Recommendation,2021,543
+knowledge graph,Bootstrapping Entity Alignment with Knowledge Graph Embedding,2018,531
+knowledge graph,Knowledge Graph and Text Jointly Embedding,2014,415
+knowledge graph,Knowledge Graph Embedding for Link Prediction,2021,475
+knowledge graph,TuckER: Tensor Factorization for Knowledge Graph Completion,2019,604
+knowledge graph,Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation,2019,551
+knowledge graph,Building a knowledge graph to enable precision medicine,2023,433
+knowledge graph,ConceptNet 5.5: An Open Multilingual Graph of General Knowledge,2017,2069
+knowledge graph,Deriving Validity Time in Knowledge Graph,2018,402
+knowledge graph,Reinforcement Knowledge Graph Reasoning for Explainable Recommendation,2019,426
+knowledge graph,Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences,2019,636
+knowledge graph,Knowledge Graph Completion: A Review,2020,334
+knowledge graph,"Multi-Task Identification of Entities, Relations, and Coreference for Scientific Knowledge Graph Construction",2018,636
+knowledge graph,Knowledge Graph Completion with Adaptive Sparse Transfer Matrix,2016,444
+knowledge graph,Towards a Definition of Knowledge Graphs.,2016,412
+knowledge graph,KG-BERT: BERT for Knowledge Graph Completion,2019,380
+knowledge graph,Variational Reasoning for Question Answering With Knowledge Graph,2018,382
+knowledge graph,SimplE Embedding for Link Prediction in Knowledge Graphs,2018,395
+knowledge graph,TransG : A Generative Model for Knowledge Graph Embedding,2016,369
+knowledge graph,HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding,2018,471
+knowledge graph,Learning a Health Knowledge Graph from Electronic Medical Records,2017,425
+knowledge graph,Knowledge Graph Identification,2013,263
+knowledge graph,A Survey on Application of Knowledge Graph,2020,281
+knowledge graph,Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction,2020,396
+knowledge graph,Industry-scale knowledge graphs,2019,349
+knowledge graph,Learning to Represent Knowledge Graphs with Gaussian Embedding,2015,384
+knowledge graph,Recurrent knowledge graph embedding for effective recommendation,2018,369
+knowledge graph,Diachronic Embedding for Temporal Knowledge Graph Completion,2020,361
+knowledge graph,Explicit Semantic Ranking for Academic Search via Knowledge Graph Embedding,2017,423
+knowledge graph,Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings,2020,493
+knowledge graph,Multi-Hop Knowledge Graph Reasoning with Reward Shaping,2018,379
+knowledge graph,Semi-Supervised Classification with Graph Convolutional Networks,2016,8068
+knowledge graph,Constructing knowledge graphs and their biomedical applications,2020,272
+knowledge graph,Knowledge Graphs,2020,194
+knowledge graph,Traversing Knowledge Graphs in Vector Space,2015,274
+knowledge graph,Open-World Knowledge Graph Completion,2018,280
+knowledge graph,A Comprehensive Survey on Automatic Knowledge Graph Construction,2023,281
+knowledge graph,Entity Alignment between Knowledge Graphs Using Attribute Embeddings,2019,322
+knowledge graph,QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering,2021,496
+knowledge graph,Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs,2019,307
+knowledge graph,The More You Know: Using Knowledge Graphs for Image Classification,2017,337
+knowledge graph,A knowledge graph to interpret clinical proteomics data,2022,288
+knowledge graph,Recurrent Event Network: Autoregressive Structure Inferenceover Temporal Knowledge Graphs,2020,356
+knowledge graph,Introduction: What Is a Knowledge Graph?,2020,217
+knowledge graph,Industry-scale Knowledge Graphs: Lessons and Challenges,2019,258
+knowledge graph,One-Shot Relational Learning for Knowledge Graphs,2018,269
+knowledge graph,When Radiology Report Generation Meets Knowledge Graph,2020,316
+knowledge graph,Multi-modal Knowledge Graphs for Recommender Systems,2020,260
+knowledge graph,Representation learning of knowledge graphs with hierarchical types,2016,258
+knowledge graph,KnowEdu: A System to Construct Knowledge Graph for Education,2018,260
+knowledge graph,MMKG: Multi-modal Knowledge Graphs,2019,228
+knowledge graph,Learning Knowledge Graph Embedding With Heterogeneous Relation Attention Networks,2021,338
+knowledge graph,Jointly Embedding Knowledge Graphs and Logical Rules,2016,259
+knowledge graph,Hypernetwork Knowledge Graph Embeddings,2019,217
+knowledge graph,Open Research Knowledge Graph,2019,210
+knowledge graph,Quaternion Knowledge Graph Embeddings,2019,208
+knowledge graph,Multi-Modal Knowledge Graph Construction and Application: A Survey,2022,263
+knowledge graph,Temporal Knowledge Graph Reasoning Based on Evolutional Representation Learning,2021,309
+knowledge graph,InteractE: Improving Convolution-Based Knowledge Graph Embeddings by Increasing Feature Interactions,2020,370
+knowledge graph,"A Survey on Knowledge Graph Embedding: Approaches, Applications and Benchmarks",2020,260
+knowledge graph,Knowledge graphs as tools for explainable machine learning: A survey,2021,271
+knowledge graph,Knowledge Graph Alignment Network with Gated Multi-Hop Neighborhood Aggregation,2020,325
+knowledge graph,Toward better drug discovery with knowledge graph,2021,225
+knowledge graph,KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction,2020,316
+knowledge graph,A retrospective of knowledge graphs,2016,158
+knowledge graph,A Practical Approach to Constructing a Knowledge Graph for Cybersecurity,2018,231
+knowledge graph,Knowledge Graph Construction Techniques,2016,233
+knowledge graph,(Comet-) Atomic 2020: On Symbolic and Neural Commonsense Knowledge Graphs,2021,285
+knowledge graph,Building a PubMed knowledge graph,2020,188
+knowledge graph,KBGAN: Adversarial Learning for Knowledge Graph Embeddings,2018,276
+mlops,"Machine Learning Operations (MLOps): Overview, Definition, and Architecture",2023,610
+mlops,Who Needs MLOps: What Data Scientists Seek to Accomplish and How Can\n MLOps Help?,2021,166
+mlops,"MLOps - Definitions, Tools and Challenges",2022,115
+mlops,MLOps: A Taxonomy and a Methodology,2022,104
+mlops,Sustainable MLOps: Trends and Challenges,2020,109
+mlops,Towards MLOps: A Framework and Maturity Model,2021,113
+mlops,What Is MLOps?,2020,59
+mlops,Demystifying MLOps and Presenting a Recipe for the Selection of Open-Source Tools,2021,103
+mlops,Edge Impulse: An MLOps Platform for Tiny Machine Learning,2022,86
+mlops,From DevOps to MLOps: Overview and Application to Electricity Market Forecasting,2022,69
+mlops,Beginning MLOps with MLFlow,2020,36
+mlops,Towards MLOps: A Case Study of ML Pipeline Platform,2020,84
+mlops,On Continuous Integration / Continuous Delivery for Automated Deployment of Machine Learning Models using MLOps,2021,81
+mlops,"Machine Learning Operations (MLOps): Overview, Definition, and Architecture",2022,51
+mlops,"A Joint Study of the Challenges, Opportunities, and Roadmap of MLOps and AIOps: A Systematic Survey",2023,59
+mlops,Edge MLOps: An Automation Framework for AIoT Applications,2021,50
+mlops,A Data Quality-Driven View of MLOps,2021,43
+mlops,MLOps: A Review,2023,23
+mlops,MLOps Challenges in Industry 4.0,2023,27
+mlops,Smart Farming Monitoring Using ML and MLOps,2023,37
+mlops,Machine Learning Operations: A Survey on MLOps Tool Support,2022,36
+mlops,A Multivocal Literature Review of MLOps Tools and Features,2022,32
+mlops,MLOps,2022,17
+mlops,Transitioning from MLOps to LLMOps: Navigating the Unique Challenges of Large Language Models,2025,44
+mlops,On the Understandability of MLOps System Architectures,2024,22
+mlops,Who Needs MLOps: What Data Scientists Seek to Accomplish and How Can MLOps Help?,2021,23
+mlops,A Preliminary Investigation of MLOps Practices in GitHub,2022,25
+mlops,MLOps,2022,14
+mlops,Towards Trustworthy Machine Learning in Production: An Overview of the Robustness in MLOps Approach,2024,33
+mlops,Operationalizing Intelligence: A Unified Approach to MLOps and Scalable AI Workflows in Hybrid Cloud Environments,2022,41
+mlops,Machine Learning Operations (MLOps): Challenges and Strategies,2023,22
+mlops,What drives MLOps adoption? An analysis using the TOE framework,2023,28
+mlops,Towards Regulatory-Compliant MLOps: Oravizio’s Journey from a Machine Learning Experiment to a Deployed Certified Medical Product,2021,50
+mlops,Resilience-aware MLOps for AI-based medical diagnostic system,2024,27
+mlops,SliceOps: Explainable MLOps for Streamlined Automation-Native 6G Networks,2024,29
+mlops,An analysis of the challenges in the adoption of MLOps,2024,18
+mlops,A Digital Twin Architecture Model Applied with MLOps Techniques to Improve Short-Term Energy Consumption Prediction,2021,47
+mlops,Automating the training and deployment of models in MLOps by integrating systems with machine learning,2024,28
+mlops,MLOps Challenges in Multi-Organization Setup: Experiences from Two\n Real-World Cases,2021,39
+mlops,Fostering Agricultural Transformation through AI: An Open-Source AI Architecture Exploiting the MLOps Paradigm,2024,38
+mlops,"MLOps best practices, challenges and maturity models: A systematic literature review",2025,23
+mlops,Automating the training and deployment of models in MLOps by integrating systems with machine learning,2024,23
+mlops,Using AntiPatterns to avoid MLOps Mistakes,2021,16
+mlops,MLOps in freight rail operations,2023,13
+mlops,MLOps for evolvable AI intensive software systems,2022,18
+mlops,Tiny-MLOps: a framework for orchestrating ML applications at the far edge of IoT systems,2022,26
+mlops,Machine Learning Models Monitoring in MLOps Context: Metrics and Tools,2023,14
+mlops,Teaching MLOps in Higher Education through Project-Based Learning,2023,17
+mlops,Jenkins Pipelines: A Novel Approach to Machine Learning Operations (MLOps),2022,16
+mlops,"A Multivocal Review of MLOps Practices, Challenges and Open Issues",2025,12
+mlops,Tailoring MLOps Techniques for Industry 5.0 Needs,2023,13
+mlops,An optimization strategy for nonlinear simulated moving bed chromatography: Multi-level optimization procedure (MLOP),2004,23
+mlops,MLOps: A Multiple Case Study in Industry 4.0,2024,12
+mlops,"MLOps Components, Tools, Process, and Metrics: A Systematic Literature Review",2025,13
+mlops,"MLOps -- Definitions, Tools and Challenges",2022,8
+mlops,From Development to Deployment: An Approach to MLOps Monitoring for Machine Learning Model Operationalization,2023,16
+mlops,Architecting MLOps in the Cloud: From Theory to Practice,2023,9
+mlops,Toward a safe MLOps process for the continuous development and safety assurance of ML-based systems in the railway domain,2024,19
+mlops,An Analysis of MLOps Architectures: A Systematic Mapping Study,2024,9
+mlops,MLOps meets Edge Computing: an Edge Platform with Embedded Intelligence towards 6G Systems,2023,17
+mlops,MLOps approach in the cloud-native data pipeline design,2021,12
+mlops,Towards a machine learning operations (MLOps) soft sensor for real-time predictions in industrial-scale fed-batch fermentation,2024,26
+mlops,An MLOps Framework for GAN-based Fault Detection in Bonfiglioli’s EVO Plant,2024,13
+mlops,"MLOps, LLMOps, FMOps, and Beyond",2024,11
+mlops,Role of Regulatory Sandboxes and MLOps for AI-Enabled Public Sector Services,2023,14
+mlops,"MLOps: Practices, Maturity Models, Roles, Tools, and Challenges – A Systematic Literature Review",2022,22
+mlops,Integrating Machine Learning and MLOps for Wind Energy Forecasting: A Comparative Analysis and Optimization Study on Türkiye’s Wind Data,2024,19
+mlops,MLOps: Overview of Current State and Future Directions,2023,9
+mlops,MLOps: A Step Forward to Enterprise Machine Learning,2023,8
+mlops,Integrating MLOps and EEG Techniques for Enhanced Crime Detection and Prevention,2023,11
+mlops,MLOps Pipeline Development,2023,5
+mlops,Model Provenance Management in MLOps Pipeline,2022,9
+mlops,"CodeReef: an open platform for portable MLOps, reusable automation actions and reproducible benchmarking",2020,15
+mlops,MLOps in Data Science Projects: A Review,2023,7
+mlops,Application of MLOps in Prediction of Lifestyle Diseases,2022,8
+mlops,An MLOps Approach for Deploying Machine Learning Models in Healthcare Systems,2024,10
+mlops,An Analysis of the Barriers Preventing the Implementation of MLOps,2023,6
+mlops,A MLOps Architecture for XAI in Industrial Applications,2024,6
+mlops,MLOps critical success factors - A systematic literature review,2024,8
+mlops,Towards Architecting Sustainable MLOps: A Self-Adaptation Approach,2024,8
+mlops,Professional Insights into Benefits and Limitations of Implementing MLOps Principles,2024,7
+mlops,MLOps,2024,3
+mlops,MLOps as Enabler of Trustworthy AI,2024,5
+mlops,Agility in Software 2.0 – Notebook Interfaces and MLOps with Buttresses and Rebars,2022,9
+mlops,Data drift detection and mitigation: A comprehensive MLOps approach for real-time systems,2024,9
+mlops,A Method of Identifying Causes of Prediction Errors to Accelerate MLOps,2023,7
+mlops,"Pangea: An MLOps Tool for Automatically Generating Infrastructure and Deploying Analytic Pipelines in Edge, Fog and Cloud Layers",2022,19
+mlops,MLOps Pipelines for GenAI in Renewable Energy: Enhancing Environmental Efficiency and Innovation,2019,8
+mlops,Industrial Edge MLOps: Overview and Challenges,2024,5
+mlops,MLOps-Enabled Security Strategies for Next-Generation Operational Technologies,2024,7
+mlops,QMP: A Cloud-native MLOps Automation Platform for Zero-Touch Service Assurance in 5G Systems,2022,11
+mlops,Advances in Time Series Forecasting Development for Power Systems’ Operation with MLOps,2022,12
+mlops,Big Data-driven MLOps workflow for annual high-resolution land cover classification models,2024,11
+mlops,"Navigating MLOps: Insights into Maturity, Lifecycle, Tools, and Careers",2025,6
+mlops,Advancing MLOps from Ad hoc to Kaizen,2023,5
+mlops,A Zero Trust Framework with AI-Driven Identity and Intrusion Detection for Multi-Cloud MLOps,2025,9
+mlops,Challenges and Experiences of Iranian Developers with MLOps at Enterprise,2023,5
+mlops,Towards an MLOps Architecture for XAI in Industrial Applications,2023,5
+mlops,Exploring Trade-Offs in MLOps Adoption,2023,4
+mlops,Toward efficient data science: A comprehensive MLOps template for collaborative code development and automation,2024,9
+llmops,Transitioning from MLOps to LLMOps: Navigating the Unique Challenges of Large Language Models,2025,44
+llmops,Maximizing user experience with LLMOps-driven personalized recommendation systems,2024,17
+llmops,"Large Language Model Operations (LLMOps): Definition, Challenges, and Lifecycle Management",2024,15
+llmops,"MLOps, LLMOps, FMOps, and Beyond",2024,11
+llmops,From LLMOps to DevSecOps for GenAI,2024,8
+llmops,"LLMOps: Definitions, Framework and Best Practices",2024,6
+llmops,LLMs for Enterprise and LLMOps,2023,5
+llmops,"LLMOps, AgentOps, and MLOps for Generative AI: A Comprehensive Review",2025,4
+llmops,Enterprise LLMOps: Advancing Large Language Models Operations Practice,2024,3
+llmops,Maximizing User Experience with LLMOps-Driven Personalized Recommendation Systems,2024,2
+llmops,Cloud-Native LLMOps Meets DataOps: A Unified Framework for High-Volume Analytical Systems,2025,3
+llmops,Establishing a Robust LLMOps Framework for Intelligent Automation: Strategies and Best Practices,2025,2
+llmops,DataOps Meets LLMOps: Automating Cloud-Based AI Workflows from Data Ingestion to Prompt Optimization,2025,3
+llmops,Applying LLMOps to Support the Automatic Analysis of CAs,2025,1
+llmops,LLMOps-Driven Robotic Process Automation Approach,2025,2
+llmops,Human-in-the-Loop LLMOps: Balancing automation and control,2025,1
+llmops,LLMOps: A Comprehensive Guide to Deploying Large Language Models in Production,2025,2
+llmops,Towards a Standardized Business Process Model for LLMOps,2025,1
+llmops,Edge AI and Federated LLMOps for Latency-Critical IoT Systems in Smart Infrastructure,2025,1
+llmops,LlamaDuo: LLMOps Pipeline for Seamless Migration from Service LLMs to Small-Scale Local LLMs,2024,1
+llmops,Integrating DevOps and Large Language Model Operations (LLMOps) for GenAI-Enabled E-commerce Innovations A Pathway to Intelligent Automation,2024,1
+llmops,Challenges and Opportunities in Integrating LLMs into Continuous Integration/Continuous Deployment (CI/CD) Pipelines,2024,23
+llmops,FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models,2024,33
+llmops,"Integration of web scraping, fine-tuning, and data enrichment in a continuous monitoring context via large language model operations",2024,4
+llmops,Artificial Intelligence Agent-Enabled Predictive Maintenance: Conceptual Proposal and Basic Framework,2025,11
+llmops,Awesome LLMOps,2026,0
+llmops,Awesome LLMOps,2026,0
+llmops,The Evolution of LLMOps: Latest Trends and Developments,2025,0
+llmops,LLMOps: Operationalizing Language Models for the Enterprise,2024,0
+llmops,Awesome LLMOps,2026,0
+llmops,Awesome LLMOps,2026,0
+llmops,Impact and Importance of LLMOps for Enterprises Advancing Generative AI,2024,0
+llmops,A LLMOps-Driven Framework for Clinical DataHarmonization,2025,0
+llmops,The Impact and Importance of LLMOps for Companies Advancing Generative AI,2025,0
+llmops,MLOps and LLMOps engineering for deployment and evaluation of AI models,2025,0
+llmops,"Navigating MLOps: Insights into Maturity, Lifecycle, Tools, and Careers",2025,6
+llmops,Three Essential Elements of the LLMOps Tech Stack,2024,0
+llmops,On the Maturity of LLMOps Services Computing: An Industrial Study,2025,0
+llmops,Intelligent Exercise and Feedback System for Social Healthcare using LLMOps,2025,0
+llmops,A Cross-Disciplinary Knowledge Management Framework for Generative Artificial Intelligence in Product Management: A Case Study From the Manufacturing Sector,2024,5
+llmops,LLMOps for Streaming Data: Bridging NLP and Event Pipelines,2025,0
+llmops,The double-edged sword: LLM operations (LLMOps) security in the cloud- a comprehensive review,2026,0
+llmops,"The LLMOps Stack: OpenTelemetry, Self-Host and Pricing-Model Comparison 2026",2026,0
+llmops,LLMOps for End-to-End Automation in Facility Layout Planning: Methodology and Application,2026,0
+llmops,LLMOps for End-to-End Automation in Facility Layout Planning: Methodology and Application,2026,0
+llmops,Cross-Cloud LLMOps Scheduler for Privacy-Budgeted RAG and Inference,2026,0
+llmops,Design Principles and Guidelines for LLM Observability: Insights from Developers,2025,5
+llmops,LLMOps Beyond Chat: Architecting APIs for Industry-Specific Language Interfaces,2025,0
+llmops,"Streaming Intelligence: Securing, Scaling and Observing Cloud-Native Data Pipelines with LLMOps",2025,0
+llmops,"The LLMOps Stack: OpenTelemetry, Self-Host and Pricing-Model Comparison 2026",2026,0
+llmops,Cross-Cloud LLMOps Scheduler for Privacy-Budgeted RAG and Inference,2026,0
+llmops,Software Service Engineering in the Era of Large Language Models,2024,2
+llmops,Research on a Compliance Evaluation Framework for the Informatization Construction of Group Subsidiaries Based on LLMOps,2025,0
+llmops,"Document Analysis, Chat and Comparison Portal Using Advanced Retrieval-Augmented Generation and LLMOps Framework",2026,0
+llmops,Composable AI Workflows with LLMOps: Automating Data-Driven Decisions in Event-Heavy Applications,2025,0
+llmops,Rethinking LLMOps for Fraud and AML: Building a Compliance-Grade LLM Serving Stack,2026,0
+llmops,Optimizing E-commerce Platforms with GenAI-Driven DevOps and LLMOps A Scalable Framework for Enhanced User Experience,2024,0
+llmops,"LLMOps in Action: A Framework for Designing, Deploying, and Governing Advanced Chatbots",2026,0
+llmops,Rethinking LLMOps for Fraud and AML: Building a Compliance-Grade LLM Serving Stack,2026,0
+llmops,LlamaDuo: LLMOps Pipeline for Seamless Migration from Service LLMs to Small-Scale Local LLMs,2025,0
+llmops,vFerryman: An Artificial Intelligence-Driven Personalized Companion Providing Calming Visuals and Social Interaction for Emotional Well-Being,2025,2
+llmops,A Reference Architecture for Deploying Large Language Model Applications in Industrial Environments,2024,5
+llmops,Design and Development of an AI-Powered SAT Math Practice Platform: a Blended Approach Integrating Design Thinking and LLMOps,2025,0
+llmops,Beyond LLMOps: A Comprehensive Review and Taxonomy of Post-Deployment Quality Assurance in GenAI Systems,2026,0
+llmops,Tutorial on Landing Generative AI in Industrial Social and E-commerce Recsys,2025,1
+llmops,Beyond LLMOps: A Comprehensive Review and Taxonomy of Post-Deployment Quality Assurance in GenAI Systems,2026,0
+llmops,Birbal: An efficient 7B instruct-model fine-tuned with curated datasets,2024,2
+llmops,LangChain vs. LangGraph vs. LangSmith: Taxonomies of Agentic AI Toolchains for End-to-End Orchestration,2025,2
+llmops,FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models,2024,2
+llmops,Application of Large Language Models in Software Development: Review of the Current State and Development Perspectives,2025,1
+llmops,Large Language Models: A Deep Dive,2024,43
+llmops,"Designing an LLM-Based IELTS Question Generator, Assessment, and Personalized Training System: Architecture and Research Agenda",2025,1
+llmops,Mind the Metrics: Patterns for Telemetry-Aware In-IDE AI Application Development using the Model Context Protocol (MCP),2025,1
+llmops,Multi-Cloud Semantic Orchestration of AI-Driven Pipelines for Privacy-First LLM Inference,2025,1
+llmops,Applied Generative AI for Beginners,2023,22
+llmops,"The Rise of Agentic AI: A Review of Definitions, Frameworks, Architectures, Applications, Evaluation Metrics, and Challenges",2025,83
+llmops,The Importance of AI Data Governance in Large Language Models,2025,25
+llmops,Current State of Autonomous Driving Applications Based on Distributed Perception and Decision-Making,2024,24
+llmops,Operationalizing Intelligence: A Unified Approach to MLOps and Scalable AI Workflows in Hybrid Cloud Environments,2022,41
+llmops,RAGVA: Engineering retrieval augmented generation-based virtual assistants in practice,2025,18
+llmops,An empirical study of challenges in machine learning asset management,2024,14
+llmops,ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis Testing,2023,5
+llmops,Impact of low-temperature and low-pressure mild oxidation after plasma solidification on electrical properties and reliability in ultra-thin SiON MOSFETs,2024,0
+llmops,Enhancing sentiment and intent analysis in public health via fine-tuned Large Language Models on tobacco and e-cigarette-related tweets,2024,4
+llmops,Time Dependent Dielectric Breakdown in n-MOSFETs Fabricated by Low-Temperature and Low-Pressure Mild Oxidation After Plasma Solidification,2024,0
+llmops,Machine Learning-Driven Digital Identity Verification for Fraud Prevention in Digital Payment Technologies,2024,6
+llmops,An HCAI Methodological Framework (HCAI-MF): Putting It Into Action to Enable Human-Centered AI,2023,21
+llmops,A Pedagogical Approach for Evaluating AIOps,2025,0
+llmops,Getting Started with Dify: No-Code AI Application Development,2024,0
+llmops,Transforming User Experience (UX) through Artificial Intelligence (AI) in Interactive Media Design,2024,3
+llmops,"The Costly Dilemma: Generalization, Evaluation and Cost-Optimal Deployment of Large Language Models",2023,5
+llmops,FACTS About Building Retrieval Augmented Generation-based Chatbots,2024,10
+llmops,&lt;b&gt;WHY ML MODELS FAIL TO REACH PRODUCTION&lt;/b&gt;,2026,2
+llmops,Enabling Intelligent Decision Making and Optimization in Enterprises through Data Pipelines,2024,4
+llmops,Getting Started with Dify: No-Code AI Application Development,2024,0
+llmops,Fuzzy-Gated Verification of LLM Agents for Industrial Fault Diagnosis: An Evolutionary-Optimized Closed-Loop Framework,2026,0
+llmops,Beyond the Comfort Zone: Emerging Solutions to Overcome Challenges in Integrating LLMs into Software Products,2024,2
+llmops,Scaling AI Infrastructure: From Recommendation Engines to LLM Deployment with Paged Attention,2025,0
+llmops,A Survey of Large Language Models in Finance (FinLLMs),2024,14
+llmops,Mapping the Challenges of HCI: An Application and Evaluation of ChatGPT for Mining Insights at Scale,2026,5

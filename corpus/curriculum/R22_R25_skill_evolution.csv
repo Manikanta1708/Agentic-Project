@@ -1,0 +1,572 @@
+branch,skill,status
+AIML,ad hoc networks,removed
+AIML,algorithms,retained
+AIML,artificial intelligence,retained
+AIML,augmented reality,removed
+AIML,automata,removed
+AIML,business economics,retained
+AIML,business intelligence,removed
+AIML,c programming,retained
+AIML,cad,retained
+AIML,capstone project,retained
+AIML,chatbots,retained
+AIML,cloud computing,removed
+AIML,cognitive computing,removed
+AIML,compiler design,retained
+AIML,computer graphics,removed
+AIML,computer networks,retained
+AIML,computer organization,retained
+AIML,computer vision,removed
+AIML,conversational ai,removed
+AIML,data analytics,retained
+AIML,data mining,removed
+AIML,data science,removed
+AIML,data structures,retained
+AIML,data visualization,new
+AIML,data warehousing,removed
+AIML,database management,retained
+AIML,deep learning,retained
+AIML,devops,removed
+AIML,discrete mathematics,retained
+AIML,django,removed
+AIML,electrical engineering,retained
+AIML,electronic circuits,retained
+AIML,electronics,retained
+AIML,environmental engineering,retained
+AIML,evolutionary computing,removed
+AIML,expert systems,removed
+AIML,federated machine learning,removed
+AIML,financial analysis,removed
+AIML,flutter,removed
+AIML,game theory,removed
+AIML,generative ai,new
+AIML,graph theory,removed
+AIML,image processing,removed
+AIML,information retrieval,removed
+AIML,internet of things,removed
+AIML,internship,retained
+AIML,java,retained
+AIML,knowledge representation,removed
+AIML,law,removed
+AIML,lisp,removed
+AIML,machine learning,retained
+AIML,material science,retained
+AIML,mathematics,retained
+AIML,mobile app development,retained
+AIML,mobile computing,removed
+AIML,natural language processing,retained
+AIML,nature inspired computing,removed
+AIML,node.js,retained
+AIML,operating systems,retained
+AIML,pattern recognition,removed
+AIML,professional ethics,removed
+AIML,programming languages,retained
+AIML,prolog,removed
+AIML,pyswip,removed
+AIML,python,retained
+AIML,quantum computing,removed
+AIML,randomized algorithms,removed
+AIML,react.js,removed
+AIML,reasoning,removed
+AIML,reinforcement learning,new
+AIML,research,retained
+AIML,robotics,removed
+AIML,rpa,removed
+AIML,scripting,removed
+AIML,semantic web,removed
+AIML,sensor networks,removed
+AIML,social network analysis,removed
+AIML,software engineering,retained
+AIML,software testing,removed
+AIML,speech processing,removed
+AIML,sql,retained
+AIML,statistics,retained
+AIML,video processing,removed
+AIML,virtual reality,removed
+AIML,web development,removed
+AIML,web security,removed
+AIML,workshop practice,retained
+CIVIL,air pollution,removed
+CIVIL,building materials,removed
+CIVIL,business analytics,retained
+CIVIL,c programming,retained
+CIVIL,cad,retained
+CIVIL,capstone project,retained
+CIVIL,civil engineering,removed
+CIVIL,civil engineering software,retained
+CIVIL,concrete technology,removed
+CIVIL,construction management,removed
+CIVIL,data structures,removed
+CIVIL,earthquake engineering,removed
+CIVIL,electrical engineering,retained
+CIVIL,electronics,retained
+CIVIL,engineering geology,retained
+CIVIL,engineering mechanics,retained
+CIVIL,environmental engineering,retained
+CIVIL,environmental impact assessment,removed
+CIVIL,fluid mechanics,retained
+CIVIL,foundation engineering,retained
+CIVIL,geomatics,retained
+CIVIL,geotechnical engineering,retained
+CIVIL,green buildings,removed
+CIVIL,ground improvement,removed
+CIVIL,groundwater hydrology,removed
+CIVIL,hydraulic machinery,removed
+CIVIL,hydraulic structures,retained
+CIVIL,hydraulics,retained
+CIVIL,industry project,retained
+CIVIL,internet of things,new
+CIVIL,manufacturing,removed
+CIVIL,material science,retained
+CIVIL,material testing,retained
+CIVIL,mathematics,retained
+CIVIL,pavement design,removed
+CIVIL,pavement engineering,retained
+CIVIL,prestressed concrete,removed
+CIVIL,probability,retained
+CIVIL,project management,retained
+CIVIL,python,retained
+CIVIL,quantity surveying,retained
+CIVIL,reinforced concrete,removed
+CIVIL,research,removed
+CIVIL,retaining structures,removed
+CIVIL,slope stability,removed
+CIVIL,smart cities,removed
+CIVIL,soil mechanics,retained
+CIVIL,solid waste management,removed
+CIVIL,steel structures,removed
+CIVIL,strength of materials,retained
+CIVIL,structural analysis,retained
+CIVIL,surveying,retained
+CIVIL,transport infrastructure,removed
+CIVIL,transportation engineering,retained
+CIVIL,water resources,retained
+CIVIL,workshop practice,retained
+CSE,agile,removed
+CSE,algorithms,retained
+CSE,artificial intelligence,retained
+CSE,automata,removed
+CSE,big data,retained
+CSE,blockchain,removed
+CSE,c programming,retained
+CSE,cad,retained
+CSE,capstone project,new
+CSE,chatbots,removed
+CSE,cloud computing,removed
+CSE,compiler design,retained
+CSE,complexity theory,removed
+CSE,computer architecture,retained
+CSE,computer fundamentals,removed
+CSE,computer graphics,removed
+CSE,computer hardware,retained
+CSE,computer networks,retained
+CSE,css,removed
+CSE,cyber security,retained
+CSE,data analytics,removed
+CSE,data structures,retained
+CSE,data visualization,retained
+CSE,database,removed
+CSE,deep learning,retained
+CSE,devops,retained
+CSE,digital electronics,removed
+CSE,digital forensics,removed
+CSE,discrete mathematics,retained
+CSE,distributed database,removed
+CSE,distributed systems,removed
+CSE,django,removed
+CSE,electrical engineering,retained
+CSE,electronic circuits,retained
+CSE,electronics,retained
+CSE,embedded systems,removed
+CSE,environmental engineering,retained
+CSE,flutter,removed
+CSE,full stack,removed
+CSE,graph theory,removed
+CSE,hci,removed
+CSE,html,removed
+CSE,image processing,removed
+CSE,information retrieval,removed
+CSE,iot,removed
+CSE,java,retained
+CSE,javascript,removed
+CSE,llm,removed
+CSE,machine learning,retained
+CSE,management,removed
+CSE,material science,retained
+CSE,mathematics,retained
+CSE,mobile app development,new
+CSE,mobile development,removed
+CSE,natural language processing,retained
+CSE,network security,removed
+CSE,node.js,retained
+CSE,oop,removed
+CSE,operating systems,retained
+CSE,pandas,removed
+CSE,power bi,removed
+CSE,programming languages,retained
+CSE,project management,removed
+CSE,python,retained
+CSE,pytorch,removed
+CSE,quantum computing,removed
+CSE,r programming,removed
+CSE,react,removed
+CSE,research,removed
+CSE,rpa,removed
+CSE,scripting,removed
+CSE,soft computing,removed
+CSE,software engineering,retained
+CSE,software testing,removed
+CSE,spark,removed
+CSE,sql,retained
+CSE,statistics,retained
+CSE,tensorflow,removed
+CSE,wireless networks,removed
+CSE,workshop practice,retained
+DS,algorithms,retained
+DS,artificial intelligence,retained
+DS,automata,removed
+DS,big data,retained
+DS,blockchain,removed
+DS,business intelligence,removed
+DS,c programming,retained
+DS,cad,retained
+DS,capstone project,retained
+DS,cloud computing,removed
+DS,compiler design,removed
+DS,computer graphics,removed
+DS,computer networks,retained
+DS,computer organization,retained
+DS,computer vision,removed
+DS,cryptography,removed
+DS,data analytics,removed
+DS,data mining,retained
+DS,data privacy,removed
+DS,data science,retained
+DS,data stream mining,removed
+DS,data structures,retained
+DS,data visualization,retained
+DS,data warehousing,removed
+DS,database management,removed
+DS,database security,removed
+DS,devops,removed
+DS,digital electronics,removed
+DS,discrete mathematics,retained
+DS,distributed computing,removed
+DS,django,removed
+DS,electrical engineering,retained
+DS,electronic circuits,retained
+DS,electronics,retained
+DS,environmental engineering,retained
+DS,etl,removed
+DS,exploratory data analysis,removed
+DS,flutter,removed
+DS,generative ai,new
+DS,image processing,removed
+DS,information retrieval,removed
+DS,internet of things,removed
+DS,internship,retained
+DS,java,retained
+DS,kafka,removed
+DS,machine learning,retained
+DS,material science,retained
+DS,mathematics,retained
+DS,mobile app development,retained
+DS,multimedia databases,removed
+DS,natural language processing,removed
+DS,network security,removed
+DS,node.js,retained
+DS,operating systems,retained
+DS,organizational behavior,removed
+DS,parallel computing,removed
+DS,power bi,removed
+DS,predictive analytics,removed
+DS,programming languages,retained
+DS,project management,removed
+DS,python,retained
+DS,quantum computing,removed
+DS,r programming,retained
+DS,react.js,removed
+DS,research,removed
+DS,robotics,removed
+DS,scripting,removed
+DS,social media analytics,removed
+DS,social media mining,removed
+DS,software engineering,retained
+DS,software testing,removed
+DS,sql,retained
+DS,statistics,retained
+DS,storage management,removed
+DS,talend,removed
+DS,video analytics,removed
+DS,web development,removed
+DS,web security,removed
+DS,workshop practice,retained
+ECE,5g,retained
+ECE,algorithms,removed
+ECE,analog circuits,removed
+ECE,analog electronics,removed
+ECE,analog ic design,removed
+ECE,antenna design,retained
+ECE,artificial intelligence,removed
+ECE,biomedical engineering,removed
+ECE,business analytics,retained
+ECE,c programming,retained
+ECE,cad,retained
+ECE,capstone project,retained
+ECE,circuit analysis,retained
+ECE,cmos,removed
+ECE,communication systems,retained
+ECE,computer architecture,removed
+ECE,computer networks,removed
+ECE,control systems,retained
+ECE,cryptography,removed
+ECE,cyber security,removed
+ECE,data communication,removed
+ECE,data structures,retained
+ECE,database management,removed
+ECE,digital electronics,retained
+ECE,digital signal processing,retained
+ECE,electrical engineering,retained
+ECE,electromagnetics,retained
+ECE,electronic circuits,retained
+ECE,electronic devices,retained
+ECE,electronic measurements,removed
+ECE,electronics,retained
+ECE,embedded systems,retained
+ECE,engineering ethics,removed
+ECE,environmental engineering,retained
+ECE,healthcare electronics,removed
+ECE,image processing,removed
+ECE,industry project,retained
+ECE,instrumentation,removed
+ECE,integrated circuits,retained
+ECE,internet of things,retained
+ECE,iot,removed
+ECE,logic design,removed
+ECE,machine learning,removed
+ECE,material science,retained
+ECE,mathematics,retained
+ECE,microcontrollers,retained
+ECE,microwave engineering,retained
+ECE,mobile communication,removed
+ECE,network analysis,retained
+ECE,neural networks,removed
+ECE,operating systems,removed
+ECE,optical communication,removed
+ECE,probability,retained
+ECE,professional practice,removed
+ECE,programming languages,retained
+ECE,python,retained
+ECE,radar,removed
+ECE,real time systems,removed
+ECE,research,removed
+ECE,robotics,new
+ECE,satellite communication,removed
+ECE,scripting,new
+ECE,sensors,removed
+ECE,signal processing,retained
+ECE,social network analysis,removed
+ECE,stochastic processes,removed
+ECE,system on chip,removed
+ECE,telecommunication,removed
+ECE,transmission lines,removed
+ECE,vlsi,retained
+ECE,wireless communication,removed
+ECE,wireless sensor networks,removed
+ECE,workshop practice,retained
+EEE,algorithms,removed
+EEE,analog electronics,retained
+EEE,artificial intelligence,removed
+EEE,battery technology,removed
+EEE,business analytics,retained
+EEE,c programming,retained
+EEE,capstone project,retained
+EEE,circuit analysis,retained
+EEE,control systems,retained
+EEE,cyber physical systems,removed
+EEE,data structures,removed
+EEE,digital electronics,retained
+EEE,digital signal processing,removed
+EEE,electric power,removed
+EEE,electric vehicles,retained
+EEE,electrical distribution,removed
+EEE,electrical engineering,removed
+EEE,electrical machine design,removed
+EEE,electrical machines,retained
+EEE,electromagnetics,retained
+EEE,electronics,retained
+EEE,embedded systems,removed
+EEE,energy storage,removed
+EEE,environmental engineering,retained
+EEE,ev charging,retained
+EEE,facts,removed
+EEE,high voltage engineering,removed
+EEE,hvdc,removed
+EEE,hydraulics,removed
+EEE,industry project,retained
+EEE,instrumentation,removed
+EEE,internet of things,removed
+EEE,iot,removed
+EEE,machine learning,removed
+EEE,management,removed
+EEE,material science,retained
+EEE,mathematics,retained
+EEE,microcontrollers,retained
+EEE,mobile development,removed
+EEE,power electronics,retained
+EEE,power quality,removed
+EEE,power system protection,retained
+EEE,power system reliability,removed
+EEE,power systems,retained
+EEE,python,retained
+EEE,reliability engineering,removed
+EEE,renewable energy,retained
+EEE,research,removed
+EEE,sensors,new
+EEE,signal processing,removed
+EEE,simulation,removed
+EEE,smart grid,retained
+EEE,workshop practice,retained
+IT,advanced operating systems,removed
+IT,algorithms,retained
+IT,artificial intelligence,removed
+IT,augmented reality,removed
+IT,automata,removed
+IT,big data,retained
+IT,biometrics,removed
+IT,blockchain,removed
+IT,c,removed
+IT,c programming,retained
+IT,capstone project,retained
+IT,cloud computing,removed
+IT,compiler design,retained
+IT,computer architecture,removed
+IT,computer graphics,removed
+IT,computer networks,retained
+IT,computer organization,retained
+IT,cyber forensics,removed
+IT,data analytics,removed
+IT,data mining,removed
+IT,data structures,retained
+IT,data visualization,retained
+IT,database management,removed
+IT,deep learning,retained
+IT,devops,removed
+IT,digital electronics,removed
+IT,discrete mathematics,retained
+IT,distributed databases,removed
+IT,distributed systems,removed
+IT,django,removed
+IT,electrical engineering,retained
+IT,electronics,retained
+IT,embedded systems,retained
+IT,environmental engineering,retained
+IT,flutter,removed
+IT,full stack development,retained
+IT,high performance computing,removed
+IT,human computer interaction,removed
+IT,image processing,removed
+IT,information retrieval,removed
+IT,information security,retained
+IT,internet of things,retained
+IT,intrusion detection,removed
+IT,java,retained
+IT,machine learning,retained
+IT,material science,retained
+IT,mathematics,retained
+IT,mobile app development,retained
+IT,natural language processing,removed
+IT,node.js,retained
+IT,operating systems,retained
+IT,organizational behavior,removed
+IT,pattern recognition,removed
+IT,power bi,removed
+IT,programming languages,retained
+IT,project management,removed
+IT,python,removed
+IT,quantum computing,removed
+IT,r programming,removed
+IT,react.js,removed
+IT,real time systems,removed
+IT,research,removed
+IT,scripting,removed
+IT,sensor networks,removed
+IT,software engineering,retained
+IT,software testing,removed
+IT,spark,removed
+IT,sql,retained
+IT,virtual reality,removed
+IT,web security,retained
+IT,workshop practice,retained
+MECH,3d printing,retained
+MECH,advanced manufacturing,removed
+MECH,algorithms,removed
+MECH,artificial intelligence,removed
+MECH,artificial neural networks,removed
+MECH,automation,removed
+MECH,automobile engineering,removed
+MECH,business analytics,retained
+MECH,c programming,retained
+MECH,cad,retained
+MECH,cae,retained
+MECH,cam,removed
+MECH,capstone project,retained
+MECH,cfd,removed
+MECH,composite materials,removed
+MECH,control systems,removed
+MECH,data analytics,new
+MECH,data structures,removed
+MECH,dynamics,retained
+MECH,electric vehicles,removed
+MECH,electrical engineering,retained
+MECH,electronics,retained
+MECH,energy management,removed
+MECH,engineering mechanics,retained
+MECH,environmental engineering,retained
+MECH,finite element analysis,retained
+MECH,fluid mechanics,retained
+MECH,fluid power,removed
+MECH,fuzzy logic,removed
+MECH,gas turbines,removed
+MECH,heat transfer,retained
+MECH,hvac,removed
+MECH,hydraulics,removed
+MECH,industrial automation,removed
+MECH,industrial management,retained
+MECH,industry 4.0,removed
+MECH,industry project,retained
+MECH,instrumentation,retained
+MECH,internal combustion engines,removed
+MECH,jet propulsion,removed
+MECH,kinematics,retained
+MECH,lubrication,removed
+MECH,machine design,retained
+MECH,machine tools,removed
+MECH,manufacturing,retained
+MECH,material science,retained
+MECH,materials engineering,removed
+MECH,mathematics,retained
+MECH,mechanical engineering,retained
+MECH,mechatronics,removed
+MECH,metrology,retained
+MECH,microprocessors,retained
+MECH,operations research,retained
+MECH,power engineering,removed
+MECH,power plants,removed
+MECH,probability,retained
+MECH,production planning,removed
+MECH,python,retained
+MECH,quality management,removed
+MECH,reengineering,removed
+MECH,refrigeration,removed
+MECH,renewable energy,removed
+MECH,research,removed
+MECH,robotics,retained
+MECH,simulation,new
+MECH,solar energy,removed
+MECH,solid mechanics,retained
+MECH,thermal engineering,retained
+MECH,thermodynamics,retained
+MECH,turbomachinery,removed
+MECH,vibration analysis,removed
+MECH,workshop practice,retained

@@ -1,0 +1,93 @@
+branch,skill,r22_count,r25_count,change,expert_grade,expert_comment
+AIML,electrical engineering,0,2,2,1,Context-dependent / partially relevant
+AIML,electronics,0,2,2,1,Context-dependent / partially relevant
+AIML,generative ai,0,2,2,2,Clearly relevant curriculum enhancement
+AIML,material science,0,2,2,1,Context-dependent / partially relevant
+AIML,cad,0,1,1,1,Context-dependent / partially relevant
+AIML,data visualization,0,1,1,2,Clearly relevant curriculum enhancement
+AIML,deep learning,1,2,1,2,Clearly relevant curriculum enhancement
+AIML,electronic circuits,0,1,1,1,Context-dependent / partially relevant
+AIML,environmental engineering,0,1,1,1,Context-dependent / partially relevant
+AIML,programming languages,0,1,1,1,Context-dependent / partially relevant
+AIML,reinforcement learning,0,1,1,2,Clearly relevant curriculum enhancement
+AIML,workshop practice,0,1,1,1,Context-dependent / partially relevant
+CIVIL,material science,0,2,2,1,Context-dependent / partially relevant
+CIVIL,civil engineering software,1,2,1,2,Clearly relevant curriculum enhancement
+CIVIL,electronics,1,2,1,1,Context-dependent / partially relevant
+CIVIL,engineering geology,1,2,1,1,Context-dependent / partially relevant
+CIVIL,environmental engineering,2,3,1,1,Context-dependent / partially relevant
+CIVIL,iot,0,1,1,2,Clearly relevant curriculum enhancement
+CIVIL,material testing,1,2,1,2,Clearly relevant curriculum enhancement
+CIVIL,probability,0,1,1,1,Context-dependent / partially relevant
+CSE,electrical engineering,0,2,2,1,Context-dependent / partially relevant
+CSE,electronics,0,2,2,1,Context-dependent / partially relevant
+CSE,material science,0,2,2,1,Context-dependent / partially relevant
+CSE,cad,0,1,1,1,Context-dependent / partially relevant
+CSE,capstone project,0,1,1,1,Context-dependent / partially relevant
+CSE,compiler design,1,2,1,2,Clearly relevant curriculum enhancement
+CSE,cyber security,3,4,1,2,Clearly relevant curriculum enhancement
+CSE,deep learning,1,2,1,2,Clearly relevant curriculum enhancement
+CSE,devops,1,2,1,2,Clearly relevant curriculum enhancement
+CSE,electronic circuits,0,1,1,1,Context-dependent / partially relevant
+CSE,environmental engineering,0,1,1,1,Context-dependent / partially relevant
+CSE,java,1,2,1,2,Clearly relevant curriculum enhancement
+CSE,machine learning,1,2,1,2,Clearly relevant curriculum enhancement
+CSE,mobile app development,0,1,1,2,Clearly relevant curriculum enhancement
+CSE,nlp,1,2,1,2,Clearly relevant curriculum enhancement
+CSE,workshop practice,0,1,1,1,Context-dependent / partially relevant
+DS,electrical engineering,0,2,2,1,Context-dependent / partially relevant
+DS,electronics,0,2,2,1,Context-dependent / partially relevant
+DS,generative ai,0,2,2,2,Clearly relevant curriculum enhancement
+DS,machine learning,2,4,2,2,Clearly relevant curriculum enhancement
+DS,material science,0,2,2,1,Context-dependent / partially relevant
+DS,artificial intelligence,1,2,1,2,Clearly relevant curriculum enhancement
+DS,cad,0,1,1,1,Context-dependent / partially relevant
+DS,data mining,2,3,1,2,Clearly relevant curriculum enhancement
+DS,electronic circuits,0,1,1,1,Context-dependent / partially relevant
+DS,environmental engineering,0,1,1,1,Context-dependent / partially relevant
+DS,programming languages,0,1,1,1,Context-dependent / partially relevant
+DS,workshop practice,0,1,1,1,Context-dependent / partially relevant
+ECE,integrated circuits,1,3,2,2,Clearly relevant curriculum enhancement
+ECE,material science,0,2,2,1,Context-dependent / partially relevant
+ECE,vlsi,1,3,2,2,Clearly relevant curriculum enhancement
+ECE,cad,0,1,1,1,Context-dependent / partially relevant
+ECE,circuit analysis,1,2,1,1,Context-dependent / partially relevant
+ECE,digital signal processing,1,2,1,2,Clearly relevant curriculum enhancement
+ECE,electrical engineering,1,2,1,1,Context-dependent / partially relevant
+ECE,electronics,1,2,1,1,Context-dependent / partially relevant
+ECE,embedded systems,2,3,1,2,Clearly relevant curriculum enhancement
+ECE,environmental engineering,0,1,1,1,Context-dependent / partially relevant
+ECE,microcontrollers,1,2,1,2,Clearly relevant curriculum enhancement
+ECE,microwave engineering,1,2,1,1,Context-dependent / partially relevant
+ECE,programming languages,0,1,1,1,Context-dependent / partially relevant
+ECE,robotics,0,1,1,2,Clearly relevant curriculum enhancement
+ECE,scripting,0,1,1,2,Clearly relevant curriculum enhancement
+ECE,workshop practice,0,1,1,1,Context-dependent / partially relevant
+EEE,material science,0,2,2,1,Context-dependent / partially relevant
+EEE,analog electronics,1,2,1,1,Context-dependent / partially relevant
+EEE,business analytics,1,2,1,2,Clearly relevant curriculum enhancement
+EEE,circuit analysis,2,3,1,1,Context-dependent / partially relevant
+EEE,environmental engineering,0,1,1,1,Context-dependent / partially relevant
+EEE,microcontrollers,1,2,1,2,Clearly relevant curriculum enhancement
+EEE,sensors,0,1,1,2,Clearly relevant curriculum enhancement
+EEE,workshop practice,0,1,1,1,Context-dependent / partially relevant
+IT,java,2,5,3,2,Clearly relevant curriculum enhancement
+IT,electronics,0,2,2,1,Context-dependent / partially relevant
+IT,material science,0,2,2,1,Context-dependent / partially relevant
+IT,deep learning,1,2,1,2,Clearly relevant curriculum enhancement
+IT,electrical engineering,0,1,1,1,Context-dependent / partially relevant
+IT,environmental engineering,0,1,1,1,Context-dependent / partially relevant
+IT,machine learning,2,3,1,2,Clearly relevant curriculum enhancement
+IT,mobile app development,1,2,1,2,Clearly relevant curriculum enhancement
+IT,workshop practice,0,1,1,1,Context-dependent / partially relevant
+MECH,thermal engineering,1,4,3,2,Clearly relevant curriculum enhancement
+MECH,material science,2,4,2,1,Context-dependent / partially relevant
+MECH,data analytics,0,1,1,2,Clearly relevant curriculum enhancement
+MECH,electronics,1,2,1,1,Context-dependent / partially relevant
+MECH,environmental engineering,0,1,1,1,Context-dependent / partially relevant
+MECH,fluid mechanics,1,2,1,2,Clearly relevant curriculum enhancement
+MECH,instrumentation,1,2,1,2,Clearly relevant curriculum enhancement
+MECH,kinematics,1,2,1,2,Clearly relevant curriculum enhancement
+MECH,metrology,1,2,1,2,Clearly relevant curriculum enhancement
+MECH,probability,0,1,1,1,Context-dependent / partially relevant
+MECH,simulation,0,1,1,2,Clearly relevant curriculum enhancement

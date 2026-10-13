@@ -1,0 +1,16 @@
+branch,skill,r25_count,courses,job_count,industry_evidence,research_count,research_evidence,kg_branch_coverage,kg_job_score,kg_research_score,kg_importance_score,importance_evidence
+AIML,data visualization,1,Data Visualization- R Programming/ Power BI,0,No Direct Evidence,0,No Direct Evidence,0.375,0.0,0.0,0.0375,Available
+AIML,generative ai,2,Generative AI; Generative AI Lab,0,No Direct Evidence,0,No Direct Evidence,,,,,Not Measured
+AIML,reinforcement learning,1,Reinforcement Learning,0,No Direct Evidence,0,No Direct Evidence,,,,,Not Measured
+CIVIL,internet of things,1,Computational Lab / IOT Lab,0,No Direct Evidence,0,No Direct Evidence,0.625,0.0,0.0,0.0625,Available
+CSE,capstone project,1,Project Work,0,No Direct Evidence,0,No Direct Evidence,,,,,Not Measured
+CSE,discrete mathematics,1,Discrete Mathematics,0,No Direct Evidence,0,No Direct Evidence,0.375,0.0,0.0,0.0375,Available
+CSE,mobile app development,1,UI Design – Flutter/ Android Studio,0,No Direct Evidence,0,No Direct Evidence,0.375,0.0,0.0,0.0375,Available
+CSE,nlp,2,Natural Language Processing; Natural Language Processing Lab,353,Strong,1,Moderate,0.125,0.1415964701163257,0.0095238095238095,0.1003150249269382,Available
+CSE,node.js,1,Node Js/React JS/ Django,0,No Direct Evidence,0,No Direct Evidence,0.375,0.0,0.0,0.0375,Available
+DS,generative ai,2,Generative AI; Generative AI Lab,0,No Direct Evidence,0,No Direct Evidence,,,,,Not Measured
+ECE,robotics,1,45G Practical Lab/Robotic Lab/Drone Lab,0,No Direct Evidence,0,No Direct Evidence,0.375,0.0,0.0,0.0375,Available
+ECE,scripting,1,Linux and Shell Scripting,0,No Direct Evidence,0,No Direct Evidence,0.5,0.0,0.0,0.05,Available
+EEE,sensors,1,Dept. Core    Electrical Measurements and Sensors,0,No Direct Evidence,0,No Direct Evidence,0.125,0.0,0.0,0.0125,Available
+MECH,data analytics,1,Data Analytics and Python for Engineers,0,No Direct Evidence,0,No Direct Evidence,0.5,0.0,0.0,0.05,Available
+MECH,simulation,1,Modelling and Simulation Tools,0,No Direct Evidence,0,No Direct Evidence,0.125,0.0,0.0,0.0125,Available

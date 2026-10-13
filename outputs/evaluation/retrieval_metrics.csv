@@ -1,0 +1,4 @@
+retriever,Precision@3,Recall@3,MRR@3,nDCG@3,Latency_ms
+Graph,0.0165,0.0494,0.0368,0.04,0.7669
+Hybrid,0.0,0.0,0.0,0.0,57.7448
+Vector,0.6008,0.924,0.8644,0.8881,46.9535

@@ -1,0 +1,72 @@
+Branch : MECH
+
+Curriculum Skills
+========================================
+
+- 3d printing
+- advanced manufacturing
+- algorithms
+- artificial intelligence
+- artificial neural networks
+- automation
+- automobile engineering
+- business analytics
+- c programming
+- cad
+- cae
+- cam
+- capstone project
+- cfd
+- composite materials
+- control systems
+- data structures
+- dynamics
+- electric vehicles
+- electrical engineering
+- electronics
+- energy management
+- engineering mechanics
+- finite element analysis
+- fluid mechanics
+- fluid power
+- fuzzy logic
+- gas turbines
+- heat transfer
+- hvac
+- hydraulics
+- industrial automation
+- industrial management
+- industry 4.0
+- industry project
+- instrumentation
+- internal combustion engines
+- jet propulsion
+- kinematics
+- lubrication
+- machine design
+- machine tools
+- manufacturing
+- material science
+- materials engineering
+- mechanical engineering
+- mechatronics
+- metrology
+- microprocessors
+- operations research
+- power engineering
+- power plants
+- production planning
+- python
+- quality management
+- reengineering
+- refrigeration
+- renewable energy
+- research
+- robotics
+- solar energy
+- solid mechanics
+- thermal engineering
+- thermodynamics
+- turbomachinery
+- vibration analysis
+- workshop practice

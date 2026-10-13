@@ -1,0 +1,272 @@
+branch,skill,r25_count,curriculum_status,job_count,research_count,kg_importance_score,industry_score,research_score,kg_score,evidence_score,evidence_sources,evidence_coverage,curriculum_signal,evidence_confidence,trend_direction,trend_slope,trend_percentage_change,priority_score,recommendation,evidence_interpretation
+AIML,python,1,Limited Coverage,2493.0,0.0,0.7,0.9972,0.0,1.0,0.998,3,0.75,0.75,High,Stable,0.3571,-23.57,0.9236,High Priority,"Supported by industry, knowledge graph, historical trend"
+CSE,python,1,Limited Coverage,2493.0,0.0,0.7,0.9972,0.0,1.0,0.998,3,0.75,0.75,High,Stable,0.3571,-23.57,0.9236,High Priority,"Supported by industry, knowledge graph, historical trend"
+DS,python,1,Limited Coverage,2493.0,0.0,0.7,0.9972,0.0,1.0,0.998,3,0.75,0.75,High,Stable,0.3571,-23.57,0.9236,High Priority,"Supported by industry, knowledge graph, historical trend"
+EEE,python,1,Limited Coverage,2493.0,0.0,0.7,0.9972,0.0,1.0,0.998,3,0.75,0.75,High,Stable,0.3571,-23.57,0.9236,High Priority,"Supported by industry, knowledge graph, historical trend"
+CIVIL,python,2,Already Covered,2493.0,0.0,0.7,0.9972,0.0,1.0,0.998,3,0.75,0.5,High,Stable,0.3571,-23.57,0.8486,High Priority,"Supported by industry, knowledge graph, historical trend"
+ECE,python,2,Already Covered,2493.0,0.0,0.7,0.9972,0.0,1.0,0.998,3,0.75,0.5,High,Stable,0.3571,-23.57,0.8486,High Priority,"Supported by industry, knowledge graph, historical trend"
+MECH,python,2,Already Covered,2493.0,0.0,0.7,0.9972,0.0,1.0,0.998,3,0.75,0.5,High,Stable,0.3571,-23.57,0.8486,High Priority,"Supported by industry, knowledge graph, historical trend"
+AIML,sql,1,Limited Coverage,2074.0,0.0,0.5492,0.8296,0.0,0.7845,0.8167,3,0.75,0.75,High,Decreasing,-2.0,-24.46,0.7967,High Priority,"Supported by industry, knowledge graph, historical trend"
+CSE,sql,2,Already Covered,2074.0,0.0,0.5492,0.8296,0.0,0.7845,0.8167,3,0.75,0.5,High,Decreasing,-2.0,-24.46,0.7217,High Priority,"Supported by industry, knowledge graph, historical trend"
+DS,sql,2,Already Covered,2074.0,0.0,0.5492,0.8296,0.0,0.7845,0.8167,3,0.75,0.5,High,Decreasing,-2.0,-24.46,0.7217,High Priority,"Supported by industry, knowledge graph, historical trend"
+IT,sql,2,Already Covered,2074.0,0.0,0.5492,0.8296,0.0,0.7845,0.8167,3,0.75,0.5,High,Decreasing,-2.0,-24.46,0.7217,High Priority,"Supported by industry, knowledge graph, historical trend"
+AIML,machine learning,3,Already Covered,1973.0,21.0,0.6098,0.7892,0.175,0.8712,0.6213,3,0.75,0.5,High,Unavailable,0.0,0.0,0.5849,Moderate Priority,"Supported by industry, research, knowledge graph"
+CSE,machine learning,2,Already Covered,1973.0,21.0,0.6098,0.7892,0.175,0.8712,0.6213,3,0.75,0.5,High,Unavailable,0.0,0.0,0.5849,Moderate Priority,"Supported by industry, research, knowledge graph"
+DS,machine learning,4,Already Covered,1973.0,21.0,0.6098,0.7892,0.175,0.8712,0.6213,3,0.75,0.5,High,Unavailable,0.0,0.0,0.5849,Moderate Priority,"Supported by industry, research, knowledge graph"
+IT,machine learning,2,Already Covered,1973.0,21.0,0.6098,0.7892,0.175,0.8712,0.6213,3,0.75,0.5,High,Unavailable,0.0,0.0,0.5849,Moderate Priority,"Supported by industry, research, knowledge graph"
+AIML,c programming,1,Limited Coverage,0.0,0.0,0.1,0.0,0.0,0.1429,0.1429,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.325,Moderate Priority,Supported by knowledge graph
+CSE,c programming,1,Limited Coverage,0.0,0.0,0.1,0.0,0.0,0.1429,0.1429,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.325,Moderate Priority,Supported by knowledge graph
+DS,c programming,1,Limited Coverage,0.0,0.0,0.1,0.0,0.0,0.1429,0.1429,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.325,Moderate Priority,Supported by knowledge graph
+ECE,c programming,1,Limited Coverage,0.0,0.0,0.1,0.0,0.0,0.1429,0.1429,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.325,Moderate Priority,Supported by knowledge graph
+IT,c programming,1,Limited Coverage,0.0,0.0,0.1,0.0,0.0,0.1429,0.1429,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.325,Moderate Priority,Supported by knowledge graph
+IT,deep learning,1,Limited Coverage,468.0,1.0,0.153,0.1872,0.0083,0.2186,0.1398,3,0.75,0.75,High,Unavailable,0.0,0.0,0.3229,Moderate Priority,"Supported by industry, research, knowledge graph"
+AIML,algorithms,1,Limited Coverage,0.0,0.0,0.0875,0.0,0.0,0.125,0.125,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.3125,Moderate Priority,Supported by knowledge graph
+CSE,algorithms,1,Limited Coverage,0.0,0.0,0.0875,0.0,0.0,0.125,0.125,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.3125,Moderate Priority,Supported by knowledge graph
+DS,algorithms,1,Limited Coverage,0.0,0.0,0.0875,0.0,0.0,0.125,0.125,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.3125,Moderate Priority,Supported by knowledge graph
+CIVIL,internet of things,1,Limited Coverage,0.0,0.0,0.0625,0.0,0.0,0.0893,0.0893,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2875,Monitor,Supported by knowledge graph
+EEE,digital electronics,1,Limited Coverage,0.0,0.0,0.0625,0.0,0.0,0.0893,0.0893,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2875,Monitor,Supported by knowledge graph
+IT,computer networks,1,Limited Coverage,0.0,0.0,0.0625,0.0,0.0,0.0893,0.0893,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2875,Monitor,Supported by knowledge graph
+IT,internet of things,1,Limited Coverage,0.0,0.0,0.0625,0.0,0.0,0.0893,0.0893,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2875,Monitor,Supported by knowledge graph
+IT,operating systems,1,Limited Coverage,0.0,0.0,0.0625,0.0,0.0,0.0893,0.0893,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2875,Monitor,Supported by knowledge graph
+AIML,compiler design,1,Limited Coverage,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.275,Monitor,Supported by knowledge graph
+AIML,database management,1,Limited Coverage,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.275,Monitor,Supported by knowledge graph
+CIVIL,business analytics,1,Limited Coverage,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.275,Monitor,Supported by knowledge graph
+CIVIL,electrical engineering,1,Limited Coverage,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.275,Monitor,Supported by knowledge graph
+CIVIL,project management,1,Limited Coverage,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.275,Monitor,Supported by knowledge graph
+ECE,business analytics,1,Limited Coverage,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.275,Monitor,Supported by knowledge graph
+ECE,scripting,1,Limited Coverage,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.275,Monitor,Supported by knowledge graph
+EEE,business analytics,1,Limited Coverage,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.275,Monitor,Supported by knowledge graph
+EEE,electronics,1,Limited Coverage,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.275,Monitor,Supported by knowledge graph
+IT,compiler design,1,Limited Coverage,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.275,Monitor,Supported by knowledge graph
+IT,electrical engineering,1,Limited Coverage,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.275,Monitor,Supported by knowledge graph
+IT,embedded systems,1,Limited Coverage,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.275,Monitor,Supported by knowledge graph
+IT,software engineering,1,Limited Coverage,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.275,Monitor,Supported by knowledge graph
+MECH,business analytics,1,Limited Coverage,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.275,Monitor,Supported by knowledge graph
+MECH,data analytics,1,Limited Coverage,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.275,Monitor,Supported by knowledge graph
+MECH,electrical engineering,1,Limited Coverage,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.275,Monitor,Supported by knowledge graph
+AIML,computer organization,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+AIML,data visualization,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+AIML,discrete mathematics,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+AIML,mobile app development,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+AIML,node.js,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+AIML,statistics,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+CSE,big data,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+CSE,computer architecture,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+CSE,data visualization,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+CSE,discrete mathematics,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+CSE,mobile app development,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+CSE,node.js,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+CSE,statistics,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+DS,computer organization,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+DS,data visualization,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+DS,discrete mathematics,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+DS,mobile app development,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+DS,node.js,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+DS,r programming,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+DS,statistics,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+ECE,control systems,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+ECE,robotics,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+EEE,control systems,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+IT,computer organization,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+IT,data visualization,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+IT,discrete mathematics,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+IT,node.js,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+IT,web security,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+MECH,robotics,1,Limited Coverage,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2625,Monitor,Supported by knowledge graph
+AIML,cad,1,Limited Coverage,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+AIML,chatbots,1,Limited Coverage,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+AIML,data structures,2,Already Covered,0.0,0.0,0.1,0.0,0.0,0.1429,0.1429,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+AIML,programming languages,1,Limited Coverage,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+CIVIL,c programming,2,Already Covered,0.0,0.0,0.1,0.0,0.0,0.1429,0.1429,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+CIVIL,engineering mechanics,1,Limited Coverage,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+CIVIL,fluid mechanics,1,Limited Coverage,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+CSE,cad,1,Limited Coverage,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+CSE,data structures,3,Already Covered,0.0,0.0,0.1,0.0,0.0,0.1429,0.1429,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+CSE,programming languages,1,Limited Coverage,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+DS,cad,1,Limited Coverage,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+DS,data structures,2,Already Covered,0.0,0.0,0.1,0.0,0.0,0.1429,0.1429,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+DS,programming languages,1,Limited Coverage,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+ECE,cad,1,Limited Coverage,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+ECE,data structures,2,Already Covered,0.0,0.0,0.1,0.0,0.0,0.1429,0.1429,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+ECE,electromagnetics,1,Limited Coverage,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+ECE,programming languages,1,Limited Coverage,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+ECE,signal processing,1,Limited Coverage,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+EEE,c programming,2,Already Covered,0.0,0.0,0.1,0.0,0.0,0.1429,0.1429,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+EEE,electric vehicles,1,Limited Coverage,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+EEE,electromagnetics,1,Limited Coverage,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+EEE,renewable energy,1,Limited Coverage,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+IT,data structures,2,Already Covered,0.0,0.0,0.1,0.0,0.0,0.1429,0.1429,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+IT,programming languages,1,Limited Coverage,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+MECH,c programming,2,Already Covered,0.0,0.0,0.1,0.0,0.0,0.1429,0.1429,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+MECH,cad,1,Limited Coverage,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+MECH,engineering mechanics,1,Limited Coverage,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.25,Monitor,Supported by knowledge graph
+AIML,deep learning,2,Already Covered,468.0,1.0,0.153,0.1872,0.0083,0.2186,0.1398,3,0.75,0.5,High,Unavailable,0.0,0.0,0.2479,Monitor,"Supported by industry, research, knowledge graph"
+CSE,deep learning,2,Already Covered,468.0,1.0,0.153,0.1872,0.0083,0.2186,0.1398,3,0.75,0.5,High,Unavailable,0.0,0.0,0.2479,Monitor,"Supported by industry, research, knowledge graph"
+AIML,artificial intelligence,2,Already Covered,0.0,0.0,0.0875,0.0,0.0,0.125,0.125,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+AIML,business economics,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+AIML,electronic circuits,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+AIML,environmental engineering,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+CIVIL,foundation engineering,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+CIVIL,geomatics,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+CIVIL,geotechnical engineering,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+CIVIL,hydraulic structures,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+CIVIL,pavement engineering,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+CIVIL,probability,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+CIVIL,quantity surveying,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+CIVIL,soil mechanics,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+CIVIL,strength of materials,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+CIVIL,structural analysis,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+CIVIL,transportation engineering,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+CIVIL,water resources,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+CSE,artificial intelligence,2,Already Covered,0.0,0.0,0.0875,0.0,0.0,0.125,0.125,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+CSE,computer hardware,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+CSE,electronic circuits,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+CSE,environmental engineering,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+DS,artificial intelligence,2,Already Covered,0.0,0.0,0.0875,0.0,0.0,0.125,0.125,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+DS,electronic circuits,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+DS,environmental engineering,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+ECE,5g,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+ECE,antenna design,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+ECE,electronic circuits,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+ECE,electronic devices,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+ECE,environmental engineering,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+ECE,network analysis,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+ECE,probability,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+EEE,environmental engineering,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+EEE,ev charging,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+EEE,power system protection,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+EEE,sensors,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+EEE,smart grid,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+IT,algorithms,2,Already Covered,0.0,0.0,0.0875,0.0,0.0,0.125,0.125,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+IT,environmental engineering,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+IT,full stack development,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+IT,information security,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+MECH,3d printing,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+MECH,cae,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+MECH,dynamics,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+MECH,environmental engineering,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+MECH,finite element analysis,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+MECH,industrial management,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+MECH,mechanical engineering,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+MECH,microprocessors,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+MECH,operations research,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+MECH,probability,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+MECH,simulation,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+MECH,solid mechanics,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+MECH,thermodynamics,1,Limited Coverage,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.75,Moderate,Unavailable,0.0,0.0,0.2375,Monitor,Supported by knowledge graph
+AIML,computer networks,3,Already Covered,0.0,0.0,0.0625,0.0,0.0,0.0893,0.0893,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2125,Monitor,Supported by knowledge graph
+AIML,operating systems,2,Already Covered,0.0,0.0,0.0625,0.0,0.0,0.0893,0.0893,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2125,Monitor,Supported by knowledge graph
+CSE,computer networks,2,Already Covered,0.0,0.0,0.0625,0.0,0.0,0.0893,0.0893,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2125,Monitor,Supported by knowledge graph
+CSE,operating systems,2,Already Covered,0.0,0.0,0.0625,0.0,0.0,0.0893,0.0893,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2125,Monitor,Supported by knowledge graph
+DS,computer networks,2,Already Covered,0.0,0.0,0.0625,0.0,0.0,0.0893,0.0893,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2125,Monitor,Supported by knowledge graph
+DS,operating systems,2,Already Covered,0.0,0.0,0.0625,0.0,0.0,0.0893,0.0893,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2125,Monitor,Supported by knowledge graph
+ECE,digital electronics,2,Already Covered,0.0,0.0,0.0625,0.0,0.0,0.0893,0.0893,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2125,Monitor,Supported by knowledge graph
+ECE,internet of things,2,Already Covered,0.0,0.0,0.0625,0.0,0.0,0.0893,0.0893,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2125,Monitor,Supported by knowledge graph
+AIML,data analytics,2,Already Covered,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2,Monitor,Supported by knowledge graph
+AIML,electrical engineering,2,Already Covered,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2,Monitor,Supported by knowledge graph
+AIML,electronics,2,Already Covered,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2,Monitor,Supported by knowledge graph
+AIML,java,2,Already Covered,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2,Monitor,Supported by knowledge graph
+AIML,software engineering,3,Already Covered,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2,Monitor,Supported by knowledge graph
+CIVIL,electronics,2,Already Covered,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2,Monitor,Supported by knowledge graph
+CSE,compiler design,2,Already Covered,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2,Monitor,Supported by knowledge graph
+CSE,devops,2,Already Covered,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2,Monitor,Supported by knowledge graph
+CSE,electrical engineering,2,Already Covered,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2,Monitor,Supported by knowledge graph
+CSE,electronics,2,Already Covered,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2,Monitor,Supported by knowledge graph
+CSE,java,2,Already Covered,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2,Monitor,Supported by knowledge graph
+CSE,software engineering,3,Already Covered,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2,Monitor,Supported by knowledge graph
+DS,electrical engineering,2,Already Covered,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2,Monitor,Supported by knowledge graph
+DS,electronics,2,Already Covered,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2,Monitor,Supported by knowledge graph
+DS,java,2,Already Covered,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2,Monitor,Supported by knowledge graph
+DS,software engineering,4,Already Covered,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2,Monitor,Supported by knowledge graph
+ECE,electrical engineering,2,Already Covered,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2,Monitor,Supported by knowledge graph
+ECE,electronics,2,Already Covered,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2,Monitor,Supported by knowledge graph
+ECE,embedded systems,3,Already Covered,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2,Monitor,Supported by knowledge graph
+IT,electronics,2,Already Covered,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2,Monitor,Supported by knowledge graph
+IT,java,3,Already Covered,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2,Monitor,Supported by knowledge graph
+MECH,electronics,2,Already Covered,0.0,0.0,0.05,0.0,0.0,0.0714,0.0714,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.2,Monitor,Supported by knowledge graph
+AIML,natural language processing,2,Already Covered,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1875,Monitor,Supported by knowledge graph
+CIVIL,hydraulics,2,Already Covered,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1875,Monitor,Supported by knowledge graph
+CSE,natural language processing,2,Already Covered,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1875,Monitor,Supported by knowledge graph
+DS,big data,2,Already Covered,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1875,Monitor,Supported by knowledge graph
+DS,data mining,3,Already Covered,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1875,Monitor,Supported by knowledge graph
+IT,big data,2,Already Covered,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1875,Monitor,Supported by knowledge graph
+IT,mobile app development,2,Already Covered,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1875,Monitor,Supported by knowledge graph
+MECH,instrumentation,2,Already Covered,0.0,0.0,0.0375,0.0,0.0,0.0536,0.0536,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1875,Monitor,Supported by knowledge graph
+CIVIL,cad,3,Already Covered,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.175,Monitor,Supported by knowledge graph
+CSE,cyber security,4,Already Covered,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.175,Monitor,Supported by knowledge graph
+DS,data science,2,Already Covered,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.175,Monitor,Supported by knowledge graph
+ECE,circuit analysis,2,Already Covered,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.175,Monitor,Supported by knowledge graph
+ECE,digital signal processing,2,Already Covered,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.175,Monitor,Supported by knowledge graph
+ECE,microcontrollers,2,Already Covered,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.175,Monitor,Supported by knowledge graph
+EEE,analog electronics,2,Already Covered,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.175,Monitor,Supported by knowledge graph
+EEE,circuit analysis,3,Already Covered,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.175,Monitor,Supported by knowledge graph
+EEE,microcontrollers,2,Already Covered,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.175,Monitor,Supported by knowledge graph
+MECH,fluid mechanics,2,Already Covered,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.175,Monitor,Supported by knowledge graph
+MECH,manufacturing,2,Already Covered,0.0,0.0,0.025,0.0,0.0,0.0357,0.0357,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.175,Monitor,Supported by knowledge graph
+AIML,material science,2,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+CIVIL,civil engineering software,2,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+CIVIL,engineering geology,2,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+CIVIL,environmental engineering,3,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+CIVIL,material science,2,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+CIVIL,material testing,2,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+CIVIL,surveying,3,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+CSE,material science,2,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+DS,material science,2,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+ECE,communication systems,2,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+ECE,integrated circuits,3,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+ECE,material science,2,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+ECE,microwave engineering,2,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+ECE,vlsi,3,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+EEE,electrical machines,2,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+EEE,material science,2,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+EEE,power electronics,2,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+EEE,power systems,3,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+IT,material science,2,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+MECH,heat transfer,2,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+MECH,kinematics,2,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+MECH,machine design,2,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+MECH,material science,4,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+MECH,metrology,2,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+MECH,thermal engineering,4,Already Covered,0.0,0.0,0.0125,0.0,0.0,0.0179,0.0179,1,0.25,0.5,Moderate,Unavailable,0.0,0.0,0.1625,Monitor,Supported by knowledge graph
+AIML,capstone project,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+AIML,generative ai,2,Already Covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.5,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+AIML,internship,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+AIML,mathematics,3,Already Covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.5,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+AIML,nan,15,Already Covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.5,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+AIML,reinforcement learning,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+AIML,research,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+AIML,workshop practice,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+CIVIL,capstone project,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+CIVIL,industry project,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+CIVIL,mathematics,3,Already Covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.5,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+CIVIL,nan,21,Already Covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.5,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+CIVIL,workshop practice,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+CSE,capstone project,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+CSE,mathematics,3,Already Covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.5,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+CSE,nan,16,Already Covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.5,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+CSE,workshop practice,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+DS,capstone project,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+DS,generative ai,2,Already Covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.5,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+DS,internship,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+DS,mathematics,3,Already Covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.5,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+DS,nan,15,Already Covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.5,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+DS,workshop practice,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+ECE,capstone project,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+ECE,industry project,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+ECE,mathematics,4,Already Covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.5,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+ECE,nan,16,Already Covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.5,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+ECE,workshop practice,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+EEE,capstone project,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+EEE,industry project,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+EEE,mathematics,3,Already Covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.5,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+EEE,nan,15,Already Covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.5,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+EEE,workshop practice,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+IT,capstone project,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+IT,mathematics,2,Already Covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.5,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+IT,nan,25,Already Covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.5,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+IT,workshop practice,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+MECH,capstone project,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+MECH,industry project,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+MECH,mathematics,3,Already Covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.5,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+MECH,nan,16,Already Covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.5,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"
+MECH,workshop practice,1,Limited Coverage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.75,Low,Unavailable,0.0,0.0,0.0,Emerging Candidate,"No direct industry, research, knowledge graph, or historical trend evidence"

@@ -1,0 +1,297 @@
+node,degree_centrality
+AIML,0.301695
+MECH,0.301695
+DS,0.281356
+ECE,0.277966
+IT,0.274576
+CSE,0.257627
+CIVIL,0.250847
+EEE,0.227119
+nlp,0.067797
+knowledge graph,0.061017
+mlops,0.061017
+rag,0.061017
+llm,0.057627
+pytorch,0.057627
+tensorflow,0.057627
+deep learning,0.054237
+sql,0.047458
+Research,0.044068
+Industry,0.044068
+machine learning,0.040678
+python,0.033898
+agentic ai,0.033898
+llmops,0.033898
+c programming,0.027119
+research,0.027119
+data structures,0.027119
+artificial intelligence,0.023729
+algorithms,0.023729
+capstone project,0.023729
+iot,0.020339
+operating systems,0.016949
+cyber security,0.016949
+computer networks,0.016949
+digital electronics,0.016949
+image processing,0.016949
+compiler design,0.013559
+computer graphics,0.013559
+scripting,0.013559
+database management,0.013559
+data analytics,0.013559
+cloud computing,0.013559
+quantum computing,0.013559
+automata,0.013559
+information retrieval,0.013559
+business analytics,0.013559
+software engineering,0.013559
+software testing,0.013559
+industry project,0.013559
+django,0.013559
+project management,0.013559
+react,0.013559
+nodejs,0.013559
+electrical engineering,0.013559
+flutter,0.013559
+devops,0.013559
+embedded systems,0.013559
+electronics,0.013559
+java,0.013559
+robotics,0.010169
+statistics,0.010169
+discrete mathematics,0.010169
+control systems,0.010169
+computer architecture,0.010169
+blockchain,0.010169
+big data,0.010169
+hydraulics,0.010169
+instrumentation,0.010169
+power bi,0.010169
+r programming,0.010169
+computer organization,0.010169
+mobile app development,0.010169
+data mining,0.010169
+data visualization,0.010169
+rpa,0.00678
+virtual reality,0.00678
+web development,0.00678
+electric vehicles,0.00678
+pattern recognition,0.00678
+organizational behavior,0.00678
+renewable energy,0.00678
+real time systems,0.00678
+programming languages,0.00678
+distributed systems,0.00678
+computer vision,0.00678
+analog electronics,0.00678
+sensor networks,0.00678
+augmented reality,0.00678
+data science,0.00678
+signal processing,0.00678
+data warehousing,0.00678
+mobile development,0.00678
+digital signal processing,0.00678
+engineering mechanics,0.00678
+manufacturing,0.00678
+management,0.00678
+microcontrollers,0.00678
+cad,0.00678
+chatbots,0.00678
+circuit analysis,0.00678
+cryptography,0.00678
+fluid mechanics,0.00678
+internship,0.00678
+graph theory,0.00678
+electromagnetics,0.00678
+spark,0.00678
+social network analysis,0.00678
+workshop practice,0.00678
+3d printing,0.00339
+5g,0.00339
+ad hoc networks,0.00339
+advanced manufacturing,0.00339
+solar energy,0.00339
+soil mechanics,0.00339
+soft computing,0.00339
+social media mining,0.00339
+biomedical engineering,0.00339
+battery technology,0.00339
+automobile engineering,0.00339
+speech processing,0.00339
+solid waste management,0.00339
+solid mechanics,0.00339
+video analytics,0.00339
+vibration analysis,0.00339
+turbomachinery,0.00339
+transportation engineering,0.00339
+transport infrastructure,0.00339
+transmission lines,0.00339
+thermodynamics,0.00339
+thermal engineering,0.00339
+telecommunication,0.00339
+talend,0.00339
+system on chip,0.00339
+electronic devices,0.00339
+electronic circuits,0.00339
+electrical machines,0.00339
+electrical machine design,0.00339
+geomatics,0.00339
+gas turbines,0.00339
+game theory,0.00339
+fuzzy logic,0.00339
+full stack development,0.00339
+full stack,0.00339
+foundation engineering,0.00339
+fluid power,0.00339
+finite element analysis,0.00339
+financial analysis,0.00339
+federated machine learning,0.00339
+facts,0.00339
+expert systems,0.00339
+evolutionary computing,0.00339
+hydraulic structures,0.00339
+hydraulic machinery,0.00339
+hvdc,0.00339
+hvac,0.00339
+human computer interaction,0.00339
+html,0.00339
+high voltage engineering,0.00339
+high performance computing,0.00339
+heat transfer,0.00339
+healthcare electronics,0.00339
+hci,0.00339
+groundwater hydrology,0.00339
+ground improvement,0.00339
+green buildings,0.00339
+geotechnical engineering,0.00339
+business economics,0.00339
+building materials,0.00339
+biometrics,0.00339
+internal combustion engines,0.00339
+integrated circuits,0.00339
+information security,0.00339
+digital forensics,0.00339
+database security,0.00339
+ev charging,0.00339
+etl,0.00339
+environmental impact assessment,0.00339
+environmental engineering,0.00339
+engineering geology,0.00339
+energy storage,0.00339
+energy management,0.00339
+electronic measurements,0.00339
+industry 4.0,0.00339
+industrial management,0.00339
+industrial automation,0.00339
+knowledge representation,0.00339
+kinematics,0.00339
+kafka,0.00339
+jet propulsion,0.00339
+javascript,0.00339
+intrusion detection,0.00339
+civil engineering software,0.00339
+civil engineering,0.00339
+cfd,0.00339
+cam,0.00339
+cae,0.00339
+c++,0.00339
+microprocessors,0.00339
+metrology,0.00339
+mechatronics,0.00339
+mechanical engineering,0.00339
+mathematics,0.00339
+materials engineering,0.00339
+material testing,0.00339
+material science,0.00339
+cyber forensics,0.00339
+css,0.00339
+conversational ai,0.00339
+electrical distribution,0.00339
+electric power,0.00339
+earthquake engineering,0.00339
+dynamics,0.00339
+distributed databases,0.00339
+distributed database,0.00339
+distributed computing,0.00339
+machine tools,0.00339
+machine design,0.00339
+lubrication,0.00339
+logic design,0.00339
+lisp,0.00339
+parallel computing,0.00339
+pandas,0.00339
+optical communication,0.00339
+operations research,0.00339
+oop,0.00339
+network analysis,0.00339
+nature inspired computing,0.00339
+multimedia databases,0.00339
+mobile computing,0.00339
+mobile communication,0.00339
+microwave engineering,0.00339
+prolog,0.00339
+production planning,0.00339
+probability,0.00339
+prestressed concrete,0.00339
+power systems,0.00339
+power system reliability,0.00339
+power system protection,0.00339
+power quality,0.00339
+power plants,0.00339
+power engineering,0.00339
+power electronics,0.00339
+pavement engineering,0.00339
+pavement design,0.00339
+retaining structures,0.00339
+reliability engineering,0.00339
+reinforced concrete,0.00339
+refrigeration,0.00339
+reengineering,0.00339
+reasoning,0.00339
+randomized algorithms,0.00339
+radar,0.00339
+communication systems,0.00339
+cognitive computing,0.00339
+cmos,0.00339
+video processing,0.00339
+database,0.00339
+data stream mining,0.00339
+data privacy,0.00339
+data communication,0.00339
+cyber physical systems,0.00339
+quantity surveying,0.00339
+quality management,0.00339
+pyswip,0.00339
+analog ic design,0.00339
+analog circuits,0.00339
+social media analytics,0.00339
+smart grid,0.00339
+smart cities,0.00339
+slope stability,0.00339
+simulation,0.00339
+sensors,0.00339
+automation,0.00339
+artificial neural networks,0.00339
+antenna design,0.00339
+construction management,0.00339
+concrete technology,0.00339
+computer hardware,0.00339
+computer fundamentals,0.00339
+composite materials,0.00339
+complexity theory,0.00339
+semantic web,0.00339
+satellite communication,0.00339
+advanced operating systems,0.00339
+wireless sensor networks,0.00339
+wireless networks,0.00339
+wireless communication,0.00339
+water resources,0.00339
+vlsi,0.00339
+storage management,0.00339
+stochastic processes,0.00339
+steel structures,0.00339
+surveying,0.00339
+structural analysis,0.00339
+strength of materials,0.00339
+air pollution,0.00339
+agile,0.00339

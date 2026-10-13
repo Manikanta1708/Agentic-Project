@@ -1,0 +1,9 @@
+branch,r22_courses,r25_courses,courses_retained,courses_removed,courses_added
+AIML,75,70,23,52,47
+CIVIL,61,68,15,46,53
+CSE,56,70,18,38,52
+DS,74,68,23,51,45
+ECE,55,70,17,38,53
+EEE,53,50,0,53,50
+IT,72,64,4,68,60
+MECH,62,67,17,45,50

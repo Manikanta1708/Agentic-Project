@@ -1,0 +1,67 @@
+Branch : ECE
+
+Curriculum Skills
+========================================
+
+- 5g
+- algorithms
+- analog circuits
+- analog electronics
+- analog ic design
+- antenna design
+- artificial intelligence
+- biomedical engineering
+- business analytics
+- c programming
+- capstone project
+- circuit analysis
+- cmos
+- communication systems
+- computer architecture
+- computer networks
+- control systems
+- cryptography
+- cyber security
+- data communication
+- data structures
+- database management
+- deep learning
+- digital electronics
+- digital signal processing
+- electrical engineering
+- electromagnetics
+- electronic circuits
+- electronic devices
+- electronic measurements
+- electronics
+- embedded systems
+- healthcare electronics
+- image processing
+- industry project
+- instrumentation
+- integrated circuits
+- iot
+- logic design
+- machine learning
+- microcontrollers
+- microwave engineering
+- mobile communication
+- network analysis
+- operating systems
+- optical communication
+- probability
+- python
+- radar
+- real time systems
+- research
+- satellite communication
+- sensors
+- signal processing
+- social network analysis
+- stochastic processes
+- system on chip
+- telecommunication
+- transmission lines
+- vlsi
+- wireless communication
+- wireless sensor networks

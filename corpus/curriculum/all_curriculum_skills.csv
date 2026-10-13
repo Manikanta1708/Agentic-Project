@@ -1,0 +1,615 @@
+course_name,skill,branch
+Programming for Problem Solving,c programming,AIML
+Programming for Problem Solving Laboratory,c programming,AIML
+Python Programming Laboratory,python,AIML
+Mathematical and Statistical Foundations,mathematics,AIML
+Mathematical and Statistical Foundations,statistics,AIML
+Data Structures,data structures,AIML
+Introduction to Data Structures Lab,data structures,AIML
+Computer Organization and Architecture,computer organization,AIML
+Software Engineering,software engineering,AIML
+Software Engineering Lab,software engineering,AIML
+Operating Systems,operating systems,AIML
+Operating Systems Lab,operating systems,AIML
+Node JS / React JS / Django,node.js,AIML
+Node JS / React JS / Django,react.js,AIML
+Node JS / React JS / Django,django,AIML
+Discrete Mathematics,discrete mathematics,AIML
+Automata Theory and Compiler Design,compiler design,AIML
+Automata Theory and Compiler Design,automata,AIML
+Database Management Systems,database management,AIML
+Database Management Systems,sql,AIML
+Database Management Systems Lab,sql,AIML
+Introduction to Artificial Intelligence,artificial intelligence,AIML
+Object Oriented Programming through Java,java,AIML
+Java Programming Lab,java,AIML
+Real-time Research Project / Field-Based Research Project,research,AIML
+Prolog / Lisp / Pyswip,prolog,AIML
+Prolog / Lisp / Pyswip,lisp,AIML
+Prolog / Lisp / Pyswip,pyswip,AIML
+Design and Analysis of Algorithms,algorithms,AIML
+Machine Learning,machine learning,AIML
+Machine Learning Lab,machine learning,AIML
+Computer Networks,computer networks,AIML
+Computer Networks Lab,computer networks,AIML
+Business Economics and Financial Analysis,business economics,AIML
+Business Economics and Financial Analysis,financial analysis,AIML
+UI Design - Flutter,flutter,AIML
+Knowledge Representation and Reasoning,knowledge representation,AIML
+Knowledge Representation and Reasoning,reasoning,AIML
+Data Analytics,data analytics,AIML
+Data Analytics Lab,data analytics,AIML
+Natural Language Processing,natural language processing,AIML
+Natural Language Processing Lab,natural language processing,AIML
+Industrial Oriented Mini Project / Internship / Skill Development Course,internship,AIML
+Industrial Oriented Mini Project / Internship / Skill Development Course,devops,AIML
+Deep Learning,deep learning,AIML
+Nature Inspired Computing,nature inspired computing,AIML
+Project Stage - I,capstone project,AIML
+Project Stage - II including Seminar,capstone project,AIML
+Graph Theory,graph theory,AIML
+Introduction to Data Science,data science,AIML
+Web Programming,web development,AIML
+Image Processing,image processing,AIML
+Computer Graphics,computer graphics,AIML
+Software Testing Methodologies,software testing,AIML
+Information Retrieval Systems,information retrieval,AIML
+Pattern Recognition,pattern recognition,AIML
+Computer Vision and Robotics,computer vision,AIML
+Computer Vision and Robotics,robotics,AIML
+Data Warehousing and Business Intelligence,data warehousing,AIML
+Data Warehousing and Business Intelligence,business intelligence,AIML
+Internet of Things,internet of things,AIML
+Data Mining,data mining,AIML
+Scripting Languages,scripting,AIML
+Mobile Application Development,mobile app development,AIML
+Cloud Computing,cloud computing,AIML
+Quantum Computing,quantum computing,AIML
+Expert Systems,expert systems,AIML
+Semantic Web,semantic web,AIML
+Game Theory,game theory,AIML
+Mobile Computing,mobile computing,AIML
+Social Network Analysis,social network analysis,AIML
+Federated Machine Learning,federated machine learning,AIML
+Augmented Reality and Virtual Reality,augmented reality,AIML
+Augmented Reality and Virtual Reality,virtual reality,AIML
+Web Security,web security,AIML
+Ad-hoc and Sensor Networks,ad hoc networks,AIML
+Ad-hoc and Sensor Networks,sensor networks,AIML
+Speech and Video Processing,speech processing,AIML
+Speech and Video Processing,video processing,AIML
+Robotic Process Automation,rpa,AIML
+Randomized Algorithms,randomized algorithms,AIML
+Cognitive Computing,cognitive computing,AIML
+Conversational AI,conversational ai,AIML
+Fundamentals of AI,artificial intelligence,AIML
+Machine Learning Basics,machine learning,AIML
+Introduction to Natural Language Processing,natural language processing,AIML
+AI Applications,artificial intelligence,AIML
+Chatbots,chatbots,AIML
+Evolutionary Computing,evolutionary computing,AIML
+Programming for Problem Solving,c programming,CSE
+Programming for Problem Solving,algorithms,CSE
+Programming for Problem Solving,data structures,CSE
+Elements of Computer Science & Engineering,computer fundamentals,CSE
+Elements of Computer Science & Engineering,operating systems,CSE
+Elements of Computer Science & Engineering,database,CSE
+Elements of Computer Science & Engineering,computer networks,CSE
+Elements of Computer Science & Engineering,cyber security,CSE
+Elements of Computer Science & Engineering,cloud computing,CSE
+Elements of Computer Science & Engineering,artificial intelligence,CSE
+Python Programming Laboratory,python,CSE
+IT Workshop,computer hardware,CSE
+Digital Electronics,digital electronics,CSE
+Data Structures,data structures,CSE
+Computer Oriented Statistical Methods,statistics,CSE
+Computer Organization and Architecture,computer architecture,CSE
+Object Oriented Programming through Java,java,CSE
+Object Oriented Programming through Java,oop,CSE
+Data Visualization - R Programming / Power BI,data visualization,CSE
+Data Visualization - R Programming / Power BI,r programming,CSE
+Data Visualization - R Programming / Power BI,power bi,CSE
+Operating Systems,operating systems,CSE
+Database Management Systems,sql,CSE
+Database Management Systems,database,CSE
+Software Engineering,software engineering,CSE
+Node JS / React JS / Django,nodejs,CSE
+Node JS / React JS / Django,react,CSE
+Node JS / React JS / Django,django,CSE
+Design and Analysis of Algorithms,algorithms,CSE
+Computer Networks,computer networks,CSE
+DevOps,devops,CSE
+UI Design - Flutter,flutter,CSE
+Machine Learning,machine learning,CSE
+Machine Learning,python,CSE
+Formal Languages and Automata Theory,automata,CSE
+Artificial Intelligence,artificial intelligence,CSE
+Artificial Intelligence,llm,CSE
+Artificial Intelligence,chatbots,CSE
+Industrial Oriented Mini Project,big data,CSE
+Industrial Oriented Mini Project,spark,CSE
+Cryptography and Network Security,cyber security,CSE
+Cryptography and Network Security,network security,CSE
+Compiler Design,compiler design,CSE
+Project Stage I,research,CSE
+Organizational Behavior,management,CSE
+Quantum Computing,quantum computing,CSE
+Advanced Computer Architecture,computer architecture,CSE
+Data Analytics,data analytics,CSE
+Data Analytics,pandas,CSE
+Image Processing,image processing,CSE
+Principles of Programming Languages,programming languages,CSE
+Computer Graphics,computer graphics,CSE
+Embedded Systems,embedded systems,CSE
+Information Retrieval Systems,information retrieval,CSE
+Distributed Databases,distributed database,CSE
+Natural Language Processing,nlp,CSE
+Full Stack Development,full stack,CSE
+Full Stack Development,html,CSE
+Full Stack Development,css,CSE
+Full Stack Development,javascript,CSE
+Internet of Things,iot,CSE
+Scripting Languages,scripting,CSE
+Mobile Application Development,mobile development,CSE
+Software Testing Methodologies,software testing,CSE
+Graph Theory,graph theory,CSE
+Cyber Security,cyber security,CSE
+Soft Computing,soft computing,CSE
+Cloud Computing,cloud computing,CSE
+Ad hoc & Sensor Networks,wireless networks,CSE
+Advanced Algorithms,algorithms,CSE
+Agile Methodology,agile,CSE
+Robotic Process Automation,rpa,CSE
+Blockchain Technology,blockchain,CSE
+Software Process & Project Management,project management,CSE
+Computational Complexity,complexity theory,CSE
+Distributed Systems,distributed systems,CSE
+Deep Learning,deep learning,CSE
+Deep Learning,tensorflow,CSE
+Deep Learning,pytorch,CSE
+Human Computer Interaction,hci,CSE
+Cyber Forensics,digital forensics,CSE
+Programming for Problem Solving,c programming,DS
+Programming for Problem Solving Laboratory,c programming,DS
+Python Programming Laboratory,python,DS
+Data Structures,data structures,DS
+Data Structures Lab,data structures,DS
+Computer Organization and Architecture,computer organization,DS
+Digital Electronics,digital electronics,DS
+Computer Oriented Statistical Methods,statistics,DS
+Object Oriented Programming through Java,java,DS
+Object Oriented Programming through Java Lab,java,DS
+Data Visualization - R Programming / Power BI,data visualization,DS
+Data Visualization - R Programming / Power BI,r programming,DS
+Data Visualization - R Programming / Power BI,power bi,DS
+Discrete Mathematics,discrete mathematics,DS
+Operating Systems,operating systems,DS
+Operating Systems Lab,operating systems,DS
+Database Management Systems,sql,DS
+Database Management Systems,database management,DS
+Database Management Systems Lab,sql,DS
+Software Engineering,software engineering,DS
+Real-time Research Project / Societal Related Project,research,DS
+Node JS / React JS / Django,node.js,DS
+Node JS / React JS / Django,react.js,DS
+Node JS / React JS / Django,django,DS
+Algorithms Design and Analysis,algorithms,DS
+Introduction to Data Science,data science,DS
+Computer Networks,computer networks,DS
+Computer Networks Lab,computer networks,DS
+R Programming Lab,r programming,DS
+ETL-Kafka/Talend,etl,DS
+ETL-Kafka/Talend,kafka,DS
+ETL-Kafka/Talend,talend,DS
+Automata Theory and Compiler Design,compiler design,DS
+Automata Theory and Compiler Design,automata,DS
+Machine Learning,machine learning,DS
+Machine Learning Lab,machine learning,DS
+Big Data Analytics,big data,DS
+Big Data Analytics Lab,big data,DS
+Industrial Oriented Mini Project / Summer Internship,internship,DS
+Industrial Oriented Mini Project / Summer Internship,flutter,DS
+Predictive Analytics,predictive analytics,DS
+Predictive Analytics Lab,predictive analytics,DS
+Web and Social Media Analytics,social media analytics,DS
+Web and Social Media Analytics Lab,social media analytics,DS
+Project Stage - I,capstone project,DS
+Project Stage - II including Seminar,capstone project,DS
+Organizational Behavior,organizational behavior,DS
+Data Warehousing and Business Intelligence,data warehousing,DS
+Data Warehousing and Business Intelligence,business intelligence,DS
+Artificial Intelligence,artificial intelligence,DS
+Web Programming,web development,DS
+Image Processing,image processing,DS
+Computer Graphics,computer graphics,DS
+Spatial and Multimedia Databases,multimedia databases,DS
+Information Retrieval Systems,information retrieval,DS
+Software Project Management,project management,DS
+DevOps,devops,DS
+Computer Vision and Robotics,computer vision,DS
+Computer Vision and Robotics,robotics,DS
+Software Testing Methodologies,software testing,DS
+Data Visualization Techniques,data visualization,DS
+Scripting Languages,scripting,DS
+Mobile Application Development,mobile app development,DS
+Cryptography and Network Security,cryptography,DS
+Cryptography and Network Security,network security,DS
+Quantum Computing,quantum computing,DS
+Database Security,database security,DS
+Natural Language Processing,natural language processing,DS
+Information Storage Management,storage management,DS
+Internet of Things,internet of things,DS
+Privacy Preserving Data Publishing,data privacy,DS
+Cloud Computing,cloud computing,DS
+Data Science Applications,data science,DS
+Mining Massive Datasets,data mining,DS
+Exploratory Data Analysis,exploratory data analysis,DS
+Data Stream Mining,data stream mining,DS
+Web Security,web security,DS
+Video Analytics,video analytics,DS
+Blockchain Technology,blockchain,DS
+Parallel and Distributed Computing,parallel computing,DS
+Parallel and Distributed Computing,distributed computing,DS
+Fundamentals of Data Science,data science,DS
+R Programming,r programming,DS
+Data Mining,data mining,DS
+Data Analytics,data analytics,DS
+Introduction to Social Media Mining,social media mining,DS
+Data Visualization using Python,python,DS
+Data Visualization using Python,data visualization,DS
+Programming for Problem Solving,c programming,IT
+Programming for Problem Solving Laboratory,c programming,IT
+Python Programming Laboratory,python,IT
+Data Structures,data structures,IT
+Data Structures Lab,data structures,IT
+Computer Organization and Microprocessor,computer organization,IT
+Digital Electronics,digital electronics,IT
+Digital Electronics Lab,digital electronics,IT
+Introduction to IoT,internet of things,IT
+Internet of Things Lab,internet of things,IT
+Data Visualization - R Programming / Power BI,data visualization,IT
+Data Visualization - R Programming / Power BI,r programming,IT
+Data Visualization - R Programming / Power BI,power bi,IT
+Discrete Mathematics,discrete mathematics,IT
+Operating Systems,operating systems,IT
+Operating Systems Lab,operating systems,IT
+Database Management Systems,sql,IT
+Database Management Systems,database management,IT
+Database Management Systems Lab,sql,IT
+Java Programming,java,IT
+Java Programming Lab,java,IT
+Node JS / React JS / Django,node.js,IT
+Node JS / React JS / Django,react.js,IT
+Node JS / React JS / Django,django,IT
+Software Engineering,software engineering,IT
+Software Engineering & Computer Networks Lab,computer networks,IT
+Software Engineering & Computer Networks Lab,software engineering,IT
+Data Communications and Computer Networks,computer networks,IT
+Machine Learning,machine learning,IT
+Machine Learning Lab,machine learning,IT
+UI Design - Flutter,flutter,IT
+Automata Theory and Compiler Design,compiler design,IT
+Automata Theory and Compiler Design,automata,IT
+Algorithms Design and Analysis,algorithms,IT
+Embedded Systems,embedded systems,IT
+Embedded Systems Lab,embedded systems,IT
+Compiler Design Lab,compiler design,IT
+Industrial Oriented Mini Project / Internship,big data,IT
+Industrial Oriented Mini Project / Internship,spark,IT
+Real-time Research Project / Societal Related Project,research,IT
+Information Security,information security,IT
+Information Security Lab,information security,IT
+Cloud Computing,cloud computing,IT
+Cloud Computing Lab,cloud computing,IT
+Project Stage - I,capstone project,IT
+Project Stage - II including Seminar,capstone project,IT
+Organizational Behavior,organizational behavior,IT
+Biometrics,biometrics,IT
+Advanced Computer Architecture,computer architecture,IT
+Data Analytics,data analytics,IT
+Image Processing,image processing,IT
+Principles of Programming Languages,programming languages,IT
+Computer Graphics,computer graphics,IT
+Quantum Computing,quantum computing,IT
+Advanced Operating Systems,advanced operating systems,IT
+Distributed Databases,distributed databases,IT
+Pattern Recognition,pattern recognition,IT
+Full Stack Development,full stack development,IT
+Data Mining,data mining,IT
+Scripting Languages,scripting,IT
+Mobile Application Development,mobile app development,IT
+Software Testing Methodologies,software testing,IT
+Human Computer Interaction,human computer interaction,IT
+High Performance Computing,high performance computing,IT
+Artificial Intelligence,artificial intelligence,IT
+Information Retrieval Systems,information retrieval,IT
+Ad-hoc & Sensor Networks,sensor networks,IT
+Intrusion Detection Systems,intrusion detection,IT
+Real Time Systems,real time systems,IT
+Blockchain Technology,blockchain,IT
+Deep Learning,deep learning,IT
+Software Process & Project Management,project management,IT
+Natural Language Processing,natural language processing,IT
+Distributed Systems,distributed systems,IT
+Augmented Reality & Virtual Reality,augmented reality,IT
+Augmented Reality & Virtual Reality,virtual reality,IT
+Web Security,web security,IT
+Cyber Forensics,cyber forensics,IT
+Big Data Technologies,big data,IT
+DevOps,devops,IT
+Object Oriented Programming using C++,c++,IT
+C Programming for Engineers,c programming,ECE
+C Programming for Engineers,algorithms,ECE
+C Programming for Engineers,data structures,ECE
+Elements of Electronics and Communication Engineering,electronics,ECE
+Elements of Electronics and Communication Engineering,electronic circuits,ECE
+Elements of Electronics and Communication Engineering,digital electronics,ECE
+Applied Python Programming Laboratory,python,ECE
+Basic Electrical Engineering,electrical engineering,ECE
+Electronic Devices and Circuits,electronic devices,ECE
+Electronic Devices and Circuits,analog circuits,ECE
+Analog Circuits,analog electronics,ECE
+Network Analysis and Synthesis,network analysis,ECE
+Digital Logic Design,digital electronics,ECE
+Digital Logic Design,logic design,ECE
+Signals and Systems,signal processing,ECE
+Probability Theory and Stochastic Processes,probability,ECE
+Probability Theory and Stochastic Processes,stochastic processes,ECE
+Electromagnetic Fields and Transmission Lines,electromagnetics,ECE
+Electromagnetic Fields and Transmission Lines,transmission lines,ECE
+Analog and Digital Communications,communication systems,ECE
+Linear and Digital IC Applications,integrated circuits,ECE
+Electronic Circuit Analysis,circuit analysis,ECE
+Real Time Project / Field Based Project,real time systems,ECE
+Microcontrollers,microcontrollers,ECE
+Microcontrollers,embedded systems,ECE
+IoT Architectures and Protocols,internet of things,ECE
+IoT Architectures and Protocols,iot,ECE
+Control Systems,control systems,ECE
+Business Economics & Financial Analysis,business analytics,ECE
+Antennas and Wave Propagation,antenna design,ECE
+Antennas and Wave Propagation,wireless communication,ECE
+Digital Signal Processing,digital signal processing,ECE
+CMOS VLSI Design,vlsi,ECE
+CMOS VLSI Design,cmos,ECE
+Industry Oriented Mini Project / Internship,industry project,ECE
+Microwave and Optical Communications,microwave engineering,ECE
+Microwave and Optical Communications,optical communication,ECE
+Project Stage I,research,ECE
+Project Stage II including Seminar,capstone project,ECE
+Computer Organization & Operating Systems,computer architecture,ECE
+Computer Organization & Operating Systems,operating systems,ECE
+Data Communications and Computer Networks,computer networks,ECE
+Data Communications and Computer Networks,data communication,ECE
+Electronic Measurements and Instrumentation,instrumentation,ECE
+Electronic Measurements and Instrumentation,electronic measurements,ECE
+Digital Image Processing,image processing,ECE
+Mobile Communications and Networks,mobile communication,ECE
+Embedded System Design,embedded systems,ECE
+Radar Systems,radar,ECE
+CMOS Analog IC Design,analog ic design,ECE
+Artificial Neural Networks,neural networks,ECE
+deep learning,,ECE
+Network Security and Cryptography,cyber security,ECE
+Network Security and Cryptography,cryptography,ECE
+Satellite Communications,satellite communication,ECE
+Biomedical Instrumentation,biomedical engineering,ECE
+Artificial Intelligence,artificial intelligence,ECE
+5G and beyond Communications,5g,ECE
+5G and beyond Communications,wireless communication,ECE
+Machine Learning,machine learning,ECE
+Machine Learning,python,ECE
+Multimedia Database Management Systems,database management,ECE
+System on Chip Architecture,system on chip,ECE
+Wireless Sensor Networks,wireless sensor networks,ECE
+Wireless Sensor Networks,iot,ECE
+Fundamentals of Internet of Things,internet of things,ECE
+Principles of Signal Processing,signal processing,ECE
+Digital Electronics for Engineering,digital electronics,ECE
+Electronic Sensors,sensors,ECE
+Electronics for Health Care,healthcare electronics,ECE
+Telecommunications for Society,telecommunication,ECE
+Measuring Instruments,instrumentation,ECE
+Communication Technologies,communication systems,ECE
+Fundamentals of Social Networks,social network analysis,ECE
+C Programming and Data Structures,c programming,EEE
+C Programming and Data Structures,data structures,EEE
+C Programming and Data Structures,algorithms,EEE
+Electrical Circuit Analysis - I,circuit analysis,EEE
+Electrical Circuit Analysis - II,circuit analysis,EEE
+Elements of Electrical and Electronics Engineering,electrical engineering,EEE
+Elements of Electrical and Electronics Engineering,electronics,EEE
+Applied Python Programming Laboratory,python,EEE
+Electrical Machines-I,electrical machines,EEE
+Electrical Machines-II,electrical machines,EEE
+Power System-I,power systems,EEE
+Power System-II,power systems,EEE
+Analog Electronic Circuits,analog electronics,EEE
+Electro Magnetic Fields,electromagnetics,EEE
+Electrical Simulation Tools Laboratory,simulation,EEE
+Solid Mechanics & Hydraulic Machines,hydraulics,EEE
+Measurements and Instrumentation,instrumentation,EEE
+Digital Electronics,digital electronics,EEE
+Real-time Research Project / Field Based Project,research,EEE
+Power Electronics,power electronics,EEE
+Control Systems,control systems,EEE
+Microprocessors & Microcontrollers,microcontrollers,EEE
+Microprocessors & Microcontrollers,embedded systems,EEE
+Business Economics and Financial Analysis,business analytics,EEE
+Digital Signal Processing,digital signal processing,EEE
+Power System Protection,power system protection,EEE
+Power System Operation and Control,power systems,EEE
+Industry Oriented Mini Project / Internship,industry project,EEE
+Power Electronic Applications to Renewable Energy Systems,renewable energy,EEE
+Power Electronic Applications to Renewable Energy Systems,power electronics,EEE
+Fundamentals of Management for Engineers,management,EEE
+Simulation of Renewable Energy Systems Laboratory,renewable energy,EEE
+Project Stage - I,research,EEE
+Project Stage - II including Seminar,capstone project,EEE
+IoT Applications in Electrical Engineering,internet of things,EEE
+IoT Applications in Electrical Engineering,iot,EEE
+High Voltage Engineering,high voltage engineering,EEE
+Computer Aided Electrical Machine Design,electrical machine design,EEE
+Cyber-Physical Systems,cyber physical systems,EEE
+Power Semiconductor Drives,power electronics,EEE
+Wind and Solar Energy Systems,renewable energy,EEE
+Mobile Application Development,mobile development,EEE
+Signals and Systems,signal processing,EEE
+Electric and Hybrid Vehicles,electric vehicles,EEE
+HVDC Transmission,hvdc,EEE
+Power System Reliability,power system reliability,EEE
+Embedded Systems Applications,embedded systems,EEE
+Power Quality & FACTS,power quality,EEE
+Power Quality & FACTS,facts,EEE
+Solar Power Batteries,battery technology,EEE
+AI Techniques in Electrical Engineering,artificial intelligence,EEE
+Smart Grid Technologies,smart grid,EEE
+Electrical Distribution Systems,electrical distribution,EEE
+Machine Learning Applications to Electrical Engineering,machine learning,EEE
+Renewable Energy Sources,renewable energy,EEE
+Fundamental of Electric Vehicles,electric vehicles,EEE
+Utilization of Electric Energy,electric power,EEE
+Energy Storage Systems,energy storage,EEE
+Charging Infrastructure for Electric Vehicles,ev charging,EEE
+Reliability Engineering,reliability engineering,EEE
+C Programming and Data Structures,c programming,MECH
+C Programming and Data Structures,data structures,MECH
+C Programming and Data Structures,algorithms,MECH
+Engineering Workshop,manufacturing,MECH
+Engineering Workshop,workshop practice,MECH
+Elements of Mechanical Engineering,mechanical engineering,MECH
+Python Programming Laboratory,python,MECH
+Computer Aided Engineering Graphics,cad,MECH
+Engineering Mechanics,engineering mechanics,MECH
+Engineering Materials,materials engineering,MECH
+Fuels & Lubricants Laboratory,lubrication,MECH
+Mechanics of Solids,solid mechanics,MECH
+Metallurgy & Material Science,material science,MECH
+Production Technology,manufacturing,MECH
+Thermodynamics,thermodynamics,MECH
+Production Technology Laboratory,manufacturing,MECH
+Material Science & Mechanics of Solids Laboratory,material science,MECH
+Computer Aided Machine Drawing,cad,MECH
+Basic Electrical and Electronics Engineering,electrical engineering,MECH
+Basic Electrical and Electronics Engineering,electronics,MECH
+Kinematics of Machinery,kinematics,MECH
+Fluid Mechanics & Hydraulic Machines,fluid mechanics,MECH
+Fluid Mechanics & Hydraulic Machines,hydraulics,MECH
+IC Engines & Gas Turbines,internal combustion engines,MECH
+IC Engines & Gas Turbines,gas turbines,MECH
+Instrumentation and Control Systems,instrumentation,MECH
+Instrumentation and Control Systems,control systems,MECH
+Real-time Research Project / Field-Based Project,research,MECH
+Dynamics of Machinery,dynamics,MECH
+Design of Machine Elements,machine design,MECH
+Metrology & Machine Tools,metrology,MECH
+Metrology & Machine Tools,machine tools,MECH
+Business Economics & Financial Analysis,business analytics,MECH
+Steam Power & Jet Propulsion,power engineering,MECH
+Steam Power & Jet Propulsion,jet propulsion,MECH
+CAD/CAM,cad,MECH
+CAD/CAM,cam,MECH
+Thermal Engineering Laboratory,thermal engineering,MECH
+Machine Design,machine design,MECH
+Heat Transfer,heat transfer,MECH
+Finite Element Methods,finite element analysis,MECH
+Heat Transfer Lab,heat transfer,MECH
+Computer Aided Engineering Laboratory,cae,MECH
+Industry Oriented Mini Project / Internship,industry project,MECH
+Industrial Management,industrial management,MECH
+Refrigeration & Air Conditioning,refrigeration,MECH
+Refrigeration & Air Conditioning,hvac,MECH
+Project Stage - I,research,MECH
+Project Stage - II including Seminar,capstone project,MECH
+Unconventional Machining Processes,advanced manufacturing,MECH
+Production Planning & Control,production planning,MECH
+Operations Research,operations research,MECH
+Microprocessors in Automation,microprocessors,MECH
+Microprocessors in Automation,automation,MECH
+Additive Manufacturing,3d printing,MECH
+Automation in Manufacturing,industrial automation,MECH
+Artificial Intelligence in Mechanical Engineering,artificial intelligence,MECH
+Mechatronics,mechatronics,MECH
+Power Plant Engineering,power plants,MECH
+Automobile Engineering,automobile engineering,MECH
+Non-Conventional Energy Sources,renewable energy,MECH
+Solar Energy Technology,solar energy,MECH
+Re-Engineering,reengineering,MECH
+Computational Fluid Dynamics,cfd,MECH
+Turbo Machinery,turbomachinery,MECH
+Fluid Power System,fluid power,MECH
+Industrial Robotics,robotics,MECH
+Mechanical Vibrations,vibration analysis,MECH
+Composite Materials,composite materials,MECH
+Energy Conservation and Management,energy management,MECH
+Industry 4.0,industry 4.0,MECH
+Fuzzy Logic and ANN,fuzzy logic,MECH
+Fuzzy Logic and ANN,artificial neural networks,MECH
+Electric and Hybrid Vehicles,electric vehicles,MECH
+Total Quality Management,quality management,MECH
+C Programming and Data Structures,c programming,CIVIL
+C Programming and Data Structures,data structures,CIVIL
+Engineering Workshop,manufacturing,CIVIL
+Engineering Workshop,workshop practice,CIVIL
+Elements of Civil Engineering,civil engineering,CIVIL
+Python Programming Laboratory,python,CIVIL
+Computer Aided Engineering Graphics,cad,CIVIL
+Applied Mechanics,engineering mechanics,CIVIL
+Surveying,surveying,CIVIL
+Surveying Laboratory - I,surveying,CIVIL
+Building Materials Construction and Planning,construction management,CIVIL
+Building Materials Construction and Planning,building materials,CIVIL
+Engineering Geology,engineering geology,CIVIL
+Strength of Materials - I,strength of materials,CIVIL
+Fluid Mechanics,fluid mechanics,CIVIL
+Surveying Laboratory - II,surveying,CIVIL
+Strength of Materials Laboratory,material testing,CIVIL
+Computer Aided Drafting Laboratory,cad,CIVIL
+Basic Electrical and Electronics Engineering,electrical engineering,CIVIL
+Basic Electrical and Electronics Engineering,electronics,CIVIL
+Concrete Technology,concrete technology,CIVIL
+Strength of Materials - II,strength of materials,CIVIL
+Hydraulics and Hydraulics Machinery,hydraulics,CIVIL
+Hydraulics and Hydraulics Machinery,hydraulic machinery,CIVIL
+Structural Analysis - I,structural analysis,CIVIL
+Fluid Mechanics and Hydraulics Machinery Laboratory,hydraulics,CIVIL
+Basic Electrical and Electronics Engineering Laboratory,electrical engineering,CIVIL
+Concrete Technology Laboratory,concrete technology,CIVIL
+Real-time Research Project / Field-Based Project,research,CIVIL
+Structural Analysis - II,structural analysis,CIVIL
+Geotechnical Engineering,geotechnical engineering,CIVIL
+Structural Engineering - I (RCC),reinforced concrete,CIVIL
+Business Economics and Financial Analysis,business analytics,CIVIL
+Transportation Engineering,transportation engineering,CIVIL
+Hydrology and Water Resources Engineering,water resources,CIVIL
+Transportation Engineering Laboratory,transportation engineering,CIVIL
+Geotechnical Engineering Laboratory,soil mechanics,CIVIL
+Environmental Engineering,environmental engineering,CIVIL
+Foundation Engineering,foundation engineering,CIVIL
+Structural Engineering - II (Steel Structures),steel structures,CIVIL
+Environmental Engineering Laboratory,environmental engineering,CIVIL
+Computer Aided Design Laboratory,cad,CIVIL
+Industry Oriented Mini Project / Internship,industry project,CIVIL
+Quantity Survey and Valuation,quantity surveying,CIVIL
+Project Management,project management,CIVIL
+Civil Engineering Software Laboratory,civil engineering software,CIVIL
+Project Stage - I,capstone project,CIVIL
+Project Stage - II including Seminar,capstone project,CIVIL
+Green Building Technologies,green buildings,CIVIL
+Geomatic Applications in Civil Engineering,geomatics,CIVIL
+Smart Cities Planning and Management,smart cities,CIVIL
+Prestressed Concrete,prestressed concrete,CIVIL
+Elements of Earthquake Engineering,earthquake engineering,CIVIL
+Advanced Structural Analysis,structural analysis,CIVIL
+Earth Retaining Structures,retaining structures,CIVIL
+Ground Improvement Techniques,ground improvement,CIVIL
+Stability Analysis of Slopes,slope stability,CIVIL
+Design of Hydraulic Structures,hydraulic structures,CIVIL
+Advanced Water Resources Engineering,water resources,CIVIL
+Ground Water Hydrology,groundwater hydrology,CIVIL
+Solid Waste Management,solid waste management,CIVIL
+Environmental Impact Assessment,environmental impact assessment,CIVIL
+Air Pollution,air pollution,CIVIL
+Airports Railways and Waterways,transport infrastructure,CIVIL
+Pavement Asset Management,pavement engineering,CIVIL
+Pavement Analysis and Design,pavement design,CIVIL

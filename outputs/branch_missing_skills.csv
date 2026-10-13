@@ -1,0 +1,80 @@
+branch,missing_skill,industry_demand
+AIML,rag,1784
+AIML,tensorflow,378
+AIML,nlp,353
+AIML,pytorch,295
+AIML,llm,94
+AIML,mlops,80
+AIML,knowledge graph,25
+AIML,llmops,0
+AIML,agentic ai,0
+CIVIL,sql,2074
+CIVIL,machine learning,1973
+CIVIL,rag,1784
+CIVIL,deep learning,468
+CIVIL,tensorflow,378
+CIVIL,nlp,353
+CIVIL,pytorch,295
+CIVIL,llm,94
+CIVIL,mlops,80
+CIVIL,knowledge graph,25
+CIVIL,llmops,0
+CIVIL,agentic ai,0
+CSE,rag,1784
+CSE,mlops,80
+CSE,knowledge graph,25
+CSE,llmops,0
+CSE,agentic ai,0
+DS,rag,1784
+DS,deep learning,468
+DS,tensorflow,378
+DS,nlp,353
+DS,pytorch,295
+DS,llm,94
+DS,mlops,80
+DS,knowledge graph,25
+DS,llmops,0
+DS,agentic ai,0
+ECE,sql,2074
+ECE,rag,1784
+ECE,deep learning,468
+ECE,tensorflow,378
+ECE,nlp,353
+ECE,pytorch,295
+ECE,llm,94
+ECE,mlops,80
+ECE,knowledge graph,25
+ECE,llmops,0
+ECE,agentic ai,0
+EEE,sql,2074
+EEE,rag,1784
+EEE,deep learning,468
+EEE,tensorflow,378
+EEE,nlp,353
+EEE,pytorch,295
+EEE,llm,94
+EEE,mlops,80
+EEE,knowledge graph,25
+EEE,llmops,0
+EEE,agentic ai,0
+IT,rag,1784
+IT,tensorflow,378
+IT,nlp,353
+IT,pytorch,295
+IT,llm,94
+IT,mlops,80
+IT,knowledge graph,25
+IT,llmops,0
+IT,agentic ai,0
+MECH,sql,2074
+MECH,machine learning,1973
+MECH,rag,1784
+MECH,deep learning,468
+MECH,tensorflow,378
+MECH,nlp,353
+MECH,pytorch,295
+MECH,llm,94
+MECH,mlops,80
+MECH,knowledge graph,25
+MECH,llmops,0
+MECH,agentic ai,0

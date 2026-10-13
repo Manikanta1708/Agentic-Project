@@ -1,0 +1,19 @@
+branch,skill,r25_count,course_title,category
+CSE,capstone project,1,Project Work,Curriculum Component
+CSE,discrete mathematics,1,Discrete Mathematics,Foundational Skill
+AIML,data visualization,1,Data Visualization- R Programming/ Power BI,Industry Skill
+CSE,mobile app development,1,UI Design – Flutter/ Android Studio,Industry Skill
+CSE,node.js,1,Node Js/React JS/ Django,Industry Skill
+ECE,scripting,1,Linux and Shell Scripting,Industry Skill
+MECH,data analytics,1,Data Analytics and Python for Engineers,Industry Skill
+MECH,simulation,1,Modelling and Simulation Tools,Industry Skill
+AIML,generative ai,2,Generative AI,Technology
+AIML,generative ai,2,Generative AI Lab,Technology
+AIML,reinforcement learning,1,Reinforcement Learning,Technology
+CIVIL,internet of things,1,Computational Lab / IOT Lab,Technology
+CSE,nlp,2,Natural Language Processing,Technology
+CSE,nlp,2,Natural Language Processing Lab,Technology
+DS,generative ai,2,Generative AI,Technology
+DS,generative ai,2,Generative AI Lab,Technology
+ECE,robotics,1,45G Practical Lab/Robotic Lab/Drone Lab,Technology
+EEE,sensors,1,Dept. Core    Electrical Measurements and Sensors,Technology

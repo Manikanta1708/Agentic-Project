@@ -1,0 +1,570 @@
+branch,skill,r22_count,r25_count,change,percentage_change,status
+AIML,ad hoc networks,1,0,-1,-100.0,R22 Removed Skill
+AIML,algorithms,1,1,0,0.0,Retained Skill
+AIML,artificial intelligence,3,2,-1,-33.33,Retained Skill
+AIML,augmented reality,1,0,-1,-100.0,R22 Removed Skill
+AIML,automata,1,0,-1,-100.0,R22 Removed Skill
+AIML,business economics,1,1,0,0.0,Retained Skill
+AIML,business intelligence,1,0,-1,-100.0,R22 Removed Skill
+AIML,c programming,2,1,-1,-50.0,Retained Skill
+AIML,cad,0,1,1,,R25 New Skill
+AIML,capstone project,2,1,-1,-50.0,Retained Skill
+AIML,chatbots,1,1,0,0.0,Retained Skill
+AIML,cloud computing,1,0,-1,-100.0,R22 Removed Skill
+AIML,cognitive computing,1,0,-1,-100.0,R22 Removed Skill
+AIML,compiler design,1,1,0,0.0,Retained Skill
+AIML,computer graphics,1,0,-1,-100.0,R22 Removed Skill
+AIML,computer networks,2,3,1,50.0,Retained Skill
+AIML,computer organization,1,1,0,0.0,Retained Skill
+AIML,computer vision,1,0,-1,-100.0,R22 Removed Skill
+AIML,conversational ai,1,0,-1,-100.0,R22 Removed Skill
+AIML,data analytics,2,2,0,0.0,Retained Skill
+AIML,data mining,1,0,-1,-100.0,R22 Removed Skill
+AIML,data science,1,0,-1,-100.0,R22 Removed Skill
+AIML,data structures,2,2,0,0.0,Retained Skill
+AIML,data visualization,0,1,1,,R25 New Skill
+AIML,data warehousing,1,0,-1,-100.0,R22 Removed Skill
+AIML,database management,1,1,0,0.0,Retained Skill
+AIML,deep learning,1,2,1,100.0,Retained Skill
+AIML,devops,1,0,-1,-100.0,R22 Removed Skill
+AIML,discrete mathematics,1,1,0,0.0,Retained Skill
+AIML,django,1,0,-1,-100.0,R22 Removed Skill
+AIML,electrical engineering,0,2,2,,R25 New Skill
+AIML,electronic circuits,0,1,1,,R25 New Skill
+AIML,electronics,0,2,2,,R25 New Skill
+AIML,environmental engineering,0,1,1,,R25 New Skill
+AIML,evolutionary computing,1,0,-1,-100.0,R22 Removed Skill
+AIML,expert systems,1,0,-1,-100.0,R22 Removed Skill
+AIML,federated machine learning,1,0,-1,-100.0,R22 Removed Skill
+AIML,financial analysis,1,0,-1,-100.0,R22 Removed Skill
+AIML,flutter,1,0,-1,-100.0,R22 Removed Skill
+AIML,game theory,1,0,-1,-100.0,R22 Removed Skill
+AIML,generative ai,0,2,2,,R25 New Skill
+AIML,graph theory,1,0,-1,-100.0,R22 Removed Skill
+AIML,image processing,1,0,-1,-100.0,R22 Removed Skill
+AIML,information retrieval,1,0,-1,-100.0,R22 Removed Skill
+AIML,internship,1,1,0,0.0,Retained Skill
+AIML,iot,1,0,-1,-100.0,R22 Removed Skill
+AIML,java,2,2,0,0.0,Retained Skill
+AIML,knowledge representation,1,0,-1,-100.0,R22 Removed Skill
+AIML,law,1,0,-1,-100.0,R22 Removed Skill
+AIML,lisp,1,0,-1,-100.0,R22 Removed Skill
+AIML,machine learning,3,3,0,0.0,Retained Skill
+AIML,material science,0,2,2,,R25 New Skill
+AIML,mathematics,1,3,2,200.0,Retained Skill
+AIML,mobile app development,1,1,0,0.0,Retained Skill
+AIML,mobile computing,1,0,-1,-100.0,R22 Removed Skill
+AIML,nature inspired computing,1,0,-1,-100.0,R22 Removed Skill
+AIML,nlp,3,2,-1,-33.33,Retained Skill
+AIML,nodejs,1,1,0,0.0,Retained Skill
+AIML,operating systems,2,2,0,0.0,Retained Skill
+AIML,pattern recognition,1,0,-1,-100.0,R22 Removed Skill
+AIML,professional ethics,1,0,-1,-100.0,R22 Removed Skill
+AIML,programming languages,0,1,1,,R25 New Skill
+AIML,prolog,1,0,-1,-100.0,R22 Removed Skill
+AIML,pyswip,1,0,-1,-100.0,R22 Removed Skill
+AIML,python,1,1,0,0.0,Retained Skill
+AIML,quantum computing,1,0,-1,-100.0,R22 Removed Skill
+AIML,randomized algorithms,1,0,-1,-100.0,R22 Removed Skill
+AIML,react.js,1,0,-1,-100.0,R22 Removed Skill
+AIML,reasoning,1,0,-1,-100.0,R22 Removed Skill
+AIML,reinforcement learning,0,1,1,,R25 New Skill
+AIML,research,1,1,0,0.0,Retained Skill
+AIML,robotics,1,0,-1,-100.0,R22 Removed Skill
+AIML,rpa,1,0,-1,-100.0,R22 Removed Skill
+AIML,scripting,1,0,-1,-100.0,R22 Removed Skill
+AIML,semantic web,1,0,-1,-100.0,R22 Removed Skill
+AIML,sensor networks,1,0,-1,-100.0,R22 Removed Skill
+AIML,social network analysis,1,0,-1,-100.0,R22 Removed Skill
+AIML,software engineering,2,3,1,50.0,Retained Skill
+AIML,software testing,1,0,-1,-100.0,R22 Removed Skill
+AIML,speech processing,1,0,-1,-100.0,R22 Removed Skill
+AIML,sql,2,1,-1,-50.0,Retained Skill
+AIML,statistics,1,1,0,0.0,Retained Skill
+AIML,video processing,1,0,-1,-100.0,R22 Removed Skill
+AIML,virtual reality,1,0,-1,-100.0,R22 Removed Skill
+AIML,web development,1,0,-1,-100.0,R22 Removed Skill
+AIML,web security,1,0,-1,-100.0,R22 Removed Skill
+AIML,workshop practice,0,1,1,,R25 New Skill
+CIVIL,air pollution,1,0,-1,-100.0,R22 Removed Skill
+CIVIL,building materials,1,0,-1,-100.0,R22 Removed Skill
+CIVIL,business analytics,1,1,0,0.0,Retained Skill
+CIVIL,c programming,1,2,1,100.0,Retained Skill
+CIVIL,cad,3,3,0,0.0,Retained Skill
+CIVIL,capstone project,2,1,-1,-50.0,Retained Skill
+CIVIL,civil engineering,1,0,-1,-100.0,R22 Removed Skill
+CIVIL,civil engineering software,1,2,1,100.0,Retained Skill
+CIVIL,concrete technology,2,0,-2,-100.0,R22 Removed Skill
+CIVIL,construction management,1,0,-1,-100.0,R22 Removed Skill
+CIVIL,data structures,1,0,-1,-100.0,R22 Removed Skill
+CIVIL,earthquake engineering,1,0,-1,-100.0,R22 Removed Skill
+CIVIL,electrical engineering,2,1,-1,-50.0,Retained Skill
+CIVIL,electronics,1,2,1,100.0,Retained Skill
+CIVIL,engineering geology,1,2,1,100.0,Retained Skill
+CIVIL,engineering mechanics,1,1,0,0.0,Retained Skill
+CIVIL,environmental engineering,2,3,1,50.0,Retained Skill
+CIVIL,environmental impact assessment,1,0,-1,-100.0,R22 Removed Skill
+CIVIL,fluid mechanics,1,1,0,0.0,Retained Skill
+CIVIL,foundation engineering,1,1,0,0.0,Retained Skill
+CIVIL,geomatics,1,1,0,0.0,Retained Skill
+CIVIL,geotechnical engineering,1,1,0,0.0,Retained Skill
+CIVIL,green buildings,1,0,-1,-100.0,R22 Removed Skill
+CIVIL,ground improvement,1,0,-1,-100.0,R22 Removed Skill
+CIVIL,groundwater hydrology,1,0,-1,-100.0,R22 Removed Skill
+CIVIL,hydraulic machinery,1,0,-1,-100.0,R22 Removed Skill
+CIVIL,hydraulic structures,1,1,0,0.0,Retained Skill
+CIVIL,hydraulics,2,2,0,0.0,Retained Skill
+CIVIL,industry project,1,1,0,0.0,Retained Skill
+CIVIL,iot,0,1,1,,R25 New Skill
+CIVIL,manufacturing,1,0,-1,-100.0,R22 Removed Skill
+CIVIL,material science,0,2,2,,R25 New Skill
+CIVIL,material testing,1,2,1,100.0,Retained Skill
+CIVIL,mathematics,0,3,3,,R25 New Skill
+CIVIL,pavement design,1,0,-1,-100.0,R22 Removed Skill
+CIVIL,pavement engineering,1,1,0,0.0,Retained Skill
+CIVIL,prestressed concrete,1,0,-1,-100.0,R22 Removed Skill
+CIVIL,probability,0,1,1,,R25 New Skill
+CIVIL,project management,1,1,0,0.0,Retained Skill
+CIVIL,python,1,2,1,100.0,Retained Skill
+CIVIL,quantity surveying,1,1,0,0.0,Retained Skill
+CIVIL,reinforced concrete,1,0,-1,-100.0,R22 Removed Skill
+CIVIL,research,1,0,-1,-100.0,R22 Removed Skill
+CIVIL,retaining structures,1,0,-1,-100.0,R22 Removed Skill
+CIVIL,slope stability,1,0,-1,-100.0,R22 Removed Skill
+CIVIL,smart cities,1,0,-1,-100.0,R22 Removed Skill
+CIVIL,soil mechanics,1,1,0,0.0,Retained Skill
+CIVIL,solid waste management,1,0,-1,-100.0,R22 Removed Skill
+CIVIL,steel structures,1,0,-1,-100.0,R22 Removed Skill
+CIVIL,strength of materials,2,1,-1,-50.0,Retained Skill
+CIVIL,structural analysis,3,1,-2,-66.67,Retained Skill
+CIVIL,surveying,3,3,0,0.0,Retained Skill
+CIVIL,transport infrastructure,1,0,-1,-100.0,R22 Removed Skill
+CIVIL,transportation engineering,2,1,-1,-50.0,Retained Skill
+CIVIL,water resources,2,1,-1,-50.0,Retained Skill
+CIVIL,workshop practice,1,1,0,0.0,Retained Skill
+CSE,agile,1,0,-1,-100.0,R22 Removed Skill
+CSE,algorithms,3,1,-2,-66.67,Retained Skill
+CSE,artificial intelligence,2,2,0,0.0,Retained Skill
+CSE,automata,1,0,-1,-100.0,R22 Removed Skill
+CSE,big data,1,1,0,0.0,Retained Skill
+CSE,blockchain,1,0,-1,-100.0,R22 Removed Skill
+CSE,c programming,1,1,0,0.0,Retained Skill
+CSE,cad,0,1,1,,R25 New Skill
+CSE,capstone project,0,1,1,,R25 New Skill
+CSE,chatbots,1,0,-1,-100.0,R22 Removed Skill
+CSE,cloud computing,2,0,-2,-100.0,R22 Removed Skill
+CSE,compiler design,1,2,1,100.0,Retained Skill
+CSE,complexity theory,1,0,-1,-100.0,R22 Removed Skill
+CSE,computer architecture,2,1,-1,-50.0,Retained Skill
+CSE,computer fundamentals,1,0,-1,-100.0,R22 Removed Skill
+CSE,computer graphics,1,0,-1,-100.0,R22 Removed Skill
+CSE,computer hardware,1,1,0,0.0,Retained Skill
+CSE,computer networks,2,2,0,0.0,Retained Skill
+CSE,css,1,0,-1,-100.0,R22 Removed Skill
+CSE,cyber security,3,4,1,33.33,Retained Skill
+CSE,data analytics,1,0,-1,-100.0,R22 Removed Skill
+CSE,data structures,2,3,1,50.0,Retained Skill
+CSE,data visualization,1,1,0,0.0,Retained Skill
+CSE,database,2,0,-2,-100.0,R22 Removed Skill
+CSE,deep learning,1,2,1,100.0,Retained Skill
+CSE,devops,1,2,1,100.0,Retained Skill
+CSE,digital electronics,1,0,-1,-100.0,R22 Removed Skill
+CSE,digital forensics,1,0,-1,-100.0,R22 Removed Skill
+CSE,discrete mathematics,0,1,1,,R25 New Skill
+CSE,distributed database,1,0,-1,-100.0,R22 Removed Skill
+CSE,distributed systems,1,0,-1,-100.0,R22 Removed Skill
+CSE,django,1,0,-1,-100.0,R22 Removed Skill
+CSE,electrical engineering,0,2,2,,R25 New Skill
+CSE,electronic circuits,0,1,1,,R25 New Skill
+CSE,electronics,0,2,2,,R25 New Skill
+CSE,embedded systems,1,0,-1,-100.0,R22 Removed Skill
+CSE,environmental engineering,0,1,1,,R25 New Skill
+CSE,flutter,1,0,-1,-100.0,R22 Removed Skill
+CSE,full stack,1,0,-1,-100.0,R22 Removed Skill
+CSE,graph theory,1,0,-1,-100.0,R22 Removed Skill
+CSE,hci,1,0,-1,-100.0,R22 Removed Skill
+CSE,html,1,0,-1,-100.0,R22 Removed Skill
+CSE,image processing,1,0,-1,-100.0,R22 Removed Skill
+CSE,information retrieval,1,0,-1,-100.0,R22 Removed Skill
+CSE,iot,1,0,-1,-100.0,R22 Removed Skill
+CSE,java,1,2,1,100.0,Retained Skill
+CSE,javascript,1,0,-1,-100.0,R22 Removed Skill
+CSE,llm,1,0,-1,-100.0,R22 Removed Skill
+CSE,machine learning,1,2,1,100.0,Retained Skill
+CSE,management,1,0,-1,-100.0,R22 Removed Skill
+CSE,material science,0,2,2,,R25 New Skill
+CSE,mathematics,0,3,3,,R25 New Skill
+CSE,mobile app development,0,1,1,,R25 New Skill
+CSE,mobile development,1,0,-1,-100.0,R22 Removed Skill
+CSE,network security,1,0,-1,-100.0,R22 Removed Skill
+CSE,nlp,1,2,1,100.0,Retained Skill
+CSE,nodejs,1,1,0,0.0,Retained Skill
+CSE,oop,1,0,-1,-100.0,R22 Removed Skill
+CSE,operating systems,2,2,0,0.0,Retained Skill
+CSE,pandas,1,0,-1,-100.0,R22 Removed Skill
+CSE,power bi,1,0,-1,-100.0,R22 Removed Skill
+CSE,programming languages,1,1,0,0.0,Retained Skill
+CSE,project management,1,0,-1,-100.0,R22 Removed Skill
+CSE,python,2,1,-1,-50.0,Retained Skill
+CSE,pytorch,1,0,-1,-100.0,R22 Removed Skill
+CSE,quantum computing,1,0,-1,-100.0,R22 Removed Skill
+CSE,r programming,1,0,-1,-100.0,R22 Removed Skill
+CSE,react,1,0,-1,-100.0,R22 Removed Skill
+CSE,research,1,0,-1,-100.0,R22 Removed Skill
+CSE,rpa,1,0,-1,-100.0,R22 Removed Skill
+CSE,scripting,1,0,-1,-100.0,R22 Removed Skill
+CSE,soft computing,1,0,-1,-100.0,R22 Removed Skill
+CSE,software engineering,1,3,2,200.0,Retained Skill
+CSE,software testing,1,0,-1,-100.0,R22 Removed Skill
+CSE,spark,1,0,-1,-100.0,R22 Removed Skill
+CSE,sql,1,2,1,100.0,Retained Skill
+CSE,statistics,1,1,0,0.0,Retained Skill
+CSE,tensorflow,1,0,-1,-100.0,R22 Removed Skill
+CSE,wireless networks,1,0,-1,-100.0,R22 Removed Skill
+CSE,workshop practice,0,1,1,,R25 New Skill
+DS,algorithms,1,1,0,0.0,Retained Skill
+DS,artificial intelligence,1,2,1,100.0,Retained Skill
+DS,automata,1,0,-1,-100.0,R22 Removed Skill
+DS,big data,2,2,0,0.0,Retained Skill
+DS,blockchain,1,0,-1,-100.0,R22 Removed Skill
+DS,business intelligence,1,0,-1,-100.0,R22 Removed Skill
+DS,c programming,2,1,-1,-50.0,Retained Skill
+DS,cad,0,1,1,,R25 New Skill
+DS,capstone project,2,1,-1,-50.0,Retained Skill
+DS,cloud computing,1,0,-1,-100.0,R22 Removed Skill
+DS,compiler design,1,0,-1,-100.0,R22 Removed Skill
+DS,computer graphics,1,0,-1,-100.0,R22 Removed Skill
+DS,computer networks,2,2,0,0.0,Retained Skill
+DS,computer organization,1,1,0,0.0,Retained Skill
+DS,computer vision,1,0,-1,-100.0,R22 Removed Skill
+DS,cryptography,1,0,-1,-100.0,R22 Removed Skill
+DS,data analytics,1,0,-1,-100.0,R22 Removed Skill
+DS,data mining,2,3,1,50.0,Retained Skill
+DS,data privacy,1,0,-1,-100.0,R22 Removed Skill
+DS,data science,3,2,-1,-33.33,Retained Skill
+DS,data stream mining,1,0,-1,-100.0,R22 Removed Skill
+DS,data structures,2,2,0,0.0,Retained Skill
+DS,data visualization,3,1,-2,-66.67,Retained Skill
+DS,data warehousing,1,0,-1,-100.0,R22 Removed Skill
+DS,database management,1,0,-1,-100.0,R22 Removed Skill
+DS,database security,1,0,-1,-100.0,R22 Removed Skill
+DS,devops,1,0,-1,-100.0,R22 Removed Skill
+DS,digital electronics,1,0,-1,-100.0,R22 Removed Skill
+DS,discrete mathematics,1,1,0,0.0,Retained Skill
+DS,distributed computing,1,0,-1,-100.0,R22 Removed Skill
+DS,django,1,0,-1,-100.0,R22 Removed Skill
+DS,electrical engineering,0,2,2,,R25 New Skill
+DS,electronic circuits,0,1,1,,R25 New Skill
+DS,electronics,0,2,2,,R25 New Skill
+DS,environmental engineering,0,1,1,,R25 New Skill
+DS,etl,1,0,-1,-100.0,R22 Removed Skill
+DS,exploratory data analysis,1,0,-1,-100.0,R22 Removed Skill
+DS,flutter,1,0,-1,-100.0,R22 Removed Skill
+DS,generative ai,0,2,2,,R25 New Skill
+DS,image processing,1,0,-1,-100.0,R22 Removed Skill
+DS,information retrieval,1,0,-1,-100.0,R22 Removed Skill
+DS,internship,1,1,0,0.0,Retained Skill
+DS,iot,1,0,-1,-100.0,R22 Removed Skill
+DS,java,2,2,0,0.0,Retained Skill
+DS,kafka,1,0,-1,-100.0,R22 Removed Skill
+DS,machine learning,2,4,2,100.0,Retained Skill
+DS,material science,0,2,2,,R25 New Skill
+DS,mathematics,0,3,3,,R25 New Skill
+DS,mobile app development,1,1,0,0.0,Retained Skill
+DS,multimedia databases,1,0,-1,-100.0,R22 Removed Skill
+DS,network security,1,0,-1,-100.0,R22 Removed Skill
+DS,nlp,1,0,-1,-100.0,R22 Removed Skill
+DS,nodejs,1,1,0,0.0,Retained Skill
+DS,operating systems,2,2,0,0.0,Retained Skill
+DS,organizational behavior,1,0,-1,-100.0,R22 Removed Skill
+DS,parallel computing,1,0,-1,-100.0,R22 Removed Skill
+DS,power bi,1,0,-1,-100.0,R22 Removed Skill
+DS,predictive analytics,2,0,-2,-100.0,R22 Removed Skill
+DS,programming languages,0,1,1,,R25 New Skill
+DS,project management,1,0,-1,-100.0,R22 Removed Skill
+DS,python,2,1,-1,-50.0,Retained Skill
+DS,quantum computing,1,0,-1,-100.0,R22 Removed Skill
+DS,r programming,3,1,-2,-66.67,Retained Skill
+DS,react.js,1,0,-1,-100.0,R22 Removed Skill
+DS,research,1,0,-1,-100.0,R22 Removed Skill
+DS,robotics,1,0,-1,-100.0,R22 Removed Skill
+DS,scripting,1,0,-1,-100.0,R22 Removed Skill
+DS,social media analytics,2,0,-2,-100.0,R22 Removed Skill
+DS,social media mining,1,0,-1,-100.0,R22 Removed Skill
+DS,software engineering,1,4,3,300.0,Retained Skill
+DS,software testing,1,0,-1,-100.0,R22 Removed Skill
+DS,sql,2,2,0,0.0,Retained Skill
+DS,statistics,1,1,0,0.0,Retained Skill
+DS,storage management,1,0,-1,-100.0,R22 Removed Skill
+DS,talend,1,0,-1,-100.0,R22 Removed Skill
+DS,video analytics,1,0,-1,-100.0,R22 Removed Skill
+DS,web development,1,0,-1,-100.0,R22 Removed Skill
+DS,web security,1,0,-1,-100.0,R22 Removed Skill
+DS,workshop practice,0,1,1,,R25 New Skill
+ECE,5g,1,1,0,0.0,Retained Skill
+ECE,algorithms,1,0,-1,-100.0,R22 Removed Skill
+ECE,analog circuits,1,0,-1,-100.0,R22 Removed Skill
+ECE,analog electronics,1,0,-1,-100.0,R22 Removed Skill
+ECE,analog ic design,1,0,-1,-100.0,R22 Removed Skill
+ECE,antenna design,1,1,0,0.0,Retained Skill
+ECE,artificial intelligence,1,0,-1,-100.0,R22 Removed Skill
+ECE,biomedical engineering,1,0,-1,-100.0,R22 Removed Skill
+ECE,business analytics,1,1,0,0.0,Retained Skill
+ECE,c programming,1,1,0,0.0,Retained Skill
+ECE,cad,0,1,1,,R25 New Skill
+ECE,capstone project,1,1,0,0.0,Retained Skill
+ECE,circuit analysis,1,2,1,100.0,Retained Skill
+ECE,cmos,1,0,-1,-100.0,R22 Removed Skill
+ECE,communication systems,2,2,0,0.0,Retained Skill
+ECE,computer architecture,1,0,-1,-100.0,R22 Removed Skill
+ECE,computer networks,1,0,-1,-100.0,R22 Removed Skill
+ECE,control systems,1,1,0,0.0,Retained Skill
+ECE,cryptography,1,0,-1,-100.0,R22 Removed Skill
+ECE,cyber security,1,0,-1,-100.0,R22 Removed Skill
+ECE,data communication,1,0,-1,-100.0,R22 Removed Skill
+ECE,data structures,1,2,1,100.0,Retained Skill
+ECE,database management,1,0,-1,-100.0,R22 Removed Skill
+ECE,digital electronics,3,2,-1,-33.33,Retained Skill
+ECE,digital signal processing,1,2,1,100.0,Retained Skill
+ECE,electrical engineering,1,2,1,100.0,Retained Skill
+ECE,electromagnetics,1,1,0,0.0,Retained Skill
+ECE,electronic circuits,1,1,0,0.0,Retained Skill
+ECE,electronic devices,1,1,0,0.0,Retained Skill
+ECE,electronic measurements,1,0,-1,-100.0,R22 Removed Skill
+ECE,electronics,1,2,1,100.0,Retained Skill
+ECE,embedded systems,2,3,1,50.0,Retained Skill
+ECE,engineering ethics,1,0,-1,-100.0,R22 Removed Skill
+ECE,environmental engineering,0,1,1,,R25 New Skill
+ECE,healthcare electronics,1,0,-1,-100.0,R22 Removed Skill
+ECE,image processing,1,0,-1,-100.0,R22 Removed Skill
+ECE,industry project,1,1,0,0.0,Retained Skill
+ECE,instrumentation,2,0,-2,-100.0,R22 Removed Skill
+ECE,integrated circuits,1,3,2,200.0,Retained Skill
+ECE,iot,4,2,-2,-50.0,Retained Skill
+ECE,logic design,1,0,-1,-100.0,R22 Removed Skill
+ECE,machine learning,1,0,-1,-100.0,R22 Removed Skill
+ECE,material science,0,2,2,,R25 New Skill
+ECE,mathematics,0,4,4,,R25 New Skill
+ECE,microcontrollers,1,2,1,100.0,Retained Skill
+ECE,microwave engineering,1,2,1,100.0,Retained Skill
+ECE,mobile communication,1,0,-1,-100.0,R22 Removed Skill
+ECE,network analysis,1,1,0,0.0,Retained Skill
+ECE,neural networks,1,0,-1,-100.0,R22 Removed Skill
+ECE,operating systems,1,0,-1,-100.0,R22 Removed Skill
+ECE,optical communication,1,0,-1,-100.0,R22 Removed Skill
+ECE,probability,1,1,0,0.0,Retained Skill
+ECE,professional practice,1,0,-1,-100.0,R22 Removed Skill
+ECE,programming languages,0,1,1,,R25 New Skill
+ECE,python,2,2,0,0.0,Retained Skill
+ECE,radar,1,0,-1,-100.0,R22 Removed Skill
+ECE,real time systems,1,0,-1,-100.0,R22 Removed Skill
+ECE,research,1,0,-1,-100.0,R22 Removed Skill
+ECE,robotics,0,1,1,,R25 New Skill
+ECE,satellite communication,1,0,-1,-100.0,R22 Removed Skill
+ECE,scripting,0,1,1,,R25 New Skill
+ECE,sensors,1,0,-1,-100.0,R22 Removed Skill
+ECE,signal processing,2,1,-1,-50.0,Retained Skill
+ECE,social network analysis,1,0,-1,-100.0,R22 Removed Skill
+ECE,stochastic processes,1,0,-1,-100.0,R22 Removed Skill
+ECE,system on chip,1,0,-1,-100.0,R22 Removed Skill
+ECE,telecommunication,1,0,-1,-100.0,R22 Removed Skill
+ECE,transmission lines,1,0,-1,-100.0,R22 Removed Skill
+ECE,vlsi,1,3,2,200.0,Retained Skill
+ECE,wireless communication,2,0,-2,-100.0,R22 Removed Skill
+ECE,wireless sensor networks,1,0,-1,-100.0,R22 Removed Skill
+ECE,workshop practice,0,1,1,,R25 New Skill
+EEE,algorithms,1,0,-1,-100.0,R22 Removed Skill
+EEE,analog electronics,1,2,1,100.0,Retained Skill
+EEE,artificial intelligence,1,0,-1,-100.0,R22 Removed Skill
+EEE,battery technology,1,0,-1,-100.0,R22 Removed Skill
+EEE,business analytics,1,2,1,100.0,Retained Skill
+EEE,c programming,1,2,1,100.0,Retained Skill
+EEE,capstone project,1,1,0,0.0,Retained Skill
+EEE,circuit analysis,2,3,1,50.0,Retained Skill
+EEE,control systems,1,1,0,0.0,Retained Skill
+EEE,cyber physical systems,1,0,-1,-100.0,R22 Removed Skill
+EEE,data structures,1,0,-1,-100.0,R22 Removed Skill
+EEE,digital electronics,1,1,0,0.0,Retained Skill
+EEE,digital signal processing,1,0,-1,-100.0,R22 Removed Skill
+EEE,electric power,1,0,-1,-100.0,R22 Removed Skill
+EEE,electric vehicles,2,1,-1,-50.0,Retained Skill
+EEE,electrical distribution,1,0,-1,-100.0,R22 Removed Skill
+EEE,electrical engineering,1,0,-1,-100.0,R22 Removed Skill
+EEE,electrical machine design,1,0,-1,-100.0,R22 Removed Skill
+EEE,electrical machines,2,2,0,0.0,Retained Skill
+EEE,electromagnetics,1,1,0,0.0,Retained Skill
+EEE,electronics,1,1,0,0.0,Retained Skill
+EEE,embedded systems,2,0,-2,-100.0,R22 Removed Skill
+EEE,energy storage,1,0,-1,-100.0,R22 Removed Skill
+EEE,environmental engineering,0,1,1,,R25 New Skill
+EEE,ev charging,1,1,0,0.0,Retained Skill
+EEE,facts,1,0,-1,-100.0,R22 Removed Skill
+EEE,high voltage engineering,1,0,-1,-100.0,R22 Removed Skill
+EEE,hvdc,1,0,-1,-100.0,R22 Removed Skill
+EEE,hydraulics,1,0,-1,-100.0,R22 Removed Skill
+EEE,industry project,1,1,0,0.0,Retained Skill
+EEE,instrumentation,1,0,-1,-100.0,R22 Removed Skill
+EEE,iot,2,0,-2,-100.0,R22 Removed Skill
+EEE,machine learning,1,0,-1,-100.0,R22 Removed Skill
+EEE,management,1,0,-1,-100.0,R22 Removed Skill
+EEE,material science,0,2,2,,R25 New Skill
+EEE,mathematics,0,3,3,,R25 New Skill
+EEE,microcontrollers,1,2,1,100.0,Retained Skill
+EEE,mobile development,1,0,-1,-100.0,R22 Removed Skill
+EEE,power electronics,3,2,-1,-33.33,Retained Skill
+EEE,power quality,1,0,-1,-100.0,R22 Removed Skill
+EEE,power system protection,1,1,0,0.0,Retained Skill
+EEE,power system reliability,1,0,-1,-100.0,R22 Removed Skill
+EEE,power systems,3,3,0,0.0,Retained Skill
+EEE,python,1,1,0,0.0,Retained Skill
+EEE,reliability engineering,1,0,-1,-100.0,R22 Removed Skill
+EEE,renewable energy,4,1,-3,-75.0,Retained Skill
+EEE,research,2,0,-2,-100.0,R22 Removed Skill
+EEE,sensors,0,1,1,,R25 New Skill
+EEE,signal processing,1,0,-1,-100.0,R22 Removed Skill
+EEE,simulation,1,0,-1,-100.0,R22 Removed Skill
+EEE,smart grid,1,1,0,0.0,Retained Skill
+EEE,workshop practice,0,1,1,,R25 New Skill
+IT,advanced operating systems,1,0,-1,-100.0,R22 Removed Skill
+IT,algorithms,1,2,1,100.0,Retained Skill
+IT,artificial intelligence,1,0,-1,-100.0,R22 Removed Skill
+IT,augmented reality,1,0,-1,-100.0,R22 Removed Skill
+IT,automata,1,0,-1,-100.0,R22 Removed Skill
+IT,big data,2,2,0,0.0,Retained Skill
+IT,biometrics,1,0,-1,-100.0,R22 Removed Skill
+IT,blockchain,1,0,-1,-100.0,R22 Removed Skill
+IT,c programming,2,1,-1,-50.0,Retained Skill
+IT,c++,1,0,-1,-100.0,R22 Removed Skill
+IT,capstone project,2,1,-1,-50.0,Retained Skill
+IT,cloud computing,2,0,-2,-100.0,R22 Removed Skill
+IT,compiler design,2,1,-1,-50.0,Retained Skill
+IT,computer architecture,1,0,-1,-100.0,R22 Removed Skill
+IT,computer graphics,1,0,-1,-100.0,R22 Removed Skill
+IT,computer networks,2,1,-1,-50.0,Retained Skill
+IT,computer organization,1,1,0,0.0,Retained Skill
+IT,cyber forensics,1,0,-1,-100.0,R22 Removed Skill
+IT,data analytics,1,0,-1,-100.0,R22 Removed Skill
+IT,data mining,1,0,-1,-100.0,R22 Removed Skill
+IT,data structures,2,2,0,0.0,Retained Skill
+IT,data visualization,1,1,0,0.0,Retained Skill
+IT,database management,1,0,-1,-100.0,R22 Removed Skill
+IT,deep learning,1,2,1,100.0,Retained Skill
+IT,devops,1,0,-1,-100.0,R22 Removed Skill
+IT,digital electronics,2,0,-2,-100.0,R22 Removed Skill
+IT,discrete mathematics,1,1,0,0.0,Retained Skill
+IT,distributed databases,1,0,-1,-100.0,R22 Removed Skill
+IT,distributed systems,1,0,-1,-100.0,R22 Removed Skill
+IT,django,1,0,-1,-100.0,R22 Removed Skill
+IT,electrical engineering,0,1,1,,R25 New Skill
+IT,electronics,0,2,2,,R25 New Skill
+IT,embedded systems,2,1,-1,-50.0,Retained Skill
+IT,environmental engineering,0,1,1,,R25 New Skill
+IT,flutter,1,0,-1,-100.0,R22 Removed Skill
+IT,full stack development,1,1,0,0.0,Retained Skill
+IT,high performance computing,1,0,-1,-100.0,R22 Removed Skill
+IT,human computer interaction,1,0,-1,-100.0,R22 Removed Skill
+IT,image processing,1,0,-1,-100.0,R22 Removed Skill
+IT,information retrieval,1,0,-1,-100.0,R22 Removed Skill
+IT,information security,2,1,-1,-50.0,Retained Skill
+IT,intrusion detection,1,0,-1,-100.0,R22 Removed Skill
+IT,iot,2,1,-1,-50.0,Retained Skill
+IT,java,2,5,3,150.0,Retained Skill
+IT,machine learning,2,3,1,50.0,Retained Skill
+IT,material science,0,2,2,,R25 New Skill
+IT,mathematics,0,2,2,,R25 New Skill
+IT,mobile app development,1,2,1,100.0,Retained Skill
+IT,nlp,1,0,-1,-100.0,R22 Removed Skill
+IT,nodejs,1,1,0,0.0,Retained Skill
+IT,operating systems,2,1,-1,-50.0,Retained Skill
+IT,organizational behavior,1,0,-1,-100.0,R22 Removed Skill
+IT,pattern recognition,1,0,-1,-100.0,R22 Removed Skill
+IT,power bi,1,0,-1,-100.0,R22 Removed Skill
+IT,programming languages,1,1,0,0.0,Retained Skill
+IT,project management,1,0,-1,-100.0,R22 Removed Skill
+IT,python,1,0,-1,-100.0,R22 Removed Skill
+IT,quantum computing,1,0,-1,-100.0,R22 Removed Skill
+IT,r programming,1,0,-1,-100.0,R22 Removed Skill
+IT,react.js,1,0,-1,-100.0,R22 Removed Skill
+IT,real time systems,1,0,-1,-100.0,R22 Removed Skill
+IT,research,1,0,-1,-100.0,R22 Removed Skill
+IT,scripting,1,0,-1,-100.0,R22 Removed Skill
+IT,sensor networks,1,0,-1,-100.0,R22 Removed Skill
+IT,software engineering,2,1,-1,-50.0,Retained Skill
+IT,software testing,1,0,-1,-100.0,R22 Removed Skill
+IT,spark,1,0,-1,-100.0,R22 Removed Skill
+IT,sql,2,2,0,0.0,Retained Skill
+IT,virtual reality,1,0,-1,-100.0,R22 Removed Skill
+IT,web security,1,1,0,0.0,Retained Skill
+IT,workshop practice,0,1,1,,R25 New Skill
+MECH,3d printing,1,1,0,0.0,Retained Skill
+MECH,advanced manufacturing,1,0,-1,-100.0,R22 Removed Skill
+MECH,algorithms,1,0,-1,-100.0,R22 Removed Skill
+MECH,artificial intelligence,1,0,-1,-100.0,R22 Removed Skill
+MECH,artificial neural networks,1,0,-1,-100.0,R22 Removed Skill
+MECH,automation,1,0,-1,-100.0,R22 Removed Skill
+MECH,automobile engineering,1,0,-1,-100.0,R22 Removed Skill
+MECH,business analytics,1,1,0,0.0,Retained Skill
+MECH,c programming,1,2,1,100.0,Retained Skill
+MECH,cad,3,1,-2,-66.67,Retained Skill
+MECH,cae,1,1,0,0.0,Retained Skill
+MECH,cam,1,0,-1,-100.0,R22 Removed Skill
+MECH,capstone project,1,1,0,0.0,Retained Skill
+MECH,cfd,1,0,-1,-100.0,R22 Removed Skill
+MECH,composite materials,1,0,-1,-100.0,R22 Removed Skill
+MECH,control systems,1,0,-1,-100.0,R22 Removed Skill
+MECH,data analytics,0,1,1,,R25 New Skill
+MECH,data structures,1,0,-1,-100.0,R22 Removed Skill
+MECH,dynamics,1,1,0,0.0,Retained Skill
+MECH,electric vehicles,1,0,-1,-100.0,R22 Removed Skill
+MECH,electrical engineering,1,1,0,0.0,Retained Skill
+MECH,electronics,1,2,1,100.0,Retained Skill
+MECH,energy management,1,0,-1,-100.0,R22 Removed Skill
+MECH,engineering mechanics,1,1,0,0.0,Retained Skill
+MECH,environmental engineering,0,1,1,,R25 New Skill
+MECH,finite element analysis,1,1,0,0.0,Retained Skill
+MECH,fluid mechanics,1,2,1,100.0,Retained Skill
+MECH,fluid power,1,0,-1,-100.0,R22 Removed Skill
+MECH,fuzzy logic,1,0,-1,-100.0,R22 Removed Skill
+MECH,gas turbines,1,0,-1,-100.0,R22 Removed Skill
+MECH,heat transfer,2,2,0,0.0,Retained Skill
+MECH,hvac,1,0,-1,-100.0,R22 Removed Skill
+MECH,hydraulics,1,0,-1,-100.0,R22 Removed Skill
+MECH,industrial automation,1,0,-1,-100.0,R22 Removed Skill
+MECH,industrial management,1,1,0,0.0,Retained Skill
+MECH,industry 4.0,1,0,-1,-100.0,R22 Removed Skill
+MECH,industry project,1,1,0,0.0,Retained Skill
+MECH,instrumentation,1,2,1,100.0,Retained Skill
+MECH,internal combustion engines,1,0,-1,-100.0,R22 Removed Skill
+MECH,jet propulsion,1,0,-1,-100.0,R22 Removed Skill
+MECH,kinematics,1,2,1,100.0,Retained Skill
+MECH,lubrication,1,0,-1,-100.0,R22 Removed Skill
+MECH,machine design,2,2,0,0.0,Retained Skill
+MECH,machine tools,1,0,-1,-100.0,R22 Removed Skill
+MECH,manufacturing,3,2,-1,-33.33,Retained Skill
+MECH,material science,2,4,2,100.0,Retained Skill
+MECH,materials engineering,1,0,-1,-100.0,R22 Removed Skill
+MECH,mathematics,0,3,3,,R25 New Skill
+MECH,mechanical engineering,1,1,0,0.0,Retained Skill
+MECH,mechatronics,1,0,-1,-100.0,R22 Removed Skill
+MECH,metrology,1,2,1,100.0,Retained Skill
+MECH,microprocessors,1,1,0,0.0,Retained Skill
+MECH,operations research,1,1,0,0.0,Retained Skill
+MECH,power engineering,1,0,-1,-100.0,R22 Removed Skill
+MECH,power plants,1,0,-1,-100.0,R22 Removed Skill
+MECH,probability,0,1,1,,R25 New Skill
+MECH,production planning,1,0,-1,-100.0,R22 Removed Skill
+MECH,python,1,2,1,100.0,Retained Skill
+MECH,quality management,1,0,-1,-100.0,R22 Removed Skill
+MECH,reengineering,1,0,-1,-100.0,R22 Removed Skill
+MECH,refrigeration,1,0,-1,-100.0,R22 Removed Skill
+MECH,renewable energy,1,0,-1,-100.0,R22 Removed Skill
+MECH,research,2,0,-2,-100.0,R22 Removed Skill
+MECH,robotics,1,1,0,0.0,Retained Skill
+MECH,simulation,0,1,1,,R25 New Skill
+MECH,solar energy,1,0,-1,-100.0,R22 Removed Skill
+MECH,solid mechanics,1,1,0,0.0,Retained Skill
+MECH,thermal engineering,1,4,3,300.0,Retained Skill
+MECH,thermodynamics,1,1,0,0.0,Retained Skill
+MECH,turbomachinery,1,0,-1,-100.0,R22 Removed Skill
+MECH,vibration analysis,1,0,-1,-100.0,R22 Removed Skill
+MECH,workshop practice,1,1,0,0.0,Retained Skill

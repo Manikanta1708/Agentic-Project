@@ -1,0 +1,9 @@
+Branch,True Positive,False Positive,False Negative,Precision,Recall
+AIML,6,1,0,0.8571,1.0
+CSE,3,0,0,1.0,1.0
+DS,6,2,0,0.75,1.0
+IT,6,1,0,0.8571,1.0
+ECE,6,3,0,0.6667,1.0
+EEE,6,3,0,0.6667,1.0
+MECH,6,4,0,0.6,1.0
+CIVIL,6,4,0,0.6,1.0

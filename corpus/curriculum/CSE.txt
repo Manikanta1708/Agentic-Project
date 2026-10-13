@@ -1,0 +1,73 @@
+Branch : CSE
+
+Curriculum Skills
+========================================
+
+- agile
+- algorithms
+- artificial intelligence
+- automata
+- big data
+- blockchain
+- c programming
+- chatbots
+- cloud computing
+- compiler design
+- complexity theory
+- computer architecture
+- computer fundamentals
+- computer graphics
+- computer hardware
+- computer networks
+- css
+- cyber security
+- data analytics
+- data structures
+- data visualization
+- database
+- deep learning
+- devops
+- digital electronics
+- digital forensics
+- distributed database
+- distributed systems
+- django
+- embedded systems
+- flutter
+- full stack
+- graph theory
+- hci
+- html
+- image processing
+- information retrieval
+- iot
+- java
+- javascript
+- llm
+- machine learning
+- management
+- mobile development
+- nlp
+- nodejs
+- oop
+- operating systems
+- pandas
+- power bi
+- programming languages
+- project management
+- python
+- pytorch
+- quantum computing
+- r programming
+- react
+- research
+- rpa
+- scripting
+- soft computing
+- software engineering
+- software testing
+- spark
+- sql
+- statistics
+- tensorflow
+- wireless networks

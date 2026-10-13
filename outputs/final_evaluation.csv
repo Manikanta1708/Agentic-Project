@@ -1,0 +1,9 @@
+branch,covered_skills,missing_skills,recommendations,coverage_score,health_score
+AIML,73,7,7,91.25,91.25
+CSE,68,3,3,95.77,95.77
+DS,65,8,8,89.04,89.04
+IT,65,7,7,90.28,90.28
+ECE,62,9,9,87.32,87.32
+EEE,47,9,9,83.93,83.93
+MECH,67,10,10,87.01,87.01
+CIVIL,52,10,10,83.87,83.87

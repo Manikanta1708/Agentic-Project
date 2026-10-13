@@ -1,0 +1,88 @@
+Branch,Skill
+AIML,python
+AIML,machine learning
+AIML,deep learning
+AIML,rag
+AIML,llm
+AIML,mlops
+AIML,knowledge graph
+AIML,tensorflow
+AIML,pytorch
+AIML,nlp
+
+CSE,python
+CSE,sql
+CSE,cloud computing
+CSE,devops
+CSE,rag
+CSE,llm
+CSE,mlops
+CSE,knowledge graph
+CSE,cyber security
+CSE,data structures
+
+DS,python
+DS,sql
+DS,machine learning
+DS,deep learning
+DS,rag
+DS,llm
+DS,mlops
+DS,data mining
+DS,statistics
+DS,nlp
+
+IT,python
+IT,cloud computing
+IT,sql
+IT,devops
+IT,rag
+IT,llm
+IT,mlops
+IT,knowledge graph
+IT,cyber security
+IT,network security
+
+ECE,python
+ECE,sql
+ECE,rag
+ECE,llm
+ECE,mlops
+ECE,tensorflow
+ECE,nlp
+ECE,knowledge graph
+ECE,deep learning
+ECE,iot
+
+EEE,python
+EEE,sql
+EEE,rag
+EEE,llm
+EEE,mlops
+EEE,knowledge graph
+EEE,iot
+EEE,deep learning
+EEE,tensorflow
+EEE,nlp
+
+MECH,python
+MECH,sql
+MECH,rag
+MECH,llm
+MECH,mlops
+MECH,digital twin
+MECH,iot
+MECH,knowledge graph
+MECH,deep learning
+MECH,predictive maintenance
+
+CIVIL,python
+CIVIL,sql
+CIVIL,rag
+CIVIL,llm
+CIVIL,mlops
+CIVIL,knowledge graph
+CIVIL,digital twin
+CIVIL,bim
+CIVIL,iot
+CIVIL,deep learning

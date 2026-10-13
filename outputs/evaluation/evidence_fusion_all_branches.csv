@@ -1,0 +1,260 @@
+skill,sources,retrieval_score,rerank_score,job_count,research_count,confidence,trend_score,trend_direction,industry_growth,source_agreement,rank,branch
+generative ai,"Curriculum-Evolution, Graph-Missing, Graph-Recommendation",1.0,0.5,0,0,0.425,0.0,Unavailable,0.0,1.0,1,AIML
+data visualization,"Curriculum-Evolution, Graph-Missing, Graph-Recommendation",1.0,0.5,0,0,0.425,0.0,Unavailable,0.0,1.0,2,AIML
+reinforcement learning,"Curriculum-Evolution, Graph-Missing, Graph-Recommendation",1.0,0.5,0,0,0.425,0.0,Unavailable,0.0,1.0,3,AIML
+software engineering,"BM25, Curriculum-Evolution, Vector",0.1063,0.5,0,0,0.2463,0.0,Unavailable,0.0,1.0,4,AIML
+computer networks,"BM25, Curriculum-Evolution, Vector",0.1063,0.5,0,0,0.2463,0.0,Unavailable,0.0,1.0,5,AIML
+deep learning,"BM25, Curriculum-Evolution, Vector",0.1063,0.5,0,0,0.2463,0.0,Unavailable,0.0,1.0,6,AIML
+mathematics,"BM25, Curriculum-Evolution, Vector",0.1063,0.5,0,0,0.2463,0.0,Unavailable,0.0,1.0,7,AIML
+python,"BM25, Vector",0.068,0.5,0,0,0.2085,0.0214,Stable,-23.57,0.6667,8,AIML
+artificial intelligence,"BM25, Vector",0.068,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,9,AIML
+mobile app development,"BM25, Vector",0.068,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,10,AIML
+computer organization,"BM25, Vector",0.068,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,11,AIML
+discrete mathematics,"BM25, Vector",0.068,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,12,AIML
+database management,"BM25, Vector",0.068,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,13,AIML
+business economics,"BM25, Vector",0.068,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,14,AIML
+operating systems,"BM25, Vector",0.068,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,15,AIML
+machine learning,"BM25, Vector",0.068,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,16,AIML
+capstone project,"BM25, Vector",0.068,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,17,AIML
+compiler design,"BM25, Vector",0.068,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,18,AIML
+data structures,"BM25, Vector",0.068,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,19,AIML
+data analytics,"BM25, Vector",0.068,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,20,AIML
+c programming,"BM25, Vector",0.068,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,21,AIML
+statistics,"BM25, Vector",0.068,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,22,AIML
+algorithms,"BM25, Vector",0.068,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,23,AIML
+internship,"BM25, Vector",0.068,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,24,AIML
+chatbots,"BM25, Vector",0.068,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,25,AIML
+research,"BM25, Vector",0.068,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,26,AIML
+java,"BM25, Vector",0.068,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,27,AIML
+sql,"BM25, Vector",0.068,0.5,0,0,0.2053,0.0,Decreasing,-24.46,0.6667,28,AIML
+electrical engineering,Curriculum-Evolution,0.0812,0.5,0,0,0.1746,0.0,Unavailable,0.0,0.3333,29,AIML
+electronics,Curriculum-Evolution,0.0812,0.5,0,0,0.1746,0.0,Unavailable,0.0,0.3333,30,AIML
+material science,Curriculum-Evolution,0.0812,0.5,0,0,0.1746,0.0,Unavailable,0.0,0.3333,31,AIML
+cad,Curriculum-Evolution,0.0812,0.5,0,0,0.1746,0.0,Unavailable,0.0,0.3333,32,AIML
+electronic circuits,Curriculum-Evolution,0.0812,0.5,0,0,0.1746,0.0,Unavailable,0.0,0.3333,33,AIML
+environmental engineering,Curriculum-Evolution,0.0812,0.5,0,0,0.1746,0.0,Unavailable,0.0,0.3333,34,AIML
+programming languages,Curriculum-Evolution,0.0812,0.5,0,0,0.1746,0.0,Unavailable,0.0,0.3333,35,AIML
+workshop practice,Curriculum-Evolution,0.0812,0.5,0,0,0.1746,0.0,Unavailable,0.0,0.3333,36,AIML
+natural language processing,BM25,0.0,0.5,0,0,0.1583,0.0,Unavailable,0.0,0.3333,37,AIML
+node.js,BM25,0.0,0.5,0,0,0.1583,0.0,Unavailable,0.0,0.3333,38,AIML
+capstone project,"Graph-Missing, Graph-Recommendation",1.0,0.5,0,0,0.3917,0.0,Unavailable,0.0,0.6667,1,CSE
+mobile app development,"Graph-Missing, Graph-Recommendation",0.9862,0.5,0,0,0.3889,0.0,Unavailable,0.0,0.6667,2,CSE
+discrete mathematics,"Graph-Missing, Graph-Recommendation",0.9789,0.5,0,0,0.3875,0.0,Unavailable,0.0,0.6667,3,CSE
+software engineering,"BM25, Curriculum-Evolution, Vector",0.1046,0.5,0,0,0.2459,0.0,Unavailable,0.0,1.0,4,CSE
+machine learning,"BM25, Curriculum-Evolution, Vector",0.1046,0.5,0,0,0.2459,0.0,Unavailable,0.0,1.0,5,CSE
+compiler design,"BM25, Curriculum-Evolution, Vector",0.1046,0.5,0,0,0.2459,0.0,Unavailable,0.0,1.0,6,CSE
+data structures,"BM25, Curriculum-Evolution, Vector",0.1046,0.5,0,0,0.2459,0.0,Unavailable,0.0,1.0,7,CSE
+cyber security,"BM25, Curriculum-Evolution, Vector",0.1046,0.5,0,0,0.2459,0.0,Unavailable,0.0,1.0,8,CSE
+deep learning,"BM25, Curriculum-Evolution, Vector",0.1046,0.5,0,0,0.2459,0.0,Unavailable,0.0,1.0,9,CSE
+electronics,"BM25, Curriculum-Evolution, Vector",0.1046,0.5,0,0,0.2459,0.0,Unavailable,0.0,1.0,10,CSE
+devops,"BM25, Curriculum-Evolution, Vector",0.1046,0.5,0,0,0.2459,0.0,Unavailable,0.0,1.0,11,CSE
+java,"BM25, Curriculum-Evolution, Vector",0.1046,0.5,0,0,0.2459,0.0,Unavailable,0.0,1.0,12,CSE
+sql,"BM25, Curriculum-Evolution, Vector",0.1046,0.5,0,0,0.2459,0.0,Decreasing,-24.46,1.0,13,CSE
+python,"BM25, Vector",0.0682,0.5,0,0,0.2085,0.0214,Stable,-23.57,0.6667,14,CSE
+artificial intelligence,"BM25, Vector",0.0682,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,15,CSE
+programming languages,"BM25, Vector",0.0682,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,16,CSE
+computer architecture,"BM25, Vector",0.0682,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,17,CSE
+data visualization,"BM25, Vector",0.0682,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,18,CSE
+computer hardware,"BM25, Vector",0.0682,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,19,CSE
+computer networks,"BM25, Vector",0.0682,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,20,CSE
+operating systems,"BM25, Vector",0.0682,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,21,CSE
+c programming,"BM25, Vector",0.0682,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,22,CSE
+statistics,"BM25, Vector",0.0682,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,23,CSE
+algorithms,"BM25, Vector",0.0682,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,24,CSE
+big data,"BM25, Vector",0.0682,0.5,0,0,0.2053,0.0,Unavailable,0.0,0.6667,25,CSE
+mathematics,Curriculum-Evolution,0.0791,0.5,0,0,0.1742,0.0,Unavailable,0.0,0.3333,26,CSE
+electrical engineering,Curriculum-Evolution,0.0791,0.5,0,0,0.1742,0.0,Unavailable,0.0,0.3333,27,CSE
+material science,Curriculum-Evolution,0.0791,0.5,0,0,0.1742,0.0,Unavailable,0.0,0.3333,28,CSE
+nlp,Curriculum-Evolution,0.0791,0.5,0,0,0.1742,0.0,Decreasing,-10.85,0.3333,29,CSE
+cad,Curriculum-Evolution,0.0791,0.5,0,0,0.1742,0.0,Unavailable,0.0,0.3333,30,CSE
+natural language processing,BM25,0.0,0.5,0,0,0.1583,0.0,Unavailable,0.0,0.3333,31,CSE
+generative ai,"Curriculum-Evolution, Graph-Missing, Graph-Recommendation",1.0,0.5,0,0,0.425,0.0,Unavailable,0.0,1.0,1,DS
+artificial intelligence,"BM25, Curriculum-Evolution, Vector",0.1011,0.5,0,0,0.2452,0.0,Unavailable,0.0,1.0,2,DS
+software engineering,"BM25, Curriculum-Evolution, Vector",0.1011,0.5,0,0,0.2452,0.0,Unavailable,0.0,1.0,3,DS
+machine learning,"BM25, Curriculum-Evolution, Vector",0.1011,0.5,0,0,0.2452,0.0,Unavailable,0.0,1.0,4,DS
+mathematics,"BM25, Curriculum-Evolution, Vector",0.1011,0.5,0,0,0.2452,0.0,Unavailable,0.0,1.0,5,DS
+electronics,"BM25, Curriculum-Evolution, Vector",0.1011,0.5,0,0,0.2452,0.0,Unavailable,0.0,1.0,6,DS
+data mining,"BM25, Curriculum-Evolution, Vector",0.1011,0.5,0,0,0.2452,0.0,Unavailable,0.0,1.0,7,DS
+python,"BM25, Vector",0.063,0.5,0,0,0.2075,0.0214,Stable,-23.57,0.6667,8,DS
+mobile app development,"BM25, Vector",0.063,0.5,0,0,0.2043,0.0,Unavailable,0.0,0.6667,9,DS
+computer organization,"BM25, Vector",0.063,0.5,0,0,0.2043,0.0,Unavailable,0.0,0.6667,10,DS
+discrete mathematics,"BM25, Vector",0.063,0.5,0,0,0.2043,0.0,Unavailable,0.0,0.6667,11,DS
+data visualization,"BM25, Vector",0.063,0.5,0,0,0.2043,0.0,Unavailable,0.0,0.6667,12,DS
+computer networks,"BM25, Vector",0.063,0.5,0,0,0.2043,0.0,Unavailable,0.0,0.6667,13,DS
+operating systems,"BM25, Vector",0.063,0.5,0,0,0.2043,0.0,Unavailable,0.0,0.6667,14,DS
+capstone project,"BM25, Vector",0.063,0.5,0,0,0.2043,0.0,Unavailable,0.0,0.6667,15,DS
+data structures,"BM25, Vector",0.063,0.5,0,0,0.2043,0.0,Unavailable,0.0,0.6667,16,DS
+r programming,"BM25, Vector",0.063,0.5,0,0,0.2043,0.0,Unavailable,0.0,0.6667,17,DS
+c programming,"BM25, Vector",0.063,0.5,0,0,0.2043,0.0,Unavailable,0.0,0.6667,18,DS
+data science,"BM25, Vector",0.063,0.5,0,0,0.2043,0.0,Unavailable,0.0,0.6667,19,DS
+statistics,"BM25, Vector",0.063,0.5,0,0,0.2043,0.0,Unavailable,0.0,0.6667,20,DS
+algorithms,"BM25, Vector",0.063,0.5,0,0,0.2043,0.0,Unavailable,0.0,0.6667,21,DS
+internship,"BM25, Vector",0.063,0.5,0,0,0.2043,0.0,Unavailable,0.0,0.6667,22,DS
+big data,"BM25, Vector",0.063,0.5,0,0,0.2043,0.0,Unavailable,0.0,0.6667,23,DS
+java,"BM25, Vector",0.063,0.5,0,0,0.2043,0.0,Unavailable,0.0,0.6667,24,DS
+sql,"BM25, Vector",0.063,0.5,0,0,0.2043,0.0,Decreasing,-24.46,0.6667,25,DS
+electrical engineering,Curriculum-Evolution,0.0759,0.5,0,0,0.1735,0.0,Unavailable,0.0,0.3333,26,DS
+material science,Curriculum-Evolution,0.0759,0.5,0,0,0.1735,0.0,Unavailable,0.0,0.3333,27,DS
+cad,Curriculum-Evolution,0.0759,0.5,0,0,0.1735,0.0,Unavailable,0.0,0.3333,28,DS
+electronic circuits,Curriculum-Evolution,0.0759,0.5,0,0,0.1735,0.0,Unavailable,0.0,0.3333,29,DS
+environmental engineering,Curriculum-Evolution,0.0759,0.5,0,0,0.1735,0.0,Unavailable,0.0,0.3333,30,DS
+programming languages,Curriculum-Evolution,0.0759,0.5,0,0,0.1735,0.0,Unavailable,0.0,0.3333,31,DS
+workshop practice,Curriculum-Evolution,0.0759,0.5,0,0,0.1735,0.0,Unavailable,0.0,0.3333,32,DS
+node.js,BM25,0.0,0.5,0,0,0.1583,0.0,Unavailable,0.0,0.3333,33,DS
+mobile app development,"BM25, Curriculum-Evolution, Vector",1.0,0.5,0,0,0.425,0.0,Unavailable,0.0,1.0,1,IT
+machine learning,"BM25, Curriculum-Evolution, Vector",1.0,0.5,0,0,0.425,0.0,Unavailable,0.0,1.0,2,IT
+deep learning,"BM25, Curriculum-Evolution, Vector",1.0,0.5,0,0,0.425,0.0,Unavailable,0.0,1.0,3,IT
+mathematics,"BM25, Curriculum-Evolution, Vector",1.0,0.5,0,0,0.425,0.0,Unavailable,0.0,1.0,4,IT
+electronics,"BM25, Curriculum-Evolution, Vector",1.0,0.5,0,0,0.425,0.0,Unavailable,0.0,1.0,5,IT
+algorithms,"BM25, Curriculum-Evolution, Vector",1.0,0.5,0,0,0.425,0.0,Unavailable,0.0,1.0,6,IT
+java,"BM25, Curriculum-Evolution, Vector",1.0,0.5,0,0,0.425,0.0,Unavailable,0.0,1.0,7,IT
+material science,Curriculum-Evolution,0.7298,0.5,0,0,0.3043,0.0,Unavailable,0.0,0.3333,8,IT
+electrical engineering,Curriculum-Evolution,0.7298,0.5,0,0,0.3043,0.0,Unavailable,0.0,0.3333,9,IT
+environmental engineering,Curriculum-Evolution,0.7298,0.5,0,0,0.3043,0.0,Unavailable,0.0,0.3333,10,IT
+workshop practice,Curriculum-Evolution,0.7298,0.5,0,0,0.3043,0.0,Unavailable,0.0,0.3333,11,IT
+full stack development,"BM25, Vector",0.3807,0.5,0,0,0.2678,0.0,Unavailable,0.0,0.6667,12,IT
+computer organization,"BM25, Vector",0.3807,0.5,0,0,0.2678,0.0,Unavailable,0.0,0.6667,13,IT
+programming languages,"BM25, Vector",0.3807,0.5,0,0,0.2678,0.0,Unavailable,0.0,0.6667,14,IT
+discrete mathematics,"BM25, Vector",0.3807,0.5,0,0,0.2678,0.0,Unavailable,0.0,0.6667,15,IT
+information security,"BM25, Vector",0.3807,0.5,0,0,0.2678,0.0,Unavailable,0.0,0.6667,16,IT
+software engineering,"BM25, Vector",0.3807,0.5,0,0,0.2678,0.0,Unavailable,0.0,0.6667,17,IT
+data visualization,"BM25, Vector",0.3807,0.5,0,0,0.2678,0.0,Unavailable,0.0,0.6667,18,IT
+computer networks,"BM25, Vector",0.3807,0.5,0,0,0.2678,0.0,Unavailable,0.0,0.6667,19,IT
+operating systems,"BM25, Vector",0.3807,0.5,0,0,0.2678,0.0,Unavailable,0.0,0.6667,20,IT
+embedded systems,"BM25, Vector",0.3807,0.5,0,0,0.2678,0.0,Unavailable,0.0,0.6667,21,IT
+capstone project,"BM25, Vector",0.3807,0.5,0,0,0.2678,0.0,Unavailable,0.0,0.6667,22,IT
+compiler design,"BM25, Vector",0.3807,0.5,0,0,0.2678,0.0,Unavailable,0.0,0.6667,23,IT
+data structures,"BM25, Vector",0.3807,0.5,0,0,0.2678,0.0,Unavailable,0.0,0.6667,24,IT
+c programming,"BM25, Vector",0.3807,0.5,0,0,0.2678,0.0,Unavailable,0.0,0.6667,25,IT
+big data,"BM25, Vector",0.3807,0.5,0,0,0.2678,0.0,Unavailable,0.0,0.6667,26,IT
+sql,"BM25, Vector",0.3807,0.5,0,0,0.2678,0.0,Decreasing,-24.46,0.6667,27,IT
+internet of things,BM25,0.0,0.5,0,0,0.1583,0.0,Unavailable,0.0,0.3333,28,IT
+web security,BM25,0.0,0.5,0,0,0.1583,0.0,Unavailable,0.0,0.3333,29,IT
+node.js,BM25,0.0,0.5,0,0,0.1583,0.0,Unavailable,0.0,0.3333,30,IT
+robotics,"Graph-Missing, Graph-Recommendation",1.0,0.5,0,0,0.3917,0.0,Unavailable,0.0,0.6667,1,ECE
+scripting,"Graph-Missing, Graph-Recommendation",0.9862,0.5,0,0,0.3889,0.0,Unavailable,0.0,0.6667,2,ECE
+digital signal processing,"BM25, Curriculum-Evolution, Vector",0.0995,0.5,0,0,0.2449,0.0,Unavailable,0.0,1.0,3,ECE
+electrical engineering,"BM25, Curriculum-Evolution, Vector",0.0995,0.5,0,0,0.2449,0.0,Unavailable,0.0,1.0,4,ECE
+microwave engineering,"BM25, Curriculum-Evolution, Vector",0.0995,0.5,0,0,0.2449,0.0,Unavailable,0.0,1.0,5,ECE
+integrated circuits,"BM25, Curriculum-Evolution, Vector",0.0995,0.5,0,0,0.2449,0.0,Unavailable,0.0,1.0,6,ECE
+embedded systems,"BM25, Curriculum-Evolution, Vector",0.0995,0.5,0,0,0.2449,0.0,Unavailable,0.0,1.0,7,ECE
+circuit analysis,"BM25, Curriculum-Evolution, Vector",0.0995,0.5,0,0,0.2449,0.0,Unavailable,0.0,1.0,8,ECE
+microcontrollers,"BM25, Curriculum-Evolution, Vector",0.0995,0.5,0,0,0.2449,0.0,Unavailable,0.0,1.0,9,ECE
+data structures,"BM25, Curriculum-Evolution, Vector",0.0995,0.5,0,0,0.2449,0.0,Unavailable,0.0,1.0,10,ECE
+electronics,"BM25, Curriculum-Evolution, Vector",0.0995,0.5,0,0,0.2449,0.0,Unavailable,0.0,1.0,11,ECE
+vlsi,"BM25, Curriculum-Evolution, Vector",0.0995,0.5,0,0,0.2449,0.0,Unavailable,0.0,1.0,12,ECE
+python,"BM25, Vector",0.0644,0.5,0,0,0.2078,0.0214,Stable,-23.57,0.6667,13,ECE
+communication systems,"BM25, Vector",0.0644,0.5,0,0,0.2046,0.0,Unavailable,0.0,0.6667,14,ECE
+digital electronics,"BM25, Vector",0.0644,0.5,0,0,0.2046,0.0,Unavailable,0.0,0.6667,15,ECE
+electronic circuits,"BM25, Vector",0.0644,0.5,0,0,0.2046,0.0,Unavailable,0.0,0.6667,16,ECE
+electronic devices,"BM25, Vector",0.0644,0.5,0,0,0.2046,0.0,Unavailable,0.0,0.6667,17,ECE
+business analytics,"BM25, Vector",0.0644,0.5,0,0,0.2046,0.0,Unavailable,0.0,0.6667,18,ECE
+signal processing,"BM25, Vector",0.0644,0.5,0,0,0.2046,0.0,Unavailable,0.0,0.6667,19,ECE
+network analysis,"BM25, Vector",0.0644,0.5,0,0,0.2046,0.0,Unavailable,0.0,0.6667,20,ECE
+industry project,"BM25, Vector",0.0644,0.5,0,0,0.2046,0.0,Unavailable,0.0,0.6667,21,ECE
+electromagnetics,"BM25, Vector",0.0644,0.5,0,0,0.2046,0.0,Unavailable,0.0,0.6667,22,ECE
+capstone project,"BM25, Vector",0.0644,0.5,0,0,0.2046,0.0,Unavailable,0.0,0.6667,23,ECE
+control systems,"BM25, Vector",0.0644,0.5,0,0,0.2046,0.0,Unavailable,0.0,0.6667,24,ECE
+antenna design,"BM25, Vector",0.0644,0.5,0,0,0.2046,0.0,Unavailable,0.0,0.6667,25,ECE
+c programming,"BM25, Vector",0.0644,0.5,0,0,0.2046,0.0,Unavailable,0.0,0.6667,26,ECE
+probability,"BM25, Vector",0.0644,0.5,0,0,0.2046,0.0,Unavailable,0.0,0.6667,27,ECE
+5g,"BM25, Vector",0.0644,0.5,0,0,0.2046,0.0,Unavailable,0.0,0.6667,28,ECE
+mathematics,Curriculum-Evolution,0.0739,0.5,0,0,0.1731,0.0,Unavailable,0.0,0.3333,29,ECE
+material science,Curriculum-Evolution,0.0739,0.5,0,0,0.1731,0.0,Unavailable,0.0,0.3333,30,ECE
+cad,Curriculum-Evolution,0.0739,0.5,0,0,0.1731,0.0,Unavailable,0.0,0.3333,31,ECE
+environmental engineering,Curriculum-Evolution,0.0739,0.5,0,0,0.1731,0.0,Unavailable,0.0,0.3333,32,ECE
+programming languages,Curriculum-Evolution,0.0739,0.5,0,0,0.1731,0.0,Unavailable,0.0,0.3333,33,ECE
+internet of things,BM25,0.0,0.5,0,0,0.1583,0.0,Unavailable,0.0,0.3333,34,ECE
+sensors,"Curriculum-Evolution, Graph-Missing, Graph-Recommendation",1.0,0.5,0,0,0.425,0.0,Unavailable,0.0,1.0,1,EEE
+analog electronics,"BM25, Curriculum-Evolution, Vector",0.0371,0.5,0,0,0.2324,0.0,Unavailable,0.0,1.0,2,EEE
+business analytics,"BM25, Curriculum-Evolution, Vector",0.0371,0.5,0,0,0.2324,0.0,Unavailable,0.0,1.0,3,EEE
+circuit analysis,"BM25, Curriculum-Evolution, Vector",0.0371,0.5,0,0,0.2324,0.0,Unavailable,0.0,1.0,4,EEE
+microcontrollers,"BM25, Curriculum-Evolution, Vector",0.0371,0.5,0,0,0.2324,0.0,Unavailable,0.0,1.0,5,EEE
+c programming,"BM25, Curriculum-Evolution, Vector",0.0371,0.5,0,0,0.2324,0.0,Unavailable,0.0,1.0,6,EEE
+python,"BM25, Vector",0.0,0.5,0,0,0.1949,0.0214,Stable,-23.57,0.6667,7,EEE
+power system protection,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,8,EEE
+electrical machines,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,9,EEE
+digital electronics,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,10,EEE
+power electronics,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,11,EEE
+electric vehicles,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,12,EEE
+industry project,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,13,EEE
+renewable energy,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,14,EEE
+electromagnetics,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,15,EEE
+capstone project,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,16,EEE
+control systems,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,17,EEE
+power systems,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,18,EEE
+ev charging,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,19,EEE
+electronics,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,20,EEE
+smart grid,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,21,EEE
+mathematics,Curriculum-Evolution,0.0101,0.5,0,0,0.1604,0.0,Unavailable,0.0,0.3333,22,EEE
+material science,Curriculum-Evolution,0.0101,0.5,0,0,0.1604,0.0,Unavailable,0.0,0.3333,23,EEE
+environmental engineering,Curriculum-Evolution,0.0101,0.5,0,0,0.1604,0.0,Unavailable,0.0,0.3333,24,EEE
+workshop practice,Curriculum-Evolution,0.0101,0.5,0,0,0.1604,0.0,Unavailable,0.0,0.3333,25,EEE
+data analytics,"Curriculum-Evolution, Graph-Missing, Graph-Recommendation",1.0,0.5,0,0,0.425,0.0,Unavailable,0.0,1.0,1,MECH
+simulation,"Curriculum-Evolution, Graph-Missing, Graph-Recommendation",1.0,0.5,0,0,0.425,0.0,Unavailable,0.0,1.0,2,MECH
+python,"BM25, Curriculum-Evolution, Vector",0.0407,0.5,0,0,0.2364,0.0214,Stable,-23.57,1.0,3,MECH
+thermal engineering,"BM25, Curriculum-Evolution, Vector",0.0407,0.5,0,0,0.2331,0.0,Unavailable,0.0,1.0,4,MECH
+material science,"BM25, Curriculum-Evolution, Vector",0.0407,0.5,0,0,0.2331,0.0,Unavailable,0.0,1.0,5,MECH
+instrumentation,"BM25, Curriculum-Evolution, Vector",0.0407,0.5,0,0,0.2331,0.0,Unavailable,0.0,1.0,6,MECH
+fluid mechanics,"BM25, Curriculum-Evolution, Vector",0.0407,0.5,0,0,0.2331,0.0,Unavailable,0.0,1.0,7,MECH
+c programming,"BM25, Curriculum-Evolution, Vector",0.0407,0.5,0,0,0.2331,0.0,Unavailable,0.0,1.0,8,MECH
+electronics,"BM25, Curriculum-Evolution, Vector",0.0407,0.5,0,0,0.2331,0.0,Unavailable,0.0,1.0,9,MECH
+kinematics,"BM25, Curriculum-Evolution, Vector",0.0407,0.5,0,0,0.2331,0.0,Unavailable,0.0,1.0,10,MECH
+metrology,"BM25, Curriculum-Evolution, Vector",0.0407,0.5,0,0,0.2331,0.0,Unavailable,0.0,1.0,11,MECH
+finite element analysis,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,12,MECH
+electrical engineering,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,13,MECH
+mechanical engineering,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,14,MECH
+engineering mechanics,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,15,MECH
+industrial management,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,16,MECH
+operations research,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,17,MECH
+business analytics,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,18,MECH
+workshop practice,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,19,MECH
+industry project,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,20,MECH
+capstone project,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,21,MECH
+microprocessors,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,22,MECH
+solid mechanics,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,23,MECH
+machine design,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,24,MECH
+thermodynamics,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,25,MECH
+manufacturing,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,26,MECH
+heat transfer,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,27,MECH
+3d printing,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,28,MECH
+dynamics,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,29,MECH
+robotics,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,30,MECH
+cad,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,31,MECH
+cae,"BM25, Vector",0.0,0.5,0,0,0.1917,0.0,Unavailable,0.0,0.6667,32,MECH
+mathematics,Curriculum-Evolution,0.0138,0.5,0,0,0.1611,0.0,Unavailable,0.0,0.3333,33,MECH
+environmental engineering,Curriculum-Evolution,0.0138,0.5,0,0,0.1611,0.0,Unavailable,0.0,0.3333,34,MECH
+probability,Curriculum-Evolution,0.0138,0.5,0,0,0.1611,0.0,Unavailable,0.0,0.3333,35,MECH
+civil engineering software,"BM25, Curriculum-Evolution, Vector",0.1375,1.0,0,0,0.3775,0.0,Unavailable,0.0,1.0,1,CIVIL
+iot,"Curriculum-Evolution, Graph-Missing, Graph-Recommendation",1.0,0.0,0,0,0.3,0.0,Unavailable,0.0,1.0,2,CIVIL
+python,"BM25, Curriculum-Evolution, Vector",0.1375,0.0,0,0,0.1307,0.0214,Stable,-23.57,1.0,3,CIVIL
+environmental engineering,"BM25, Curriculum-Evolution, Vector",0.1375,0.0,0,0,0.1275,0.0,Unavailable,0.0,1.0,4,CIVIL
+engineering geology,"BM25, Curriculum-Evolution, Vector",0.1375,0.0,0,0,0.1275,0.0,Unavailable,0.0,1.0,5,CIVIL
+material testing,"BM25, Curriculum-Evolution, Vector",0.1375,0.0,0,0,0.1275,0.0,Unavailable,0.0,1.0,6,CIVIL
+c programming,"BM25, Curriculum-Evolution, Vector",0.1375,0.0,0,0,0.1275,0.0,Unavailable,0.0,1.0,7,CIVIL
+electronics,"BM25, Curriculum-Evolution, Vector",0.1375,0.0,0,0,0.1275,0.0,Unavailable,0.0,1.0,8,CIVIL
+transportation engineering,"BM25, Vector",0.1238,0.0,0,0,0.0914,0.0,Unavailable,0.0,0.6667,9,CIVIL
+geotechnical engineering,"BM25, Vector",0.1238,0.0,0,0,0.0914,0.0,Unavailable,0.0,0.6667,10,CIVIL
+electrical engineering,"BM25, Vector",0.1238,0.0,0,0,0.0914,0.0,Unavailable,0.0,0.6667,11,CIVIL
+foundation engineering,"BM25, Vector",0.1238,0.0,0,0,0.0914,0.0,Unavailable,0.0,0.6667,12,CIVIL
+engineering mechanics,"BM25, Vector",0.1238,0.0,0,0,0.0914,0.0,Unavailable,0.0,0.6667,13,CIVIL
+strength of materials,"BM25, Vector",0.1238,0.0,0,0,0.0914,0.0,Unavailable,0.0,0.6667,14,CIVIL
+hydraulic structures,"BM25, Vector",0.1238,0.0,0,0,0.0914,0.0,Unavailable,0.0,0.6667,15,CIVIL
+pavement engineering,"BM25, Vector",0.1238,0.0,0,0,0.0914,0.0,Unavailable,0.0,0.6667,16,CIVIL
+structural analysis,"BM25, Vector",0.1238,0.0,0,0,0.0914,0.0,Unavailable,0.0,0.6667,17,CIVIL
+business analytics,"BM25, Vector",0.1238,0.0,0,0,0.0914,0.0,Unavailable,0.0,0.6667,18,CIVIL
+project management,"BM25, Vector",0.1238,0.0,0,0,0.0914,0.0,Unavailable,0.0,0.6667,19,CIVIL
+quantity surveying,"BM25, Vector",0.1238,0.0,0,0,0.0914,0.0,Unavailable,0.0,0.6667,20,CIVIL
+workshop practice,"BM25, Vector",0.1238,0.0,0,0,0.0914,0.0,Unavailable,0.0,0.6667,21,CIVIL
+industry project,"BM25, Vector",0.1238,0.0,0,0,0.0914,0.0,Unavailable,0.0,0.6667,22,CIVIL
+capstone project,"BM25, Vector",0.1238,0.0,0,0,0.0914,0.0,Unavailable,0.0,0.6667,23,CIVIL
+water resources,"BM25, Vector",0.1238,0.0,0,0,0.0914,0.0,Unavailable,0.0,0.6667,24,CIVIL
+fluid mechanics,"BM25, Vector",0.1238,0.0,0,0,0.0914,0.0,Unavailable,0.0,0.6667,25,CIVIL
+soil mechanics,"BM25, Vector",0.1238,0.0,0,0,0.0914,0.0,Unavailable,0.0,0.6667,26,CIVIL
+hydraulics,"BM25, Vector",0.1238,0.0,0,0,0.0914,0.0,Unavailable,0.0,0.6667,27,CIVIL
+geomatics,"BM25, Vector",0.1238,0.0,0,0,0.0914,0.0,Unavailable,0.0,0.6667,28,CIVIL
+surveying,"BM25, Vector",0.1238,0.0,0,0,0.0914,0.0,Unavailable,0.0,0.6667,29,CIVIL
+cad,"BM25, Vector",0.1238,0.0,0,0,0.0914,0.0,Unavailable,0.0,0.6667,30,CIVIL
+mathematics,Curriculum-Evolution,0.0,0.0,0,0,0.0333,0.0,Unavailable,0.0,0.3333,31,CIVIL
+material science,Curriculum-Evolution,0.0,0.0,0,0,0.0333,0.0,Unavailable,0.0,0.3333,32,CIVIL
+probability,Curriculum-Evolution,0.0,0.0,0,0,0.0333,0.0,Unavailable,0.0,0.3333,33,CIVIL

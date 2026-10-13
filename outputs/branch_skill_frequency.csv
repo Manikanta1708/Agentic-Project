@@ -1,0 +1,508 @@
+branch,skill,count
+AIML,ad hoc networks,1
+AIML,algorithms,1
+AIML,artificial intelligence,3
+AIML,augmented reality,1
+AIML,automata,1
+AIML,business economics,1
+AIML,business intelligence,1
+AIML,c programming,2
+AIML,capstone project,2
+AIML,chatbots,1
+AIML,cloud computing,1
+AIML,cognitive computing,1
+AIML,compiler design,1
+AIML,computer graphics,1
+AIML,computer networks,2
+AIML,computer organization,1
+AIML,computer vision,1
+AIML,conversational ai,1
+AIML,data analytics,2
+AIML,data mining,1
+AIML,data science,1
+AIML,data structures,2
+AIML,data warehousing,1
+AIML,database management,1
+AIML,deep learning,1
+AIML,devops,1
+AIML,discrete mathematics,1
+AIML,django,1
+AIML,evolutionary computing,1
+AIML,expert systems,1
+AIML,federated machine learning,1
+AIML,financial analysis,1
+AIML,flutter,1
+AIML,game theory,1
+AIML,graph theory,1
+AIML,image processing,1
+AIML,information retrieval,1
+AIML,internet of things,1
+AIML,internship,1
+AIML,java,2
+AIML,knowledge representation,1
+AIML,lisp,1
+AIML,machine learning,3
+AIML,mathematics,1
+AIML,mobile app development,1
+AIML,mobile computing,1
+AIML,natural language processing,3
+AIML,nature inspired computing,1
+AIML,node.js,1
+AIML,operating systems,2
+AIML,pattern recognition,1
+AIML,prolog,1
+AIML,pyswip,1
+AIML,python,1
+AIML,quantum computing,1
+AIML,randomized algorithms,1
+AIML,react.js,1
+AIML,reasoning,1
+AIML,research,1
+AIML,robotics,1
+AIML,rpa,1
+AIML,scripting,1
+AIML,semantic web,1
+AIML,sensor networks,1
+AIML,social network analysis,1
+AIML,software engineering,2
+AIML,software testing,1
+AIML,speech processing,1
+AIML,sql,2
+AIML,statistics,1
+AIML,video processing,1
+AIML,virtual reality,1
+AIML,web development,1
+AIML,web security,1
+CIVIL,air pollution,1
+CIVIL,building materials,1
+CIVIL,business analytics,1
+CIVIL,c programming,1
+CIVIL,cad,3
+CIVIL,capstone project,2
+CIVIL,civil engineering,1
+CIVIL,civil engineering software,1
+CIVIL,concrete technology,2
+CIVIL,construction management,1
+CIVIL,data structures,1
+CIVIL,earthquake engineering,1
+CIVIL,electrical engineering,2
+CIVIL,electronics,1
+CIVIL,engineering geology,1
+CIVIL,engineering mechanics,1
+CIVIL,environmental engineering,2
+CIVIL,environmental impact assessment,1
+CIVIL,fluid mechanics,1
+CIVIL,foundation engineering,1
+CIVIL,geomatics,1
+CIVIL,geotechnical engineering,1
+CIVIL,green buildings,1
+CIVIL,ground improvement,1
+CIVIL,groundwater hydrology,1
+CIVIL,hydraulic machinery,1
+CIVIL,hydraulic structures,1
+CIVIL,hydraulics,2
+CIVIL,industry project,1
+CIVIL,manufacturing,1
+CIVIL,material testing,1
+CIVIL,pavement design,1
+CIVIL,pavement engineering,1
+CIVIL,prestressed concrete,1
+CIVIL,project management,1
+CIVIL,python,1
+CIVIL,quantity surveying,1
+CIVIL,reinforced concrete,1
+CIVIL,research,1
+CIVIL,retaining structures,1
+CIVIL,slope stability,1
+CIVIL,smart cities,1
+CIVIL,soil mechanics,1
+CIVIL,solid waste management,1
+CIVIL,steel structures,1
+CIVIL,strength of materials,2
+CIVIL,structural analysis,3
+CIVIL,surveying,3
+CIVIL,transport infrastructure,1
+CIVIL,transportation engineering,2
+CIVIL,water resources,2
+CIVIL,workshop practice,1
+CSE,agile,1
+CSE,algorithms,3
+CSE,artificial intelligence,2
+CSE,automata,1
+CSE,big data,1
+CSE,blockchain,1
+CSE,c programming,1
+CSE,chatbots,1
+CSE,cloud computing,2
+CSE,compiler design,1
+CSE,complexity theory,1
+CSE,computer architecture,2
+CSE,computer fundamentals,1
+CSE,computer graphics,1
+CSE,computer hardware,1
+CSE,computer networks,2
+CSE,css,1
+CSE,cyber security,3
+CSE,data analytics,1
+CSE,data structures,2
+CSE,data visualization,1
+CSE,database,2
+CSE,deep learning,1
+CSE,devops,1
+CSE,digital electronics,1
+CSE,digital forensics,1
+CSE,distributed database,1
+CSE,distributed systems,1
+CSE,django,1
+CSE,embedded systems,1
+CSE,flutter,1
+CSE,full stack,1
+CSE,graph theory,1
+CSE,hci,1
+CSE,html,1
+CSE,image processing,1
+CSE,information retrieval,1
+CSE,iot,1
+CSE,java,1
+CSE,javascript,1
+CSE,llm,1
+CSE,machine learning,1
+CSE,management,1
+CSE,mobile development,1
+CSE,network security,1
+CSE,nlp,1
+CSE,nodejs,1
+CSE,oop,1
+CSE,operating systems,2
+CSE,pandas,1
+CSE,power bi,1
+CSE,programming languages,1
+CSE,project management,1
+CSE,python,2
+CSE,pytorch,1
+CSE,quantum computing,1
+CSE,r programming,1
+CSE,react,1
+CSE,research,1
+CSE,rpa,1
+CSE,scripting,1
+CSE,soft computing,1
+CSE,software engineering,1
+CSE,software testing,1
+CSE,spark,1
+CSE,sql,1
+CSE,statistics,1
+CSE,tensorflow,1
+CSE,wireless networks,1
+DS,algorithms,1
+DS,artificial intelligence,1
+DS,automata,1
+DS,big data,2
+DS,blockchain,1
+DS,business intelligence,1
+DS,c programming,2
+DS,capstone project,2
+DS,cloud computing,1
+DS,compiler design,1
+DS,computer graphics,1
+DS,computer networks,2
+DS,computer organization,1
+DS,computer vision,1
+DS,cryptography,1
+DS,data analytics,1
+DS,data mining,2
+DS,data privacy,1
+DS,data science,3
+DS,data stream mining,1
+DS,data structures,2
+DS,data visualization,3
+DS,data warehousing,1
+DS,database management,1
+DS,database security,1
+DS,devops,1
+DS,digital electronics,1
+DS,discrete mathematics,1
+DS,distributed computing,1
+DS,django,1
+DS,etl,1
+DS,exploratory data analysis,1
+DS,flutter,1
+DS,image processing,1
+DS,information retrieval,1
+DS,internet of things,1
+DS,internship,1
+DS,java,2
+DS,kafka,1
+DS,machine learning,2
+DS,mobile app development,1
+DS,multimedia databases,1
+DS,natural language processing,1
+DS,network security,1
+DS,node.js,1
+DS,operating systems,2
+DS,organizational behavior,1
+DS,parallel computing,1
+DS,power bi,1
+DS,predictive analytics,2
+DS,project management,1
+DS,python,2
+DS,quantum computing,1
+DS,r programming,3
+DS,react.js,1
+DS,research,1
+DS,robotics,1
+DS,scripting,1
+DS,social media analytics,2
+DS,social media mining,1
+DS,software engineering,1
+DS,software testing,1
+DS,sql,2
+DS,statistics,1
+DS,storage management,1
+DS,talend,1
+DS,video analytics,1
+DS,web development,1
+DS,web security,1
+ECE,5g,1
+ECE,algorithms,1
+ECE,analog circuits,1
+ECE,analog electronics,1
+ECE,analog ic design,1
+ECE,antenna design,1
+ECE,artificial intelligence,1
+ECE,biomedical engineering,1
+ECE,business analytics,1
+ECE,c programming,1
+ECE,capstone project,1
+ECE,circuit analysis,1
+ECE,cmos,1
+ECE,communication systems,2
+ECE,computer architecture,1
+ECE,computer networks,1
+ECE,control systems,1
+ECE,cryptography,1
+ECE,cyber security,1
+ECE,data communication,1
+ECE,data structures,1
+ECE,database management,1
+ECE,digital electronics,3
+ECE,digital signal processing,1
+ECE,electrical engineering,1
+ECE,electromagnetics,1
+ECE,electronic circuits,1
+ECE,electronic devices,1
+ECE,electronic measurements,1
+ECE,electronics,1
+ECE,embedded systems,2
+ECE,healthcare electronics,1
+ECE,image processing,1
+ECE,industry project,1
+ECE,instrumentation,2
+ECE,integrated circuits,1
+ECE,internet of things,2
+ECE,iot,2
+ECE,logic design,1
+ECE,machine learning,1
+ECE,microcontrollers,1
+ECE,microwave engineering,1
+ECE,mobile communication,1
+ECE,network analysis,1
+ECE,neural networks,1
+ECE,operating systems,1
+ECE,optical communication,1
+ECE,probability,1
+ECE,python,2
+ECE,radar,1
+ECE,real time systems,1
+ECE,research,1
+ECE,satellite communication,1
+ECE,sensors,1
+ECE,signal processing,2
+ECE,social network analysis,1
+ECE,stochastic processes,1
+ECE,system on chip,1
+ECE,telecommunication,1
+ECE,transmission lines,1
+ECE,vlsi,1
+ECE,wireless communication,2
+ECE,wireless sensor networks,1
+EEE,algorithms,1
+EEE,analog electronics,1
+EEE,artificial intelligence,1
+EEE,battery technology,1
+EEE,business analytics,1
+EEE,c programming,1
+EEE,capstone project,1
+EEE,circuit analysis,2
+EEE,control systems,1
+EEE,cyber physical systems,1
+EEE,data structures,1
+EEE,digital electronics,1
+EEE,digital signal processing,1
+EEE,electric power,1
+EEE,electric vehicles,2
+EEE,electrical distribution,1
+EEE,electrical engineering,1
+EEE,electrical machine design,1
+EEE,electrical machines,2
+EEE,electromagnetics,1
+EEE,electronics,1
+EEE,embedded systems,2
+EEE,energy storage,1
+EEE,ev charging,1
+EEE,facts,1
+EEE,high voltage engineering,1
+EEE,hvdc,1
+EEE,hydraulics,1
+EEE,industry project,1
+EEE,instrumentation,1
+EEE,internet of things,1
+EEE,iot,1
+EEE,machine learning,1
+EEE,management,1
+EEE,microcontrollers,1
+EEE,mobile development,1
+EEE,power electronics,3
+EEE,power quality,1
+EEE,power system protection,1
+EEE,power system reliability,1
+EEE,power systems,3
+EEE,python,1
+EEE,reliability engineering,1
+EEE,renewable energy,4
+EEE,research,2
+EEE,signal processing,1
+EEE,simulation,1
+EEE,smart grid,1
+IT,advanced operating systems,1
+IT,algorithms,1
+IT,artificial intelligence,1
+IT,augmented reality,1
+IT,automata,1
+IT,big data,2
+IT,biometrics,1
+IT,blockchain,1
+IT,c programming,2
+IT,c++,1
+IT,capstone project,2
+IT,cloud computing,2
+IT,compiler design,2
+IT,computer architecture,1
+IT,computer graphics,1
+IT,computer networks,2
+IT,computer organization,1
+IT,cyber forensics,1
+IT,data analytics,1
+IT,data mining,1
+IT,data structures,2
+IT,data visualization,1
+IT,database management,1
+IT,deep learning,1
+IT,devops,1
+IT,digital electronics,2
+IT,discrete mathematics,1
+IT,distributed databases,1
+IT,distributed systems,1
+IT,django,1
+IT,embedded systems,2
+IT,flutter,1
+IT,full stack development,1
+IT,high performance computing,1
+IT,human computer interaction,1
+IT,image processing,1
+IT,information retrieval,1
+IT,information security,2
+IT,internet of things,2
+IT,intrusion detection,1
+IT,java,2
+IT,machine learning,2
+IT,mobile app development,1
+IT,natural language processing,1
+IT,node.js,1
+IT,operating systems,2
+IT,organizational behavior,1
+IT,pattern recognition,1
+IT,power bi,1
+IT,programming languages,1
+IT,project management,1
+IT,python,1
+IT,quantum computing,1
+IT,r programming,1
+IT,react.js,1
+IT,real time systems,1
+IT,research,1
+IT,scripting,1
+IT,sensor networks,1
+IT,software engineering,2
+IT,software testing,1
+IT,spark,1
+IT,sql,2
+IT,virtual reality,1
+IT,web security,1
+MECH,3d printing,1
+MECH,advanced manufacturing,1
+MECH,algorithms,1
+MECH,artificial intelligence,1
+MECH,artificial neural networks,1
+MECH,automation,1
+MECH,automobile engineering,1
+MECH,business analytics,1
+MECH,c programming,1
+MECH,cad,3
+MECH,cae,1
+MECH,cam,1
+MECH,capstone project,1
+MECH,cfd,1
+MECH,composite materials,1
+MECH,control systems,1
+MECH,data structures,1
+MECH,dynamics,1
+MECH,electric vehicles,1
+MECH,electrical engineering,1
+MECH,electronics,1
+MECH,energy management,1
+MECH,engineering mechanics,1
+MECH,finite element analysis,1
+MECH,fluid mechanics,1
+MECH,fluid power,1
+MECH,fuzzy logic,1
+MECH,gas turbines,1
+MECH,heat transfer,2
+MECH,hvac,1
+MECH,hydraulics,1
+MECH,industrial automation,1
+MECH,industrial management,1
+MECH,industry 4.0,1
+MECH,industry project,1
+MECH,instrumentation,1
+MECH,internal combustion engines,1
+MECH,jet propulsion,1
+MECH,kinematics,1
+MECH,lubrication,1
+MECH,machine design,2
+MECH,machine tools,1
+MECH,manufacturing,3
+MECH,material science,2
+MECH,materials engineering,1
+MECH,mechanical engineering,1
+MECH,mechatronics,1
+MECH,metrology,1
+MECH,microprocessors,1
+MECH,operations research,1
+MECH,power engineering,1
+MECH,power plants,1
+MECH,production planning,1
+MECH,python,1
+MECH,quality management,1
+MECH,reengineering,1
+MECH,refrigeration,1
+MECH,renewable energy,1
+MECH,research,2
+MECH,robotics,1
+MECH,solar energy,1
+MECH,solid mechanics,1
+MECH,thermal engineering,1
+MECH,thermodynamics,1
+MECH,turbomachinery,1
+MECH,vibration analysis,1
+MECH,workshop practice,1

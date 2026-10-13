@@ -1,0 +1,94 @@
+branch,skill,r25_count,course_title
+AIML,electrical engineering,2,Basic Electrical Engineering
+AIML,electrical engineering,2,Basic Electrical Engineering Lab
+AIML,electronics,2,Advanced Engineering Physics
+AIML,electronics,2,Advanced Engineering Physics Lab
+AIML,generative ai,2,Generative AI
+AIML,generative ai,2,Generative AI Lab
+AIML,material science,2,Engineering Chemistry
+AIML,material science,2,Engineering Chemistry Lab
+AIML,cad,1,Engineering Drawing and Computer Aided Drafting
+AIML,data visualization,1,Data Visualization- R Programming/ Power BI
+AIML,electronic circuits,1,Electronic Devices and Circuits
+AIML,environmental engineering,1,Environmental Science
+AIML,programming languages,1,Programming for Problem Solving Lab
+AIML,reinforcement learning,1,Reinforcement Learning
+AIML,workshop practice,1,Engineering Workshop
+CIVIL,mathematics,3,Matrices and Calculus
+CIVIL,mathematics,3,Ordinary Differential Equations and Vector Calculus
+CIVIL,mathematics,3,Computational Mathematics Lab
+CIVIL,material science,2,Applied Chemistry
+CIVIL,material science,2,Chemistry Lab for Engineers
+CIVIL,internet of things,1,Computational Lab / IOT Lab
+CIVIL,probability,1,Probability and Statistics
+CSE,mathematics,3,Matrices and Calculus
+CSE,mathematics,3,Ordinary Differential Equations and Vector Calculus
+CSE,mathematics,3,Computational Mathematics Lab
+CSE,electrical engineering,2,Basic Electrical Engineering
+CSE,electrical engineering,2,Basic Electrical Engineering Lab
+CSE,electronics,2,Advanced Engineering Physics
+CSE,electronics,2,Advanced Engineering Physics Lab
+CSE,material science,2,Engineering Chemistry
+CSE,material science,2,Engineering Chemistry Lab
+CSE,natural language processing,2,Natural Language Processing
+CSE,natural language processing,2,Natural Language Processing Lab
+CSE,cad,1,Engineering Drawing and Computer Aided Drafting
+CSE,capstone project,1,Project Work
+CSE,discrete mathematics,1,Discrete Mathematics
+CSE,electronic circuits,1,Electronic Devices and Circuits
+CSE,environmental engineering,1,Environmental Science
+CSE,mobile app development,1,UI Design – Flutter/ Android Studio
+CSE,node.js,1,Node Js/React JS/ Django
+CSE,workshop practice,1,Engineering Workshop
+DS,mathematics,3,Matrices and Calculus
+DS,mathematics,3,Ordinary Differential Equations and Vector Calculus
+DS,mathematics,3,Computational Mathematics Lab
+DS,electrical engineering,2,Basic Electrical Engineering
+DS,electrical engineering,2,Basic Electrical Engineering Lab
+DS,electronics,2,Advanced Engineering Physics
+DS,electronics,2,Advanced Engineering Physics Lab
+DS,generative ai,2,Generative AI
+DS,generative ai,2,Generative AI Lab
+DS,material science,2,Engineering Chemistry
+DS,material science,2,Engineering Chemistry Lab
+DS,cad,1,Engineering Drawing and Computer Aided Drafting
+DS,electronic circuits,1,Electronic Devices and Circuits
+DS,environmental engineering,1,Environmental Science
+DS,programming languages,1,Programming for Problem Solving Lab
+DS,workshop practice,1,Engineering Workshop
+ECE,mathematics,4,Matrices and Calculus
+ECE,mathematics,4,Ordinary Differential Equations and Vector Calculus
+ECE,mathematics,4,Numerical Methods and Complex Variables
+ECE,mathematics,4,Computational Mathematics Lab
+ECE,material science,2,Engineering Chemistry
+ECE,material science,2,Engineering Chemistry Lab
+ECE,cad,1,Engineering Drawing and Computer Aided Drafting
+ECE,environmental engineering,1,Environmental Science
+ECE,programming languages,1,Programming for Problem Solving Lab
+ECE,robotics,1,45G Practical Lab/Robotic Lab/Drone Lab
+ECE,scripting,1,Linux and Shell Scripting
+ECE,workshop practice,1,Engineering Workshop
+EEE,mathematics,3,Matrices and Calculus
+EEE,mathematics,3,Ordinary Differential Equations and Vector Calculus
+EEE,mathematics,3,Numerical Methods and Complex Variables
+EEE,material science,2,Engineering Chemistry
+EEE,material science,2,Engineering Chemistry Laboratory
+EEE,environmental engineering,1,Environmental Science
+EEE,sensors,1,Dept. Core    Electrical Measurements and Sensors
+EEE,workshop practice,1,Engineering Workshop
+IT,electronics,2,Advanced Engineering Physics
+IT,electronics,2,Advanced Engineering Physics Lab
+IT,material science,2,Engineering Chemistry
+IT,material science,2,Engineering Chemistry Lab
+IT,mathematics,2,Matrices and Calculus
+IT,mathematics,2,Ordinary Differential Equations and Vector Calculus
+IT,electrical engineering,1,Basic Electrical Engineering Lab
+IT,environmental engineering,1,Environmental Science
+IT,workshop practice,1,Engineering Workshop
+MECH,mathematics,3,Matrices and Calculus
+MECH,mathematics,3,Ordinary Differential Equations and Vector Calculus
+MECH,mathematics,3,Computational Mathematics Lab
+MECH,data analytics,1,Data Analytics and Python for Engineers
+MECH,environmental engineering,1,Environmental Science
+MECH,probability,1,"Probability, Statistics and Complex Variables"
+MECH,simulation,1,Modelling and Simulation Tools

@@ -1,0 +1,93 @@
+branch,skill,r22_count,r25_count,change,relevance_grade
+AIML,electrical engineering,0,2,2,2
+AIML,electronics,0,2,2,2
+AIML,generative ai,0,2,2,2
+AIML,material science,0,2,2,2
+AIML,cad,0,1,1,2
+AIML,data visualization,0,1,1,2
+AIML,deep learning,1,2,1,2
+AIML,electronic circuits,0,1,1,2
+AIML,environmental engineering,0,1,1,2
+AIML,programming languages,0,1,1,2
+AIML,reinforcement learning,0,1,1,2
+AIML,workshop practice,0,1,1,2
+CIVIL,material science,0,2,2,2
+CIVIL,civil engineering software,1,2,1,2
+CIVIL,electronics,1,2,1,2
+CIVIL,engineering geology,1,2,1,2
+CIVIL,environmental engineering,2,3,1,2
+CIVIL,iot,0,1,1,2
+CIVIL,material testing,1,2,1,2
+CIVIL,probability,0,1,1,2
+CSE,electrical engineering,0,2,2,2
+CSE,electronics,0,2,2,2
+CSE,material science,0,2,2,2
+CSE,cad,0,1,1,2
+CSE,capstone project,0,1,1,2
+CSE,compiler design,1,2,1,2
+CSE,cyber security,3,4,1,2
+CSE,deep learning,1,2,1,2
+CSE,devops,1,2,1,2
+CSE,electronic circuits,0,1,1,2
+CSE,environmental engineering,0,1,1,2
+CSE,java,1,2,1,2
+CSE,machine learning,1,2,1,2
+CSE,mobile app development,0,1,1,2
+CSE,nlp,1,2,1,2
+CSE,workshop practice,0,1,1,2
+DS,electrical engineering,0,2,2,2
+DS,electronics,0,2,2,2
+DS,generative ai,0,2,2,2
+DS,machine learning,2,4,2,2
+DS,material science,0,2,2,2
+DS,artificial intelligence,1,2,1,2
+DS,cad,0,1,1,2
+DS,data mining,2,3,1,2
+DS,electronic circuits,0,1,1,2
+DS,environmental engineering,0,1,1,2
+DS,programming languages,0,1,1,2
+DS,workshop practice,0,1,1,2
+ECE,integrated circuits,1,3,2,2
+ECE,material science,0,2,2,2
+ECE,vlsi,1,3,2,2
+ECE,cad,0,1,1,2
+ECE,circuit analysis,1,2,1,2
+ECE,digital signal processing,1,2,1,2
+ECE,electrical engineering,1,2,1,2
+ECE,electronics,1,2,1,2
+ECE,embedded systems,2,3,1,2
+ECE,environmental engineering,0,1,1,2
+ECE,microcontrollers,1,2,1,2
+ECE,microwave engineering,1,2,1,2
+ECE,programming languages,0,1,1,2
+ECE,robotics,0,1,1,2
+ECE,scripting,0,1,1,2
+ECE,workshop practice,0,1,1,2
+EEE,material science,0,2,2,2
+EEE,analog electronics,1,2,1,2
+EEE,business analytics,1,2,1,2
+EEE,circuit analysis,2,3,1,2
+EEE,environmental engineering,0,1,1,2
+EEE,microcontrollers,1,2,1,2
+EEE,sensors,0,1,1,2
+EEE,workshop practice,0,1,1,2
+IT,java,2,5,3,2
+IT,electronics,0,2,2,2
+IT,material science,0,2,2,2
+IT,deep learning,1,2,1,2
+IT,electrical engineering,0,1,1,2
+IT,environmental engineering,0,1,1,2
+IT,machine learning,2,3,1,2
+IT,mobile app development,1,2,1,2
+IT,workshop practice,0,1,1,2
+MECH,thermal engineering,1,4,3,2
+MECH,material science,2,4,2,2
+MECH,data analytics,0,1,1,2
+MECH,electronics,1,2,1,2
+MECH,environmental engineering,0,1,1,2
+MECH,fluid mechanics,1,2,1,2
+MECH,instrumentation,1,2,1,2
+MECH,kinematics,1,2,1,2
+MECH,metrology,1,2,1,2
+MECH,probability,0,1,1,2
+MECH,simulation,0,1,1,2

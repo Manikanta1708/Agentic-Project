@@ -1,0 +1,57 @@
+Branch : CIVIL
+
+Curriculum Skills
+========================================
+
+- air pollution
+- building materials
+- business analytics
+- c programming
+- cad
+- capstone project
+- civil engineering
+- civil engineering software
+- concrete technology
+- construction management
+- data structures
+- earthquake engineering
+- electrical engineering
+- electronics
+- engineering geology
+- engineering mechanics
+- environmental engineering
+- environmental impact assessment
+- fluid mechanics
+- foundation engineering
+- geomatics
+- geotechnical engineering
+- green buildings
+- ground improvement
+- groundwater hydrology
+- hydraulic machinery
+- hydraulic structures
+- hydraulics
+- industry project
+- manufacturing
+- material testing
+- pavement design
+- pavement engineering
+- prestressed concrete
+- project management
+- python
+- quantity surveying
+- reinforced concrete
+- research
+- retaining structures
+- slope stability
+- smart cities
+- soil mechanics
+- solid waste management
+- steel structures
+- strength of materials
+- structural analysis
+- surveying
+- transport infrastructure
+- transportation engineering
+- water resources
+- workshop practice

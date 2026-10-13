@@ -1,0 +1,78 @@
+Branch : AIML
+
+Curriculum Skills
+========================================
+
+- ad hoc networks
+- algorithms
+- artificial intelligence
+- augmented reality
+- automata
+- business economics
+- c programming
+- capstone project
+- chatbots
+- cloud computing
+- cognitive computing
+- compiler design
+- computer graphics
+- computer networks
+- computer organization
+- computer vision
+- conversational ai
+- cyber security
+- data analytics
+- data mining
+- data science
+- data structures
+- data warehousing
+- database management
+- deep learning
+- devops
+- discrete mathematics
+- django
+- evolutionary computing
+- expert systems
+- federated machine learning
+- financial analysis
+- flutter
+- game theory
+- graph theory
+- image processing
+- information retrieval
+- internship
+- iot
+- java
+- knowledge representation
+- lisp
+- machine learning
+- mathematics
+- mobile app development
+- mobile computing
+- nature inspired computing
+- nlp
+- nodejs
+- operating systems
+- pattern recognition
+- prolog
+- pyswip
+- python
+- quantum computing
+- randomized algorithms
+- react
+- reasoning
+- research
+- robotics
+- rpa
+- scripting
+- semantic web
+- sensor networks
+- social network analysis
+- software engineering
+- software testing
+- speech processing
+- sql
+- statistics
+- video processing
+- virtual reality
+- web development

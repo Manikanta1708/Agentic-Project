@@ -1,0 +1,558 @@
+branch,year_semester,course_code,course_title,skill,match_score
+AIML,I YEAR I SEMESTER,MA101BS,Matrices and Calculus,mathematics,0.514
+AIML,I YEAR I SEMESTER,PH102BS,Advanced Engineering Physics,electronics,0.588
+AIML,I YEAR I SEMESTER,CS103ES,Programming for Problem Solving,c programming,1.0
+AIML,I YEAR I SEMESTER,EE104ES,Basic Electrical Engineering,electrical engineering,0.583
+AIML,I YEAR I SEMESTER,ME105ES,Engineering Drawing and Computer Aided Drafting,cad,0.439
+AIML,I YEAR I SEMESTER,PH106BS,Advanced Engineering Physics Lab,electronics,0.643
+AIML,I YEAR I SEMESTER,CS107ES,Programming for Problem Solving Lab,programming languages,1.0
+AIML,I YEAR I SEMESTER,EE108ES,Basic Electrical Engineering Lab,electrical engineering,0.643
+AIML,I YEAR I SEMESTER,CS109ES,IT Workshop,,0.5
+AIML,I YEAR II SEMESTER,MA201BS,Ordinary Differential Equations and Vector Calculus,mathematics,0.427
+AIML,I YEAR II SEMESTER,CH202BS,Engineering Chemistry,material science,0.537
+AIML,I YEAR II SEMESTER,CS203ES,Data Structures,data structures,1.0
+AIML,I YEAR II SEMESTER,EC204ES,Electronic Devices and Circuits,electronic circuits,1.0
+AIML,I YEAR II SEMESTER,EN205HS,English for Skill Enhancement,,0.386
+AIML,I YEAR II SEMESTER,CH206BS,Engineering Chemistry Lab,material science,0.612
+AIML,I YEAR II SEMESTER,CS207ES,Data Structures Lab,data structures,1.0
+AIML,I YEAR II SEMESTER,EN208HS,English Language and Communication Skills Lab,,0.447
+AIML,I YEAR II SEMESTER,ME209ES,Engineering Workshop,workshop practice,0.55
+AIML,I YEAR II SEMESTER,CS210ES,Python Programming Lab,python,1.0
+AIML,II YEAR I SEMESTER,MA401BS,Mathematical and Statistical Foundations,statistics,1.0
+AIML,II YEAR I SEMESTER,CS302PC,Computer Organization and Architecture,computer organization,1.0
+AIML,II YEAR I SEMESTER,CS303PC,Object Oriented Programming through java,java,1.0
+AIML,II YEAR I SEMESTER,CS304PC,Software Engineering,software engineering,1.0
+AIML,II YEAR I SEMESTER,CS305PC,Database Management System,database management,0.981
+AIML,II YEAR I SEMESTER,MA306PC,Computational Mathematics Lab,mathematics,0.6
+AIML,II YEAR I SEMESTER,CS307PC,Object Oriented Programming through Java Lab,java,0.952
+AIML,II YEAR I SEMESTER,CS308PC,Software Engineering Lab,software engineering,1.0
+AIML,II YEAR I SEMESTER,CS309PC,Database Management Systems Lab,sql,1.0
+AIML,II YEAR I SEMESTER,CS310SD,Node JS/React JS/Django,node.js,1.0
+AIML,II YEAR II SEMESTER,CS401PC,Discrete Mathematics,discrete mathematics,1.0
+AIML,II YEAR II SEMESTER,CS402PC,Operating Systems,operating systems,1.0
+AIML,II YEAR II SEMESTER,CS403PC,Algorithms Design and Analysis,algorithms,1.0
+AIML,II YEAR II SEMESTER,CS404PC,Computer Networks,computer networks,1.0
+AIML,II YEAR II SEMESTER,CS405PC,Machine Learning,machine learning,1.0
+AIML,II YEAR II SEMESTER,MS406HS,Innovation and Entrepreneurship,,0.5
+AIML,II YEAR II SEMESTER,CS407PC,Operating Systems Lab,operating systems,1.0
+AIML,II YEAR II SEMESTER,CS408PC,Computer Networks lab,computer networks,1.0
+AIML,II YEAR II SEMESTER,CS409PC,Machine Learning Lab,machine learning,1.0
+AIML,II YEAR II SEMESTER,CS410SD,Data Visualization- R Programming/ Power BI,data visualization,1.0
+AIML,II YEAR II SEMESTER,VA400HS,Indian Knowledge System,,0.5
+AIML,III YEAR I SEMESTER,AI501PC,Artificial Intelligence,artificial intelligence,0.742
+AIML,III YEAR I SEMESTER,AI502PC,Automata theory and Compiler Design,compiler design,1.0
+AIML,III YEAR I SEMESTER,AI503PC,Data Analytics and Visualization,data analytics,1.0
+AIML,III YEAR I SEMESTER,Professional,Elective-I,,0.483
+AIML,III YEAR I SEMESTER,Open,Elective-I,,0.483
+AIML,III YEAR I SEMESTER,AI504PC,Artificial Intelligence Lab,artificial intelligence,0.697
+AIML,III YEAR I SEMESTER,AI505PC,Compiler Design Lab,computer networks,0.65
+AIML,III YEAR I SEMESTER,AI506PC,Data Analytics and Visualization Lab,data analytics,0.667
+AIML,III YEAR I SEMESTER,AI507PC,Field Based Research Project,research,0.675
+AIML,III YEAR I SEMESTER,AI508SD,UI Design –Flutter/ Android Studio,mobile app development,1.0
+AIML,III YEAR II SEMESTER,AI601PC,Natural Language Processing,natural language processing,1.0
+AIML,III YEAR II SEMESTER,AI602PC,Deep Learning,deep learning,1.0
+AIML,III YEAR II SEMESTER,MS603HS,Business Economics and Financial Analysis,business economics,1.0
+AIML,III YEAR II SEMESTER,Professional,Elective-II,,0.467
+AIML,III YEAR II SEMESTER,Open,Elective – II,,0.467
+AIML,III YEAR II SEMESTER,AI604PC,Natural Language Processing Lab,natural language processing,1.0
+AIML,III YEAR II SEMESTER,AI605PC,Deep Learning Lab,deep learning,0.867
+AIML,III YEAR II SEMESTER,AI606PC,Chatbots Lab,chatbots,0.8
+AIML,III YEAR II SEMESTER,EN607HS,English for Employability Skills Lab,,0.451
+AIML,III YEAR II SEMESTER,AI608SD,Prompt Engineering,software engineering,0.684
+AIML,III YEAR II SEMESTER,VA600ES,Environmental Science,environmental engineering,0.571
+AIML,IV YEAR I SEMESTER,AI701PC,Reinforcement Learning,reinforcement learning,1.0
+AIML,IV YEAR I SEMESTER,AI702PC,Generative AI,generative ai,1.0
+AIML,IV YEAR I SEMESTER,MS703HS,Fundamentals of Management for Engineers,,0.621
+AIML,IV YEAR I SEMESTER,Professional,Elective-III,,0.452
+AIML,IV YEAR I SEMESTER,Professional,Elective – IV,,0.467
+AIML,IV YEAR I SEMESTER,Open,Elective – III,,0.452
+AIML,IV YEAR I SEMESTER,AI704PC,Reinforcement Learning Lab,machine learning,0.696
+AIML,IV YEAR I SEMESTER,AI705PC,Generative AI Lab,generative ai,1.0
+AIML,IV YEAR I SEMESTER,AI706PC,Industry Oriented Mini Project/ Internship,internship,0.734
+AIML,IV YEAR II SEMESTER,Professional,Elective – V,,0.414
+AIML,IV YEAR II SEMESTER,Professional,Elective – VI,,0.467
+AIML,IV YEAR II SEMESTER,AI801PC,Project Work,capstone project,0.593
+CIVIL,I YEAR I SEMESTER,MA101BS,Matrices and Calculus,mathematics,0.48
+CIVIL,I YEAR I SEMESTER,PH102BS,Advanced Engineering Physics,electronics,0.698
+CIVIL,I YEAR I SEMESTER,ME103ES,C Programming and Data Structures,c programming,1.0
+CIVIL,I YEAR I SEMESTER,EN104HS,English for Skill Enhancement,,0.444
+CIVIL,I YEAR I SEMESTER,ME105ES,Engineering Drawing and Computer Aided Drafting,cad,0.622
+CIVIL,I YEAR I SEMESTER,PH106BS,Advanced Engineering Physics Lab,electronics,0.657
+CIVIL,I YEAR I SEMESTER,CS107ES,C Programming and Data Structures Lab,c programming,0.943
+CIVIL,I YEAR I SEMESTER,ME108ES,Engineering Workshop,workshop practice,1.0
+CIVIL,I YEAR I SEMESTER,EN109HS,English Language and Communication Skills Lab,,0.457
+CIVIL,I YEAR II SEMESTER,MA201BS,Ordinary Differential Equations and Vector Calculus,mathematics,0.442
+CIVIL,I YEAR II SEMESTER,CH202BS,Applied Chemistry,material science,0.706
+CIVIL,I YEAR II SEMESTER,CS203ES,Python Programming,python,0.9
+CIVIL,I YEAR II SEMESTER,EE204ES,Elements of Electrical and Electronics Engineering,electrical engineering,0.851
+CIVIL,I YEAR II SEMESTER,CE205PC,Building Planning and Construction,,0.59
+CIVIL,I YEAR II SEMESTER,CE206PC,Engineering Mechanics for Civil Engineers,engineering mechanics,0.571
+CIVIL,I YEAR II SEMESTER,CH207BS,Chemistry Lab for Engineers,material science,0.528
+CIVIL,I YEAR II SEMESTER,CS208ES,Python Programming Lab,python,1.0
+CIVIL,II YEAR I SEMESTER,MA301BS,Probability and Statistics,probability,0.491
+CIVIL,II YEAR I SEMESTER,CE302PC,Building Materials and Concrete Technology,,0.623
+CIVIL,II YEAR I SEMESTER,CE303PC,Strength of Materials,strength of materials,0.955
+CIVIL,II YEAR I SEMESTER,CE304PC,Surveying and Geomatics,surveying,0.684
+CIVIL,II YEAR I SEMESTER,CE305PC,Fluid Mechanics,fluid mechanics,1.0
+CIVIL,II YEAR I SEMESTER,MA306PC,Computational Mathematics Lab,mathematics,0.5
+CIVIL,II YEAR I SEMESTER,CE307PC,Material Testing Lab,,0.622
+CIVIL,II YEAR I SEMESTER,CE308PC,Strength of Materials Lab,material testing,1.0
+CIVIL,II YEAR I SEMESTER,CE309PC,Surveying & Geomatics Lab,,0.619
+CIVIL,II YEAR I SEMESTER,CE310SD,Design Thinking and Tinkering Lab,,0.543
+CIVIL,II YEAR II SEMESTER,CE401PC,Structural Mechanics,structural analysis,0.732
+CIVIL,II YEAR II SEMESTER,CE402PC,Water Resources and Irrigation Engineering,water resources,0.692
+CIVIL,II YEAR II SEMESTER,CE403PC,Hydraulics & Hydraulic Machinery,hydraulics,0.986
+CIVIL,II YEAR II SEMESTER,CE404PC,Theory of Structures,,0.609
+CIVIL,II YEAR II SEMESTER,CE405PC,Engineering Geology,engineering geology,1.0
+CIVIL,II YEAR II SEMESTER,MS406HS,Innovation and Entrepreneurship,,0.5
+CIVIL,II YEAR II SEMESTER,CE407PC,Engineering Geology Lab,engineering geology,0.905
+CIVIL,II YEAR II SEMESTER,CE408PC,Hydraulics & Hydraulic Machinery Lab,hydraulics,0.932
+CIVIL,II YEAR II SEMESTER,CE409PC,Computer Aided Building Drafting Lab,cad,0.857
+CIVIL,II YEAR II SEMESTER,CE410SD,Digital Surveying Lab,surveying,0.722
+CIVIL,II YEAR II SEMESTER,VA400HS,Indian Knowledge System,,0.381
+CIVIL,III YEAR I SEMESTER,CE501PC,Environmental Engineering,environmental engineering,1.0
+CIVIL,III YEAR I SEMESTER,CE502PC,Design of Reinforced Concrete Members,,0.526
+CIVIL,III YEAR I SEMESTER,CE503PC,Transportation Engineering,transportation engineering,1.0
+CIVIL,III YEAR I SEMESTER,Professional,Elective-I,,0.48
+CIVIL,III YEAR I SEMESTER,Open,Elective-I,,0.48
+CIVIL,III YEAR I SEMESTER,CE504PC,Environmental Engineering Lab,environmental engineering,1.0
+CIVIL,III YEAR I SEMESTER,CE505PC,Computer Aided Design Lab,cad,1.0
+CIVIL,III YEAR I SEMESTER,CE506PC,Highway Materials Lab,material testing,0.652
+CIVIL,III YEAR I SEMESTER,CE507PC,Field Based Project/ Internship,,0.648
+CIVIL,III YEAR I SEMESTER,CE508SD,Building Information Modelling Lab,civil engineering software,1.0
+CIVIL,III YEAR II SEMESTER,CE601PC,Geotechnical Engineering,geotechnical engineering,1.0
+CIVIL,III YEAR II SEMESTER,CE602PC,Design of Steel Structures,hydraulic structures,0.786
+CIVIL,III YEAR II SEMESTER,CE603PC,Business Economics and Financial Analysis,business analytics,1.0
+CIVIL,III YEAR II SEMESTER,Professional,Elective-II,,0.462
+CIVIL,III YEAR II SEMESTER,Open,Elective – II,,0.462
+CIVIL,III YEAR II SEMESTER,CE604PC,Geotechnical Engineering Lab,soil mechanics,1.0
+CIVIL,III YEAR II SEMESTER,CE605PC,GIS Lab,geomatics,1.0
+CIVIL,III YEAR II SEMESTER,CE606PC,Civil Engineering Software Lab,civil engineering software,1.0
+CIVIL,III YEAR II SEMESTER,EN607HS,English for Employability Skills Lab,,0.459
+CIVIL,III YEAR II SEMESTER,CE608SD,Project Management Software Lab,project management,0.735
+CIVIL,III YEAR II SEMESTER,VS600ES,Environmental Science,environmental engineering,0.739
+CIVIL,IV YEAR I SEMESTER,CE701PC,Estimation Quantity Surveying & Valuation,quantity surveying,0.806
+CIVIL,IV YEAR I SEMESTER,CE702PC,Foundation Engineering,foundation engineering,1.0
+CIVIL,IV YEAR I SEMESTER,MS703HS,Fundamentals of Management,pavement engineering,0.706
+CIVIL,IV YEAR I SEMESTER,Professional,Elective-III,,0.444
+CIVIL,IV YEAR I SEMESTER,Professional,Elective – IV,,0.462
+CIVIL,IV YEAR I SEMESTER,Open,Elective – III,,0.444
+CIVIL,IV YEAR I SEMESTER,CE704PC,Quantity Surveying Laboratory,surveying,0.703
+CIVIL,IV YEAR I SEMESTER,CE705PC,Computational Lab / IOT Lab,internet of things,1.0
+CIVIL,IV YEAR I SEMESTER,CE706PC,Industry Oriented Mini Project/ Summer Internship,industry project,0.921
+CIVIL,IV YEAR II SEMESTER,Professional,Elective – V,,0.4
+CIVIL,IV YEAR II SEMESTER,Professional,Elective – VI,,0.462
+CIVIL,IV YEAR II SEMESTER,CE801PC,Project Work,capstone project,0.593
+CSE,I YEAR I SEMESTER,MA101BS,Matrices and Calculus,mathematics,0.514
+CSE,I YEAR I SEMESTER,CH102BS,Engineering Chemistry,material science,0.537
+CSE,I YEAR I SEMESTER,EN103HS,English for Skill Enhancement,,0.392
+CSE,I YEAR I SEMESTER,EC104ES,Electronic Devices and Circuits,electronic circuits,1.0
+CSE,I YEAR I SEMESTER,CS105ES,Programming for Problem Solving,c programming,1.0
+CSE,I YEAR I SEMESTER,CH106BS,Engineering Chemistry Lab,material science,0.489
+CSE,I YEAR I SEMESTER,CS107ES,Programming for Problem Solving Lab,programming languages,1.0
+CSE,I YEAR I SEMESTER,EN108HS,English Language and Communication Skills Lab,,0.494
+CSE,I YEAR I SEMESTER,ME109ES,Engineering Workshop,workshop practice,0.645
+CSE,I YEAR II SEMESTER,MA201BS,Ordinary Differential Equations and Vector Calculus,mathematics,0.4
+CSE,I YEAR II SEMESTER,PH202BS,Advanced Engineering Physics,electronics,0.596
+CSE,I YEAR II SEMESTER,ME203ES,Engineering Drawing and Computer Aided Drafting,cad,0.521
+CSE,I YEAR II SEMESTER,EE204ES,Basic Electrical Engineering,electrical engineering,0.583
+CSE,I YEAR II SEMESTER,CS205ES,Data Structures,data structures,1.0
+CSE,I YEAR II SEMESTER,PH206BS,Advanced Engineering Physics Lab,electronics,0.549
+CSE,I YEAR II SEMESTER,CS207ES,Data Structures Lab,data structures,1.0
+CSE,I YEAR II SEMESTER,CS208ES,Python Programming Lab,python,1.0
+CSE,I YEAR II SEMESTER,EE209ES,Basic Electrical Engineering Lab,electrical engineering,0.553
+CSE,I YEAR II SEMESTER,CS210ES,IT Workshop,computer hardware,1.0
+CSE,II YEAR I SEMESTER,CS301PC,Discrete Mathematics,discrete mathematics,1.0
+CSE,II YEAR I SEMESTER,CS302PC,Computer Organization and Architecture,computer architecture,1.0
+CSE,II YEAR I SEMESTER,CS303PC,Object Oriented Programming through java,java,1.0
+CSE,II YEAR I SEMESTER,CS304PC,Software Engineering,software engineering,1.0
+CSE,II YEAR I SEMESTER,CS305PC,Database Management Systems,sql,1.0
+CSE,II YEAR I SEMESTER,MS306HS,Innovation and Entrepreneurship,,0.5
+CSE,II YEAR I SEMESTER,CS307PC,Object Oriented Programming through java Lab,java,0.952
+CSE,II YEAR I SEMESTER,CS308PC,Software Engineering Lab,software engineering,0.909
+CSE,II YEAR I SEMESTER,CS309PC,Database Management Systems Lab,sql,0.931
+CSE,II YEAR I SEMESTER,CS310SD,Node Js/React JS/ Django,node.js,1.0
+CSE,II YEAR I SEMESTER,VA300ES,Environmental Science,environmental engineering,0.44
+CSE,II YEAR II SEMESTER,MA401PC,Computer oriented Statistical Methods,statistics,1.0
+CSE,II YEAR II SEMESTER,CS402PC,Operating Systems,operating systems,1.0
+CSE,II YEAR II SEMESTER,CS403PC,Algorithm design and Analysis,algorithms,1.0
+CSE,II YEAR II SEMESTER,CS404PC,Computer Networks,computer networks,1.0
+CSE,II YEAR II SEMESTER,CS405PC,Machine Learning,machine learning,1.0
+CSE,II YEAR II SEMESTER,MA406PC,Computational Mathematics Lab,mathematics,0.604
+CSE,II YEAR II SEMESTER,CS407PC,Operating Systems Lab,operating systems,0.895
+CSE,II YEAR II SEMESTER,CS408PC,Computer Networks Lab,computer networks,0.895
+CSE,II YEAR II SEMESTER,CS409PC,Machine Learning Lab,machine learning,0.889
+CSE,II YEAR II SEMESTER,CS410SD,Data Visualization- R/ Python/ Power BI,data visualization,0.857
+CSE,III YEAR I SEMESTER,CS501PC,Automata Theory and Compiler Design,compiler design,1.0
+CSE,III YEAR I SEMESTER,CS502PC,Artificial Intelligence,artificial intelligence,1.0
+CSE,III YEAR I SEMESTER,CS503PC,DevOps,devops,1.0
+CSE,III YEAR I SEMESTER,Professional,Elective-I,,0.48
+CSE,III YEAR I SEMESTER,Open,Elective-I,,0.48
+CSE,III YEAR I SEMESTER,CS504PC,Compiler Design Lab,compiler design,0.882
+CSE,III YEAR I SEMESTER,CS505PC,Artificial Intelligence with Python Lab,artificial intelligence,0.742
+CSE,III YEAR I SEMESTER,CS506PC,DevOps Lab,devops,0.75
+CSE,III YEAR I SEMESTER,CS507PC,Field-Based Research Project,,0.448
+CSE,III YEAR I SEMESTER,CS508SD,UI Design – Flutter/ Android Studio,mobile app development,1.0
+CSE,III YEAR I SEMESTER,VA500HS,Indian Knowledge System,,0.524
+CSE,III YEAR II SEMESTER,CS601PC,Cryptography and Networks Security,cyber security,0.985
+CSE,III YEAR II SEMESTER,CS602PC,Deep Learning,deep learning,1.0
+CSE,III YEAR II SEMESTER,MS603HS,Business Economics and Financial Analysis,,0.432
+CSE,III YEAR II SEMESTER,Professional,Elective-II,,0.462
+CSE,III YEAR II SEMESTER,Open,Elective – II,,0.462
+CSE,III YEAR II SEMESTER,CS604PC,Cryptography and Networks Security Lab,cyber security,0.93
+CSE,III YEAR II SEMESTER,CS605PC,Deep Learning Lab,deep learning,0.867
+CSE,III YEAR II SEMESTER,CS606PC,Advanced Data Structures using Python Lab,data structures,1.0
+CSE,III YEAR II SEMESTER,EN607HS,Advanced English Communication Skills Laboratory,,0.451
+CSE,III YEAR II SEMESTER,CS608SD,Prompt Engineering,software engineering,0.684
+CSE,IV YEAR I SEMESTER,CS701PC,Natural Language Processing,natural language processing,1.0
+CSE,IV YEAR I SEMESTER,CS702PC,Cyber Security,cyber security,1.0
+CSE,IV YEAR I SEMESTER,MS703HS,Fundamentals of Management,,0.604
+CSE,IV YEAR I SEMESTER,Professional,Elective-III,,0.444
+CSE,IV YEAR I SEMESTER,Professional,Elective – IV,,0.462
+CSE,IV YEAR I SEMESTER,Open,Elective – III,,0.444
+CSE,IV YEAR I SEMESTER,CS704PC,Natural Language Processing Lab,natural language processing,0.931
+CSE,IV YEAR I SEMESTER,CS705PC,Cyber Security Lab,cyber security,0.875
+CSE,IV YEAR I SEMESTER,CS706PC,Industry Oriented Mini Project/ Internship,big data,0.795
+CSE,IV YEAR II SEMESTER,Professional,Elective – V,,0.414
+CSE,IV YEAR II SEMESTER,Professional,Elective – VI,,0.462
+CSE,IV YEAR II SEMESTER,CS801PC,Project Work,capstone project,0.593
+DS,I YEAR I SEMESTER,MA101BS,Matrices and Calculus,mathematics,0.537
+DS,I YEAR I SEMESTER,PH102BS,Advanced Engineering Physics,electronics,0.583
+DS,I YEAR I SEMESTER,CS103ES,Programming for Problem Solving,c programming,1.0
+DS,I YEAR I SEMESTER,EE104ES,Basic Electrical Engineering,electrical engineering,0.583
+DS,I YEAR I SEMESTER,ME105ES,Engineering Drawing and Computer Aided Drafting,cad,0.439
+DS,I YEAR I SEMESTER,PH106BS,Advanced Engineering Physics Lab,electronics,0.538
+DS,I YEAR I SEMESTER,CS107ES,Programming for Problem Solving Lab,programming languages,1.0
+DS,I YEAR I SEMESTER,EE108ES,Basic Electrical Engineering Lab,electrical engineering,0.538
+DS,I YEAR I SEMESTER,CS109ES,IT Workshop,,0.5
+DS,I YEAR II SEMESTER,MA201BS,Ordinary Differential Equations and Vector Calculus,mathematics,0.4
+DS,I YEAR II SEMESTER,CH202BS,Engineering Chemistry,material science,0.537
+DS,I YEAR II SEMESTER,CS203ES,Data Structures,data structures,1.0
+DS,I YEAR II SEMESTER,EC204ES,Electronic Devices and Circuits,electronic circuits,1.0
+DS,I YEAR II SEMESTER,EN205HS,English for Skill Enhancement,,0.475
+DS,I YEAR II SEMESTER,CH206BS,Engineering Chemistry Lab,material science,0.565
+DS,I YEAR II SEMESTER,CS207ES,Data Structures Lab,data structures,1.0
+DS,I YEAR II SEMESTER,EN208HS,English Language and Communication Skills Lab,,0.421
+DS,I YEAR II SEMESTER,ME209ES,Engineering Workshop,workshop practice,0.55
+DS,I YEAR II SEMESTER,CS210ES,Python Programming Lab,python,1.0
+DS,II YEAR I SEMESTER,MA401BS,Mathematical and Statistical Foundations,statistics,1.0
+DS,II YEAR I SEMESTER,CS302PC,Computer Organization and Architecture,computer organization,1.0
+DS,II YEAR I SEMESTER,CS303PC,Object Oriented Programming through java,java,1.0
+DS,II YEAR I SEMESTER,CS304PC,Software Engineering,software engineering,1.0
+DS,II YEAR I SEMESTER,CS305PC,Database Management System,sql,0.981
+DS,II YEAR I SEMESTER,MA306PC,Computational Mathematics Lab,mathematics,0.6
+DS,II YEAR I SEMESTER,CS307PC,Object Oriented Programming through Java Lab,java,1.0
+DS,II YEAR I SEMESTER,CS308PC,Software Engineering Lab,software engineering,0.909
+DS,II YEAR I SEMESTER,CS309PC,Database Management Systems Lab,sql,1.0
+DS,II YEAR I SEMESTER,CS310SD,Node JS/React JS/Django,node.js,1.0
+DS,II YEAR II SEMESTER,CS401PC,Discrete Mathematics,discrete mathematics,1.0
+DS,II YEAR II SEMESTER,CS402PC,Operating Systems,operating systems,1.0
+DS,II YEAR II SEMESTER,CS403PC,Algorithms Design and Analysis,algorithms,1.0
+DS,II YEAR II SEMESTER,CS404PC,Computer Networks,computer networks,1.0
+DS,II YEAR II SEMESTER,CS405PC,Machine Learning,machine learning,1.0
+DS,II YEAR II SEMESTER,MS406HS,Innovation and Entrepreneurship,,0.5
+DS,II YEAR II SEMESTER,CS407PC,Operating Systems Lab,operating systems,1.0
+DS,II YEAR II SEMESTER,CS408PC,Computer Networks lab,computer networks,1.0
+DS,II YEAR II SEMESTER,CS409PC,Machine Learning Lab,machine learning,1.0
+DS,II YEAR II SEMESTER,CS410SD,Data Visualization- R Programming/ Power BI,data visualization,1.0
+DS,II YEAR II SEMESTER,VA400HS,Indian Knowledge System,,0.5
+DS,III YEAR I SEMESTER,AD501PC,Introduction to Data Science,data science,1.0
+DS,III YEAR I SEMESTER,AD502PC,Big Data Technologies,big data,1.0
+DS,III YEAR I SEMESTER,AD503PC,Artificial Intelligence,artificial intelligence,1.0
+DS,III YEAR I SEMESTER,Professional,Elective-I,,0.533
+DS,III YEAR I SEMESTER,Open,Elective-I,,0.533
+DS,III YEAR I SEMESTER,AD504PC,Data Science Lab,data science,0.732
+DS,III YEAR I SEMESTER,AD505PC,Big Data Technologies Lab,big data,0.681
+DS,III YEAR I SEMESTER,AD506PC,Artificial Intelligence with Python Lab,artificial intelligence,0.742
+DS,III YEAR I SEMESTER,AD508SD,UI Design –Flutter/ Android Studio,mobile app development,1.0
+DS,III YEAR II SEMESTER,AD601PC,Data Mining,data mining,1.0
+DS,III YEAR II SEMESTER,AD602PC,Deep Learning,machine learning,0.69
+DS,III YEAR II SEMESTER,AD603PC,Business Economics and Financial Analysis,,0.479
+DS,III YEAR II SEMESTER,Professional,Elective-II,,0.516
+DS,III YEAR II SEMESTER,Open,Elective – II,,0.516
+DS,III YEAR II SEMESTER,AD604PC,Data mining Lab,data mining,0.846
+DS,III YEAR II SEMESTER,AD605PC,Deep Learning Lab,machine learning,0.757
+DS,III YEAR II SEMESTER,AD606PC,Web Programming Lab,r programming,0.889
+DS,III YEAR II SEMESTER,AD608SD,Prompt Engineering,software engineering,0.684
+DS,III YEAR II SEMESTER,VA600ES,Environmental Science,environmental engineering,0.612
+DS,IV YEAR I SEMESTER,AD701PC,Generative AI,generative ai,1.0
+DS,IV YEAR I SEMESTER,AD702PC,Data Engineering,data mining,0.741
+DS,IV YEAR I SEMESTER,MS703HS,Fundamentals of Management for Engineers,,0.618
+DS,IV YEAR I SEMESTER,Professional,Elective-III,,0.5
+DS,IV YEAR I SEMESTER,Professional,Elective – IV,,0.516
+DS,IV YEAR I SEMESTER,Open,Elective – III,,0.5
+DS,IV YEAR I SEMESTER,AD704PC,Generative AI Lab,generative ai,1.0
+DS,IV YEAR I SEMESTER,AD705PC,Data Engineering Lab,software engineering,0.65
+DS,IV YEAR I SEMESTER,AD706PC,Industry Oriented Mini Project/ Internship,internship,0.879
+DS,IV YEAR II SEMESTER,Professional,Elective – V,,0.467
+DS,IV YEAR II SEMESTER,Professional,Elective – VI,,0.516
+DS,IV YEAR II SEMESTER,AD801PC,Project Work,capstone project,0.593
+ECE,I YEAR I SEMESTER,MA101BS,Matrices and Calculus,mathematics,0.577
+ECE,I YEAR I SEMESTER,PH102BS,Advanced Engineering Physics,electronics,0.5
+ECE,I YEAR I SEMESTER,CS103ES,Programming for Problem Solving,c programming,0.655
+ECE,I YEAR I SEMESTER,EC104ES,Introduction to Electrical Engineering,electrical engineering,0.758
+ECE,I YEAR I SEMESTER,ME105ES,Engineering Drawing and Computer Aided Drafting,cad,0.432
+ECE,I YEAR I SEMESTER,EN106HS,English for Skill Enhancement,,0.469
+ECE,I YEAR I SEMESTER,PH107BS,Advanced Engineering Physics Lab,electronics,0.467
+ECE,I YEAR I SEMESTER,CS108ES,Programming for Problem Solving Lab,programming languages,1.0
+ECE,I YEAR I SEMESTER,EN109HS,English Language and Communication Skills Lab,,0.603
+ECE,I YEAR II SEMESTER,MA201BS,Ordinary Differential Equations and Vector Calculus,mathematics,0.471
+ECE,I YEAR II SEMESTER,CH202BS,Engineering Chemistry,material science,0.476
+ECE,I YEAR II SEMESTER,CS203ES,Python Programming,python,0.75
+ECE,I YEAR II SEMESTER,CS204ES,Data Structures,data structures,1.0
+ECE,I YEAR II SEMESTER,EE205ES,Network Analysis and Synthesis,network analysis,1.0
+ECE,I YEAR II SEMESTER,CH206BS,Engineering Chemistry Lab,material science,0.435
+ECE,I YEAR II SEMESTER,EC207ES,Applied Python Programming Lab,python,1.0
+ECE,I YEAR II SEMESTER,CS208ES,Data Structures Lab,data structures,1.0
+ECE,I YEAR II SEMESTER,EC209ES,Basic Electrical Engineering Lab,electrical engineering,0.933
+ECE,I YEAR II SEMESTER,ME210ES,Engineering Workshop,workshop practice,0.458
+ECE,II YEAR I SEMESTER,EC301PC,Probability Theory and Stochastic Processes,probability,1.0
+ECE,II YEAR I SEMESTER,EC302PC,Signals and Systems,signal processing,1.0
+ECE,II YEAR I SEMESTER,EC303PC,Electronic Devices and Circuits,electronic circuits,1.0
+ECE,II YEAR I SEMESTER,EC304PC,Digital Logic Design,digital electronics,1.0
+ECE,II YEAR I SEMESTER,EC305PC,Control Systems,control systems,1.0
+ECE,II YEAR I SEMESTER,MS306HS,Innovation and Entrepreneurship,,0.5
+ECE,II YEAR I SEMESTER,EC307PC,Modelling and Simulation Lab,,0.5
+ECE,II YEAR I SEMESTER,EC308PC,Electronic Devices and Circuits Lab,electronic devices,0.939
+ECE,II YEAR I SEMESTER,EC309PC,Digital Logic Design Lab,digital electronics,0.909
+ECE,II YEAR I SEMESTER,EC310SD,Linux and Shell Scripting,scripting,1.0
+ECE,II YEAR I SEMESTER,VA300ES,Environmental Science,environmental engineering,0.462
+ECE,II YEAR II SEMESTER,MA401BS,Numerical Methods and Complex Variables,mathematics,1.0
+ECE,II YEAR II SEMESTER,EC402PC,Electromagnetic Fields and Transmission Lines,electromagnetics,1.0
+ECE,II YEAR II SEMESTER,EC403PC,Analog and Digital Communications,communication systems,1.0
+ECE,II YEAR II SEMESTER,EC404PC,Electronic Circuit Analysis,circuit analysis,1.0
+ECE,II YEAR II SEMESTER,EC405PC,Linear and Digital IC Applications,integrated circuits,1.0
+ECE,II YEAR II SEMESTER,MA406PC,Computational Mathematics Lab,mathematics,0.5
+ECE,II YEAR II SEMESTER,EC407PC,Analog and Digital Communications Lab,communication systems,0.943
+ECE,II YEAR II SEMESTER,EC408PC,Electronic Circuit Analysis Lab,circuit analysis,0.931
+ECE,II YEAR II SEMESTER,EC409PC,Linear and Digital IC Applications Lab,integrated circuits,0.944
+ECE,II YEAR II SEMESTER,EC410SD,Web and Mobile Applications,integrated circuits,0.689
+ECE,III YEAR I SEMESTER,EC501PC,Digital Signal Processing,digital signal processing,1.0
+ECE,III YEAR I SEMESTER,EC502PC,RISC and Microcontroller architectures,microcontrollers,1.0
+ECE,III YEAR I SEMESTER,EC503PC,CMOS VLSI Design,vlsi,1.0
+ECE,III YEAR I SEMESTER,Professional,Elective-I,,0.5
+ECE,III YEAR I SEMESTER,Open,Elective-I,,0.5
+ECE,III YEAR I SEMESTER,EC504PC,RISC and Microcontroller Interfacing Laboratory,microcontrollers,1.0
+ECE,III YEAR I SEMESTER,EC505PC,CMOS VLSI Design Laboratory,vlsi,0.889
+ECE,III YEAR I SEMESTER,EC506PC,Digital Signal Processing Laboratory,digital signal processing,0.926
+ECE,III YEAR I SEMESTER,EC507PC,Field-based Research Project,,0.585
+ECE,III YEAR I SEMESTER,EC508SD,FPGA based System Design,embedded systems,0.739
+ECE,III YEAR I SEMESTER,VA500HS,Indian Knowledge System,,0.526
+ECE,III YEAR II SEMESTER,EC601PC,Antenna Design and Wave Propagation,antenna design,0.906
+ECE,III YEAR II SEMESTER,EC602PC,IoT Architectures and Protocols,internet of things,1.0
+ECE,III YEAR II SEMESTER,MS603HS,Business Economics and Financial Analysis,business analytics,1.0
+ECE,III YEAR II SEMESTER,Professional,Elective-II,,0.524
+ECE,III YEAR II SEMESTER,Open,Elective – II,,0.524
+ECE,III YEAR II SEMESTER,EC604PC,Advanced Communications Lab,5g,0.691
+ECE,III YEAR II SEMESTER,EC605PC,IoT Architectures and Protocols Laboratory,internet of things,0.939
+ECE,III YEAR II SEMESTER,EC606PC,VLSI Design Verification Laboratory,vlsi,1.0
+ECE,III YEAR II SEMESTER,EN607HS,English for Employability Skills Lab,,0.381
+ECE,III YEAR II SEMESTER,EC608SD,45G Practical Lab/Robotic Lab/Drone Lab,robotics,1.0
+ECE,IV YEAR I SEMESTER,EC701PC,Microwave and Optical Communications,microwave engineering,1.0
+ECE,IV YEAR I SEMESTER,EC702PC,Embedded System Design,embedded systems,1.0
+ECE,IV YEAR I SEMESTER,MS703HS,Fundamentals of Management for Engineers,,0.649
+ECE,IV YEAR I SEMESTER,Professional,Elective-III,,0.513
+ECE,IV YEAR I SEMESTER,Professional,Elective – IV,,0.483
+ECE,IV YEAR I SEMESTER,Open,Elective – III,,0.513
+ECE,IV YEAR I SEMESTER,EC704PC,Microwave and Optical Communications Laboratory,microwave engineering,0.947
+ECE,IV YEAR I SEMESTER,EC705PC,Embedded System Design Lab,embedded systems,0.917
+ECE,IV YEAR I SEMESTER,EC706PC,Industry Oriented Mini Project/ Internship,industry project,1.0
+ECE,IV YEAR II SEMESTER,Professional,Elective – V,,0.5
+ECE,IV YEAR II SEMESTER,Professional,Elective – VI,,0.483
+ECE,IV YEAR II SEMESTER,EC801PC,Project Work,capstone project,0.593
+EEE,I YEAR I SEMESTER,BSC,Matrices and Calculus,mathematics,0.491
+EEE,I YEAR I SEMESTER,BSC,Engineering Chemistry,material science,0.5
+EEE,I YEAR I SEMESTER,CSC,C and Data Structures,c programming,0.778
+EEE,I YEAR I SEMESTER,ESC,Analog Electronics,analog electronics,0.818
+EEE,I YEAR I SEMESTER,ESC,Electrical Circuits - I,circuit analysis,0.84
+EEE,I YEAR I SEMESTER,HSC,English for Skill Enhancement,,0.429
+EEE,I YEAR I SEMESTER,BSC,Engineering Chemistry Laboratory,material science,0.458
+EEE,I YEAR I SEMESTER,CSC,C and Data Structures Laboratory,c programming,0.724
+EEE,I YEAR II SEMESTER,BSC,Ordinary Differential Equations and Vector Calculus,mathematics,0.471
+EEE,I YEAR II SEMESTER,BSC,Applied Physics,electronics,1.0
+EEE,I YEAR II SEMESTER,ESC,Electromagnetic fields,electromagnetics,0.978
+EEE,I YEAR II SEMESTER,MEC,Engineering Graphics and Computer Aided Drafting,,0.455
+EEE,I YEAR II SEMESTER,,Dept. Core    Electrical Circuits - II,circuit analysis,0.846
+EEE,I YEAR II SEMESTER,MEC,Engineering Workshop,workshop practice,0.512
+EEE,I YEAR II SEMESTER,CSC,IoT and Python Programming Laboratory 1*,python,0.806
+EEE,I YEAR II SEMESTER,BSC,Applied Physics Laboratory,,0.612
+EEE,I YEAR II SEMESTER,ESC,Analog Electronics Laboratory,analog electronics,0.75
+EEE,I YEAR II SEMESTER,ESC,Electrical Circuits Laboratory,circuit analysis,0.769
+EEE,II YEAR I SEMESTER,,Dept. Core    Control Systems,control systems,1.0
+EEE,II YEAR I SEMESTER,,Dept. Core    Electrical Machines - I,electrical machines,1.0
+EEE,II YEAR I SEMESTER,,Dept. Core    Digital Electronics,digital electronics,1.0
+EEE,II YEAR I SEMESTER,,Dept. Core    Power Systems - I,power systems,0.966
+EEE,II YEAR I SEMESTER,,Dept. Core    Electrical Measurements and Sensors,sensors,1.0
+EEE,II YEAR I SEMESTER,Innovation,and Entrepreneurship,,0.557
+EEE,II YEAR I SEMESTER,MC,Environmental Science,environmental engineering,0.435
+EEE,II YEAR II SEMESTER,BSC,Numerical Methods and Complex Variables,mathematics,1.0
+EEE,II YEAR II SEMESTER,,Dept. Core    Electrical Machines - II,electrical machines,1.0
+EEE,II YEAR II SEMESTER,,Dept. Core    Power Systems - II,power systems,0.968
+EEE,II YEAR II SEMESTER,,Dept. Core    Power Electronics,power electronics,1.0
+EEE,II YEAR II SEMESTER,,Dept. Core    Microprocessors and Microcontrollers,microcontrollers,1.0
+EEE,II YEAR II SEMESTER,Microprocessors,and Microcontrollers Laboratory,microcontrollers,0.667
+EEE,III YEAR I SEMESTER,,Dept. Core     Power Semiconductor Drives,power electronics,1.0
+EEE,III YEAR I SEMESTER,,Dept. Core     Power System Protection,power system protection,1.0
+EEE,III YEAR I SEMESTER,,Dept. Core     Power Electronics for Renewable Energy Systems,renewable energy,0.854
+EEE,III YEAR I SEMESTER,Professional,Elective-I,,0.581
+EEE,III YEAR I SEMESTER,Open,Elective-I,,0.581
+EEE,III YEAR I SEMESTER,Field-Based,Project/Internship,,0.61
+EEE,III YEAR I SEMESTER,MC,Indian Knowledge System,,0.615
+EEE,III YEAR II SEMESTER,,Dept. Core       Power System Operation and Control,power systems,1.0
+EEE,III YEAR II SEMESTER,,Dept. Core       Hybrid Electric Vehicles,electric vehicles,0.679
+EEE,III YEAR II SEMESTER,Business,Economics and Financial Analysis/,business analytics,0.877
+EEE,III YEAR II SEMESTER,Professional,Elective-II,,0.606
+EEE,III YEAR II SEMESTER,Open,Elective – II,,0.606
+EEE,III YEAR II SEMESTER,HSC,English for Employability Skills Laboratory,,0.418
+EEE,IV YEAR I SEMESTER,,Dept. Core     Smart Metering and Communication Protocols,smart grid,1.0
+EEE,IV YEAR I SEMESTER,,Dept. Core     EV Charging Infrastructure,ev charging,1.0
+EEE,IV YEAR I SEMESTER,Business,Economics and Financial Analysis/,business analytics,0.877
+EEE,IV YEAR I SEMESTER,Professional,Elective - III,,0.588
+EEE,IV YEAR I SEMESTER,Professional,Elective – IV,,0.562
+EEE,IV YEAR I SEMESTER,Open,Elective – III,,0.588
+EEE,IV YEAR I SEMESTER,Industry,Oriented Mini Project/ Summer Internship,industry project,0.8
+EEE,IV YEAR II SEMESTER,Professional,Elective – V,,0.516
+EEE,IV YEAR II SEMESTER,Professional,Elective – VI,,0.562
+EEE,IV YEAR II SEMESTER,Project,Work,capstone project,0.222
+IT,I YEAR I SEMESTER,BSC,Matrices and Calculus,mathematics,0.514
+IT,I YEAR I SEMESTER,BSC,Advanced Engineering Physics,electronics,0.667
+IT,I YEAR I SEMESTER,MEC,Engineering Graphics and Computer Aided Drafting,,0.553
+IT,I YEAR I SEMESTER,Basic,Electrical Engineering,,0.619
+IT,I YEAR I SEMESTER,CSC,Programming for Problem Solving,c programming,1.0
+IT,I YEAR I SEMESTER,BSC,Advanced Engineering Physics Lab,electronics,0.621
+IT,I YEAR I SEMESTER,CSC,Programming for Problem Solving Lab,programming languages,1.0
+IT,I YEAR I SEMESTER,Python,Programming Lab,java,0.857
+IT,I YEAR I SEMESTER,HSC,Basic Electrical Engineering Lab,electrical engineering,0.538
+IT,I YEAR II SEMESTER,BSC,Ordinary Differential Equations and Vector Calculus,mathematics,0.4
+IT,I YEAR II SEMESTER,BSC,Engineering Chemistry,material science,0.537
+IT,I YEAR II SEMESTER,HSC,English for Skill Enhancement,,0.436
+IT,I YEAR II SEMESTER,Electronic,Devices and Circuits,,0.456
+IT,I YEAR II SEMESTER,Data,Structures,data structures,0.8
+IT,I YEAR II SEMESTER,BSC,Engineering Chemistry Lab,material science,0.565
+IT,I YEAR II SEMESTER,Data,Structures Lab,data structures,0.848
+IT,I YEAR II SEMESTER,HSC,English Language and Communication Skills Lab,,0.527
+IT,I YEAR II SEMESTER,MEC,Engineering Workshop,workshop practice,0.55
+IT,I YEAR II SEMESTER,IT,Workshop,,0.333
+IT,II YEAR I SEMESTER,BSC,Mathematical and Statistical Foundation,,0.421
+IT,II YEAR I SEMESTER,JAVA,Programming,java,0.815
+IT,II YEAR I SEMESTER,Operating,Systems,,0.609
+IT,II YEAR I SEMESTER,Computer,Organization and Microprocessor,computer organization,0.873
+IT,II YEAR I SEMESTER,Introduction,to IoT,,0.48
+IT,II YEAR I SEMESTER,Computational,Mathematics Laboratory,,0.629
+IT,II YEAR I SEMESTER,JAVA,Programming Laboratory,java,0.857
+IT,II YEAR I SEMESTER,Operating,Systems Laboratory,embedded systems,0.71
+IT,II YEAR I SEMESTER,Internet,of Things Laboratory,internet of things,0.743
+IT,II YEAR I SEMESTER,SDC,Data Visualization-R Programming/Power BI/,data visualization,1.0
+IT,II YEAR II SEMESTER,Discrete,Mathematics,discrete mathematics,0.71
+IT,II YEAR II SEMESTER,Data,Communications and Computer Networks,computer networks,0.935
+IT,II YEAR II SEMESTER,Database,Management Systems,sql,0.8
+IT,II YEAR II SEMESTER,Web,Programming,java,0.815
+IT,II YEAR II SEMESTER,Formal,Languages and Automata Theory,,0.469
+IT,II YEAR II SEMESTER,Innovation,and Entrepreneurship,,0.54
+IT,II YEAR II SEMESTER,Computer,Networks Laboratory,,0.529
+IT,II YEAR II SEMESTER,Database,Management Systems Laboratory,sql,0.83
+IT,II YEAR II SEMESTER,Web,Programming Laboratory,java,0.857
+IT,II YEAR II SEMESTER,SDC,"Node JS/ React JS/ Django, UI Design - Flutter",node.js,0.719
+IT,II YEAR II SEMESTER,,*MC          Indian Knowledge Systems,,0.558
+IT,III YEAR I SEMESTER,Machine,Learning,deep learning,0.762
+IT,III YEAR I SEMESTER,Algorithm,Design and Analysis,algorithms,0.776
+IT,III YEAR I SEMESTER,Mobile,Application Development,mobile app development,0.868
+IT,III YEAR I SEMESTER,Professional,Elective-I,,0.48
+IT,III YEAR I SEMESTER,Open,Elective-I,,0.48
+IT,III YEAR I SEMESTER,Machine,Learning Laboratory,machine learning,0.75
+IT,III YEAR I SEMESTER,Algorithm,Design and Analysis Laboratory,algorithms,0.717
+IT,III YEAR I SEMESTER,Mobile,Application Development Laboratory,mobile app development,0.807
+IT,III YEAR I SEMESTER,SDC,Full Stack Development,full stack development,1.0
+IT,III YEAR II SEMESTER,Software,Engineering,software engineering,0.71
+IT,III YEAR II SEMESTER,Compiler,Design,,0.522
+IT,III YEAR II SEMESTER,Business,Economics and Financial Analysis,,0.484
+IT,III YEAR II SEMESTER,Professional,Elective-II,,0.462
+IT,III YEAR II SEMESTER,Open,Elective-II,,0.462
+IT,III YEAR II SEMESTER,Software,Engineering Laboratory,machine learning,0.686
+IT,III YEAR II SEMESTER,Compiler,Design Laboratory,compiler design,0.69
+IT,III YEAR II SEMESTER,Development,Operations (DevOps) Laboratory,operating systems,0.714
+IT,III YEAR II SEMESTER,HSC,English for Employability Skills Lab,,0.451
+IT,III YEAR II SEMESTER,SDC,Big data-Spark,big data,1.0
+IT,III YEAR II SEMESTER,MC*,Environmental Science,environmental engineering,0.44
+IT,IV YEAR I SEMESTER,Information,Security,web security,0.8
+IT,IV YEAR I SEMESTER,Deep,Learning,deep learning,0.762
+IT,IV YEAR I SEMESTER,Fundamentals,of Management,,0.55
+IT,IV YEAR I SEMESTER,Professional,Elective-III,,0.444
+IT,IV YEAR I SEMESTER,Professional,Elective-IV,,0.462
+IT,IV YEAR I SEMESTER,Open,Elective – III,,0.444
+IT,IV YEAR I SEMESTER,Information,Security Laboratory,information security,0.667
+IT,IV YEAR I SEMESTER,Deep,Learning Laboratory,machine learning,0.75
+IT,IV YEAR I SEMESTER,Industry,Oriented Mini Project/ Summer Internship,big data,0.78
+IT,IV YEAR II SEMESTER,Professional,Elective – V,,0.444
+IT,IV YEAR II SEMESTER,Professional,Elective – VI,,0.462
+IT,IV YEAR II SEMESTER,Project,Work,capstone project,0.286
+MECH,I YEAR I SEMESTER,MA101BS,Matrices and Calculus,mathematics,0.5
+MECH,I YEAR I SEMESTER,PH102BS,Advanced Engineering Physics,electronics,0.698
+MECH,I YEAR I SEMESTER,ME103ES,C Programming and Data Structures,c programming,1.0
+MECH,I YEAR I SEMESTER,ME104ES,Engineering Mechanics,engineering mechanics,1.0
+MECH,I YEAR I SEMESTER,EN105HS,English for Skill Enhancement,,0.44
+MECH,I YEAR I SEMESTER,PH106BS,Advanced Engineering Physics Lab,electronics,0.657
+MECH,I YEAR I SEMESTER,CS107ES,C Programming and Data Structures Lab,c programming,0.943
+MECH,I YEAR I SEMESTER,ME108ES,Engineering Workshop,workshop practice,1.0
+MECH,I YEAR I SEMESTER,EN109HS,English Language and Communication Skills Lab,,0.522
+MECH,I YEAR II SEMESTER,MA201BS,Ordinary Differential Equations and Vector Calculus,mathematics,0.419
+MECH,I YEAR II SEMESTER,CH202BS,Applied Chemistry,material science,0.421
+MECH,I YEAR II SEMESTER,CS203ES,Python Programming,python,0.9
+MECH,I YEAR II SEMESTER,EE204ES,Elements of Electrical and Electronics Engineering,electrical engineering,0.851
+MECH,I YEAR II SEMESTER,ME205ES,Thermodynamics,thermodynamics,1.0
+MECH,I YEAR II SEMESTER,ME206ES,Engineering Drawing and Computer Aided Drafting,cad,0.545
+MECH,I YEAR II SEMESTER,CH207BS,Chemistry Lab for Engineers,material science,0.56
+MECH,I YEAR II SEMESTER,CS208ES,Python Programming Lab,python,1.0
+MECH,II YEAR I SEMESTER,MA301BS,"Probability, Statistics and Complex Variables",probability,0.409
+MECH,II YEAR I SEMESTER,ME302PC,Mechanics of Solids,solid mechanics,1.0
+MECH,II YEAR I SEMESTER,ME303PC,Material Science and Metallurgy,material science,1.0
+MECH,II YEAR I SEMESTER,ME304PC,Production Technology,manufacturing,1.0
+MECH,II YEAR I SEMESTER,ME305PC,Fluid Mechanics and Hydraulic Machines,fluid mechanics,1.0
+MECH,II YEAR I SEMESTER,MA306PC,Computational Mathematics Lab,mathematics,0.632
+MECH,II YEAR I SEMESTER,ME307PC,Production Technology Lab,manufacturing,1.0
+MECH,II YEAR I SEMESTER,ME308PC,Material Science and Mechanics of Solids Lab,material science,1.0
+MECH,II YEAR I SEMESTER,ME309PC,Fluid Mechanics and Hydraulic Machines Lab,fluid mechanics,0.95
+MECH,II YEAR I SEMESTER,ME310SD,Design Thinking and Ideation,,0.508
+MECH,II YEAR II SEMESTER,ME401PC,Kinematics of Machinery,kinematics,1.0
+MECH,II YEAR II SEMESTER,ME402PC,Thermal Engineering - I,thermal engineering,0.909
+MECH,II YEAR II SEMESTER,ME403PC,Design of Machine Elements,machine design,1.0
+MECH,II YEAR II SEMESTER,ME404PC,Instrumentation and Control Systems,instrumentation,1.0
+MECH,II YEAR II SEMESTER,ME405PC,Operations Research,operations research,1.0
+MECH,II YEAR II SEMESTER,MS406HS,Innovation and Entrepreneurship,,0.545
+MECH,II YEAR II SEMESTER,ME408PC,Instrumentation and Control Systems Lab,instrumentation,0.946
+MECH,II YEAR II SEMESTER,ME409PC,Thermal Engineering-I Lab,thermal engineering,0.958
+MECH,II YEAR II SEMESTER,ME410SD,Data Analytics and Python for Engineers,data analytics,1.0
+MECH,II YEAR II SEMESTER,VA400HS,Indian Knowledge System,,0.634
+MECH,III YEAR I SEMESTER,ME501PC,Design of Transmission Elements,machine design,0.737
+MECH,III YEAR I SEMESTER,ME502PC,Thermal Engineering - II,thermal engineering,0.889
+MECH,III YEAR I SEMESTER,ME503PC,Metrology and Machine Tools,metrology,1.0
+MECH,III YEAR I SEMESTER,Professional,Elective-I,,0.48
+MECH,III YEAR I SEMESTER,Open,Elective-I,,0.48
+MECH,III YEAR I SEMESTER,ME504PC,Thermal Engineering - II Lab,thermal engineering,0.939
+MECH,III YEAR I SEMESTER,ME505PC,Metrology and Machine Tools Lab,metrology,0.931
+MECH,III YEAR I SEMESTER,ME506PC,Modelling and Drafting Lab,,0.56
+MECH,III YEAR I SEMESTER,ME507PC,Field Based Research Project,,0.514
+MECH,III YEAR I SEMESTER,ME508SD,Modelling and Simulation Tools,simulation,1.0
+MECH,III YEAR II SEMESTER,ME601PC,Dynamics of Machinery,dynamics,1.0
+MECH,III YEAR II SEMESTER,ME602PC,Heat Transfer,heat transfer,1.0
+MECH,III YEAR II SEMESTER,MS603HS,Business Economics and Financial Analysis,business analytics,1.0
+MECH,III YEAR II SEMESTER,Professional,Elective-II,,0.462
+MECH,III YEAR II SEMESTER,Open,Elective – II,,0.462
+MECH,III YEAR II SEMESTER,ME604PC,Heat Transfer Lab,heat transfer,1.0
+MECH,III YEAR II SEMESTER,ME605PC,Applied Manufacturing Lab,3d printing,0.723
+MECH,III YEAR II SEMESTER,ME606PC,Kinematics and Dynamics Lab,kinematics,1.0
+MECH,III YEAR II SEMESTER,EN607HS,Advanced English Communication Skills Lab,,0.494
+MECH,III YEAR II SEMESTER,ME608SD,Troubleshooting of Mechanical Systems,mechanical engineering,1.0
+MECH,III YEAR II SEMESTER,VA600ES,Environmental Science,environmental engineering,0.538
+MECH,IV YEAR I SEMESTER,ME701PC,Finite Element Methods,finite element analysis,1.0
+MECH,IV YEAR I SEMESTER,ME702PC,Robotics and Automation,microprocessors,0.692
+MECH,IV YEAR I SEMESTER,ME703PC,Industrial Engineering and Management,industrial management,0.724
+MECH,IV YEAR I SEMESTER,Professional,Elective - III,,0.45
+MECH,IV YEAR I SEMESTER,Professional,Elective – IV,,0.462
+MECH,IV YEAR I SEMESTER,Open,Elective – III,,0.45
+MECH,IV YEAR I SEMESTER,ME704PC,Computer Aided Analysis Lab,cae,0.737
+MECH,IV YEAR I SEMESTER,ME705PC,Robotics and Automation Lab,robotics,1.0
+MECH,IV YEAR I SEMESTER,ME706PC,Industry Oriented Mini Project/ Internship,industry project,1.0
+MECH,IV YEAR II SEMESTER,Professional,Elective – V,,0.421
+MECH,IV YEAR II SEMESTER,Professional,Elective – VI,,0.462
+MECH,IV YEAR II SEMESTER,ME801PC,Project Work,capstone project,0.593

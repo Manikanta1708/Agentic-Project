@@ -1,0 +1,558 @@
+branch,regulation,year_semester,s_no,course_code,course_title,L,T,P,credits
+AIML,R25,I YEAR I SEMESTER,1,MA101BS,Matrices and Calculus,3,1,0,4
+AIML,R25,I YEAR I SEMESTER,2,PH102BS,Advanced Engineering Physics,3,0,0,3
+AIML,R25,I YEAR I SEMESTER,3,CS103ES,Programming for Problem Solving,3,0,0,3
+AIML,R25,I YEAR I SEMESTER,4,EE104ES,Basic Electrical Engineering,3,0,0,3
+AIML,R25,I YEAR I SEMESTER,5,ME105ES,Engineering Drawing and Computer Aided Drafting,2,0,2,3
+AIML,R25,I YEAR I SEMESTER,6,PH106BS,Advanced Engineering Physics Lab,0,0,2,1
+AIML,R25,I YEAR I SEMESTER,7,CS107ES,Programming for Problem Solving Lab,0,0,2,1
+AIML,R25,I YEAR I SEMESTER,8,EE108ES,Basic Electrical Engineering Lab,0,0,2,1
+AIML,R25,I YEAR I SEMESTER,9,CS109ES,IT Workshop,0,0,2,1
+AIML,R25,I YEAR II SEMESTER,1,MA201BS,Ordinary Differential Equations and Vector Calculus,3,0,0,3
+AIML,R25,I YEAR II SEMESTER,2,CH202BS,Engineering Chemistry,3,0,0,3
+AIML,R25,I YEAR II SEMESTER,3,CS203ES,Data Structures,3,0,0,3
+AIML,R25,I YEAR II SEMESTER,4,EC204ES,Electronic Devices and Circuits,3,0,0,3
+AIML,R25,I YEAR II SEMESTER,5,EN205HS,English for Skill Enhancement,3,0,0,3
+AIML,R25,I YEAR II SEMESTER,6,CH206BS,Engineering Chemistry Lab,0,0,2,1
+AIML,R25,I YEAR II SEMESTER,7,CS207ES,Data Structures Lab,0,0,2,1
+AIML,R25,I YEAR II SEMESTER,8,EN208HS,English Language and Communication Skills Lab,0,0,2,1
+AIML,R25,I YEAR II SEMESTER,9,ME209ES,Engineering Workshop,0,0,2,1
+AIML,R25,I YEAR II SEMESTER,10,CS210ES,Python Programming Lab,0,0,2,1
+AIML,R25,II YEAR I SEMESTER,1,MA401BS,Mathematical and Statistical Foundations,3,0,0,3
+AIML,R25,II YEAR I SEMESTER,2,CS302PC,Computer Organization and Architecture,3,0,0,3
+AIML,R25,II YEAR I SEMESTER,3,CS303PC,Object Oriented Programming through java,3,0,0,3
+AIML,R25,II YEAR I SEMESTER,4,CS304PC,Software Engineering,3,0,0,3
+AIML,R25,II YEAR I SEMESTER,5,CS305PC,Database Management System,3,0,0,3
+AIML,R25,II YEAR I SEMESTER,6,MA306PC,Computational Mathematics Lab,0,0,2,1
+AIML,R25,II YEAR I SEMESTER,7,CS307PC,Object Oriented Programming through Java Lab,0,0,2,1
+AIML,R25,II YEAR I SEMESTER,8,CS308PC,Software Engineering Lab,0,0,2,1
+AIML,R25,II YEAR I SEMESTER,9,CS309PC,Database Management Systems Lab,0,0,2,1
+AIML,R25,II YEAR I SEMESTER,10,CS310SD,Node JS/React JS/Django,0,0,2,1
+AIML,R25,II YEAR II SEMESTER,1,CS401PC,Discrete Mathematics,3,0,0,3
+AIML,R25,II YEAR II SEMESTER,2,CS402PC,Operating Systems,3,0,0,3
+AIML,R25,II YEAR II SEMESTER,3,CS403PC,Algorithms Design and Analysis,3,0,0,3
+AIML,R25,II YEAR II SEMESTER,4,CS404PC,Computer Networks,3,0,0,3
+AIML,R25,II YEAR II SEMESTER,5,CS405PC,Machine Learning,3,0,0,3
+AIML,R25,II YEAR II SEMESTER,6,MS406HS,Innovation and Entrepreneurship,2,0,0,2
+AIML,R25,II YEAR II SEMESTER,7,CS407PC,Operating Systems Lab,0,0,2,1
+AIML,R25,II YEAR II SEMESTER,8,CS408PC,Computer Networks lab,0,0,2,1
+AIML,R25,II YEAR II SEMESTER,9,CS409PC,Machine Learning Lab,0,0,2,1
+AIML,R25,II YEAR II SEMESTER,10,CS410SD,Data Visualization- R Programming/ Power BI,0,0,2,1
+AIML,R25,II YEAR II SEMESTER,11,VA400HS,Indian Knowledge System,1,0,0,1
+AIML,R25,III YEAR I SEMESTER,1,AI501PC,Artificial Intelligence,3,0,0,3
+AIML,R25,III YEAR I SEMESTER,2,AI502PC,Automata theory and Compiler Design,3,0,0,3
+AIML,R25,III YEAR I SEMESTER,3,AI503PC,Data Analytics and Visualization,3,0,0,3
+AIML,R25,III YEAR I SEMESTER,4,Professional,Elective-I,3,0,0,3
+AIML,R25,III YEAR I SEMESTER,5,Open,Elective-I,2,0,0,2
+AIML,R25,III YEAR I SEMESTER,6,AI504PC,Artificial Intelligence Lab,0,0,2,1
+AIML,R25,III YEAR I SEMESTER,7,AI505PC,Compiler Design Lab,0,0,2,1
+AIML,R25,III YEAR I SEMESTER,8,AI506PC,Data Analytics and Visualization Lab,0,0,2,1
+AIML,R25,III YEAR I SEMESTER,9,AI507PC,Field Based Research Project,0,0,4,2
+AIML,R25,III YEAR I SEMESTER,10,AI508SD,UI Design –Flutter/ Android Studio,0,0,2,1
+AIML,R25,III YEAR II SEMESTER,1,AI601PC,Natural Language Processing,3,0,0,3
+AIML,R25,III YEAR II SEMESTER,2,AI602PC,Deep Learning,3,0,0,3
+AIML,R25,III YEAR II SEMESTER,3,MS603HS,Business Economics and Financial Analysis,3,0,0,3
+AIML,R25,III YEAR II SEMESTER,4,Professional,Elective-II,3,0,0,3
+AIML,R25,III YEAR II SEMESTER,5,Open,Elective – II,2,0,0,2
+AIML,R25,III YEAR II SEMESTER,6,AI604PC,Natural Language Processing Lab,0,0,2,1
+AIML,R25,III YEAR II SEMESTER,7,AI605PC,Deep Learning Lab,0,0,2,1
+AIML,R25,III YEAR II SEMESTER,8,AI606PC,Chatbots Lab,0,0,2,1
+AIML,R25,III YEAR II SEMESTER,9,EN607HS,English for Employability Skills Lab,0,0,2,1
+AIML,R25,III YEAR II SEMESTER,10,AI608SD,Prompt Engineering,0,0,2,1
+AIML,R25,III YEAR II SEMESTER,11,VA600ES,Environmental Science,1,0,0,1
+AIML,R25,IV YEAR I SEMESTER,1,AI701PC,Reinforcement Learning,3,0,0,3
+AIML,R25,IV YEAR I SEMESTER,2,AI702PC,Generative AI,3,0,0,3
+AIML,R25,IV YEAR I SEMESTER,3,MS703HS,Fundamentals of Management for Engineers,3,0,0,3
+AIML,R25,IV YEAR I SEMESTER,4,Professional,Elective-III,3,0,0,3
+AIML,R25,IV YEAR I SEMESTER,5,Professional,Elective – IV,3,0,0,3
+AIML,R25,IV YEAR I SEMESTER,6,Open,Elective – III,2,0,0,2
+AIML,R25,IV YEAR I SEMESTER,7,AI704PC,Reinforcement Learning Lab,0,0,2,1
+AIML,R25,IV YEAR I SEMESTER,8,AI705PC,Generative AI Lab,0,0,2,1
+AIML,R25,IV YEAR I SEMESTER,9,AI706PC,Industry Oriented Mini Project/ Internship,0,0,4,2
+AIML,R25,IV YEAR II SEMESTER,1,Professional,Elective – V,3,0,0,3
+AIML,R25,IV YEAR II SEMESTER,2,Professional,Elective – VI,3,0,0,3
+AIML,R25,IV YEAR II SEMESTER,3,AI801PC,Project Work,0,0,42,14
+CSE,R25,I YEAR I SEMESTER,1,MA101BS,Matrices and Calculus,3,1,0,4
+CSE,R25,I YEAR I SEMESTER,2,CH102BS,Engineering Chemistry,3,0,0,3
+CSE,R25,I YEAR I SEMESTER,3,EN103HS,English for Skill Enhancement,3,0,0,3
+CSE,R25,I YEAR I SEMESTER,4,EC104ES,Electronic Devices and Circuits,3,0,0,3
+CSE,R25,I YEAR I SEMESTER,5,CS105ES,Programming for Problem Solving,3,0,0,3
+CSE,R25,I YEAR I SEMESTER,6,CH106BS,Engineering Chemistry Lab,0,0,2,1
+CSE,R25,I YEAR I SEMESTER,7,CS107ES,Programming for Problem Solving Lab,0,0,2,1
+CSE,R25,I YEAR I SEMESTER,8,EN108HS,English Language and Communication Skills Lab,0,0,2,1
+CSE,R25,I YEAR I SEMESTER,9,ME109ES,Engineering Workshop,0,0,2,1
+CSE,R25,I YEAR II SEMESTER,1,MA201BS,Ordinary Differential Equations and Vector Calculus,3,0,0,3
+CSE,R25,I YEAR II SEMESTER,2,PH202BS,Advanced Engineering Physics,3,0,0,3
+CSE,R25,I YEAR II SEMESTER,3,ME203ES,Engineering Drawing and Computer Aided Drafting,2,0,2,3
+CSE,R25,I YEAR II SEMESTER,4,EE204ES,Basic Electrical Engineering,3,0,0,3
+CSE,R25,I YEAR II SEMESTER,5,CS205ES,Data Structures,3,0,0,3
+CSE,R25,I YEAR II SEMESTER,6,PH206BS,Advanced Engineering Physics Lab,0,0,2,1
+CSE,R25,I YEAR II SEMESTER,7,CS207ES,Data Structures Lab,0,0,2,1
+CSE,R25,I YEAR II SEMESTER,8,CS208ES,Python Programming Lab,0,0,2,1
+CSE,R25,I YEAR II SEMESTER,9,EE209ES,Basic Electrical Engineering Lab,0,0,2,1
+CSE,R25,I YEAR II SEMESTER,10,CS210ES,IT Workshop,0,0,2,1
+CSE,R25,II YEAR I SEMESTER,1,CS301PC,Discrete Mathematics,3,0,0,3
+CSE,R25,II YEAR I SEMESTER,2,CS302PC,Computer Organization and Architecture,3,0,0,3
+CSE,R25,II YEAR I SEMESTER,3,CS303PC,Object Oriented Programming through java,3,0,0,3
+CSE,R25,II YEAR I SEMESTER,4,CS304PC,Software Engineering,3,0,0,3
+CSE,R25,II YEAR I SEMESTER,5,CS305PC,Database Management Systems,3,0,0,3
+CSE,R25,II YEAR I SEMESTER,6,MS306HS,Innovation and Entrepreneurship,2,0,0,2
+CSE,R25,II YEAR I SEMESTER,7,CS307PC,Object Oriented Programming through java Lab,0,0,2,1
+CSE,R25,II YEAR I SEMESTER,8,CS308PC,Software Engineering Lab,0,0,2,1
+CSE,R25,II YEAR I SEMESTER,9,CS309PC,Database Management Systems Lab,0,0,2,1
+CSE,R25,II YEAR I SEMESTER,10,CS310SD,Node Js/React JS/ Django,0,0,2,1
+CSE,R25,II YEAR I SEMESTER,11,VA300ES,Environmental Science,1,0,0,1
+CSE,R25,II YEAR II SEMESTER,1,MA401PC,Computer oriented Statistical Methods,3,0,0,3
+CSE,R25,II YEAR II SEMESTER,2,CS402PC,Operating Systems,3,0,0,3
+CSE,R25,II YEAR II SEMESTER,3,CS403PC,Algorithm design and Analysis,3,0,0,3
+CSE,R25,II YEAR II SEMESTER,4,CS404PC,Computer Networks,3,0,0,3
+CSE,R25,II YEAR II SEMESTER,5,CS405PC,Machine Learning,3,0,0,3
+CSE,R25,II YEAR II SEMESTER,6,MA406PC,Computational Mathematics Lab,0,0,2,1
+CSE,R25,II YEAR II SEMESTER,7,CS407PC,Operating Systems Lab,0,0,2,1
+CSE,R25,II YEAR II SEMESTER,8,CS408PC,Computer Networks Lab,0,0,2,1
+CSE,R25,II YEAR II SEMESTER,9,CS409PC,Machine Learning Lab,0,0,2,1
+CSE,R25,II YEAR II SEMESTER,10,CS410SD,Data Visualization- R/ Python/ Power BI,0,0,2,1
+CSE,R25,III YEAR I SEMESTER,1,CS501PC,Automata Theory and Compiler Design,3,0,0,3
+CSE,R25,III YEAR I SEMESTER,2,CS502PC,Artificial Intelligence,3,0,0,3
+CSE,R25,III YEAR I SEMESTER,3,CS503PC,DevOps,3,0,0,3
+CSE,R25,III YEAR I SEMESTER,4,Professional,Elective-I,3,0,0,3
+CSE,R25,III YEAR I SEMESTER,5,Open,Elective-I,2,0,0,2
+CSE,R25,III YEAR I SEMESTER,6,CS504PC,Compiler Design Lab,0,0,2,1
+CSE,R25,III YEAR I SEMESTER,7,CS505PC,Artificial Intelligence with Python Lab,0,0,2,1
+CSE,R25,III YEAR I SEMESTER,8,CS506PC,DevOps Lab,0,0,2,1
+CSE,R25,III YEAR I SEMESTER,9,CS507PC,Field-Based Research Project,0,0,4,2
+CSE,R25,III YEAR I SEMESTER,10,CS508SD,UI Design – Flutter/ Android Studio,0,0,2,1
+CSE,R25,III YEAR I SEMESTER,11,VA500HS,Indian Knowledge System,1,0,0,1
+CSE,R25,III YEAR II SEMESTER,1,CS601PC,Cryptography and Networks Security,3,0,0,3
+CSE,R25,III YEAR II SEMESTER,2,CS602PC,Deep Learning,3,0,0,3
+CSE,R25,III YEAR II SEMESTER,3,MS603HS,Business Economics and Financial Analysis,3,0,0,3
+CSE,R25,III YEAR II SEMESTER,4,Professional,Elective-II,3,0,0,3
+CSE,R25,III YEAR II SEMESTER,5,Open,Elective – II,2,0,0,2
+CSE,R25,III YEAR II SEMESTER,6,CS604PC,Cryptography and Networks Security Lab,0,0,2,1
+CSE,R25,III YEAR II SEMESTER,7,CS605PC,Deep Learning Lab,0,0,2,1
+CSE,R25,III YEAR II SEMESTER,8,CS606PC,Advanced Data Structures using Python Lab,0,0,2,1
+CSE,R25,III YEAR II SEMESTER,9,EN607HS,Advanced English Communication Skills Laboratory,0,0,2,1
+CSE,R25,III YEAR II SEMESTER,10,CS608SD,Prompt Engineering,0,0,2,1
+CSE,R25,IV YEAR I SEMESTER,1,CS701PC,Natural Language Processing,3,0,0,3
+CSE,R25,IV YEAR I SEMESTER,2,CS702PC,Cyber Security,3,0,0,3
+CSE,R25,IV YEAR I SEMESTER,3,MS703HS,Fundamentals of Management,3,0,0,3
+CSE,R25,IV YEAR I SEMESTER,4,Professional,Elective-III,3,0,0,3
+CSE,R25,IV YEAR I SEMESTER,5,Professional,Elective – IV,3,0,0,3
+CSE,R25,IV YEAR I SEMESTER,6,Open,Elective – III,2,0,0,2
+CSE,R25,IV YEAR I SEMESTER,7,CS704PC,Natural Language Processing Lab,0,0,2,1
+CSE,R25,IV YEAR I SEMESTER,8,CS705PC,Cyber Security Lab,0,0,2,1
+CSE,R25,IV YEAR I SEMESTER,9,CS706PC,Industry Oriented Mini Project/ Internship,0,0,4,2
+CSE,R25,IV YEAR II SEMESTER,1,Professional,Elective – V,3,0,0,3
+CSE,R25,IV YEAR II SEMESTER,2,Professional,Elective – VI,3,0,0,3
+CSE,R25,IV YEAR II SEMESTER,3,CS801PC,Project Work,0,0,28,14
+AIDS,R25,I YEAR I SEMESTER,1,MA101BS,Matrices and Calculus,3,1,0,4
+AIDS,R25,I YEAR I SEMESTER,2,PH102BS,Advanced Engineering Physics,3,0,0,3
+AIDS,R25,I YEAR I SEMESTER,3,CS103ES,Programming for Problem Solving,3,0,0,3
+AIDS,R25,I YEAR I SEMESTER,4,EE104ES,Basic Electrical Engineering,3,0,0,3
+AIDS,R25,I YEAR I SEMESTER,5,ME105ES,Engineering Drawing and Computer Aided Drafting,2,0,2,3
+AIDS,R25,I YEAR I SEMESTER,6,PH106BS,Advanced Engineering Physics Lab,0,0,2,1
+AIDS,R25,I YEAR I SEMESTER,7,CS107ES,Programming for Problem Solving Lab,0,0,2,1
+AIDS,R25,I YEAR I SEMESTER,8,EE108ES,Basic Electrical Engineering Lab,0,0,2,1
+AIDS,R25,I YEAR I SEMESTER,9,CS109ES,IT Workshop,0,0,2,1
+AIDS,R25,I YEAR II SEMESTER,1,MA201BS,Ordinary Differential Equations and Vector Calculus,3,0,0,3
+AIDS,R25,I YEAR II SEMESTER,2,CH202BS,Engineering Chemistry,3,0,0,3
+AIDS,R25,I YEAR II SEMESTER,3,CS203ES,Data Structures,3,0,0,3
+AIDS,R25,I YEAR II SEMESTER,4,EC204ES,Electronic Devices and Circuits,3,0,0,3
+AIDS,R25,I YEAR II SEMESTER,5,EN205HS,English for Skill Enhancement,3,0,0,3
+AIDS,R25,I YEAR II SEMESTER,6,CH206BS,Engineering Chemistry Lab,0,0,2,1
+AIDS,R25,I YEAR II SEMESTER,7,CS207ES,Data Structures Lab,0,0,2,1
+AIDS,R25,I YEAR II SEMESTER,8,EN208HS,English Language and Communication Skills Lab,0,0,2,1
+AIDS,R25,I YEAR II SEMESTER,9,ME209ES,Engineering Workshop,0,0,2,1
+AIDS,R25,I YEAR II SEMESTER,10,CS210ES,Python Programming Lab,0,0,2,1
+AIDS,R25,II YEAR I SEMESTER,1,MA401BS,Mathematical and Statistical Foundations,3,0,0,3
+AIDS,R25,II YEAR I SEMESTER,2,CS302PC,Computer Organization and Architecture,3,0,0,3
+AIDS,R25,II YEAR I SEMESTER,3,CS303PC,Object Oriented Programming through java,3,0,0,3
+AIDS,R25,II YEAR I SEMESTER,4,CS304PC,Software Engineering,3,0,0,3
+AIDS,R25,II YEAR I SEMESTER,5,CS305PC,Database Management System,3,0,0,3
+AIDS,R25,II YEAR I SEMESTER,6,MA306PC,Computational Mathematics Lab,0,0,2,1
+AIDS,R25,II YEAR I SEMESTER,7,CS307PC,Object Oriented Programming through Java Lab,0,0,2,1
+AIDS,R25,II YEAR I SEMESTER,8,CS308PC,Software Engineering Lab,0,0,2,1
+AIDS,R25,II YEAR I SEMESTER,9,CS309PC,Database Management Systems Lab,0,0,2,1
+AIDS,R25,II YEAR I SEMESTER,10,CS310SD,Node JS/React JS/Django,0,0,2,1
+AIDS,R25,II YEAR II SEMESTER,1,CS401PC,Discrete Mathematics,3,0,0,3
+AIDS,R25,II YEAR II SEMESTER,2,CS402PC,Operating Systems,3,0,0,3
+AIDS,R25,II YEAR II SEMESTER,3,CS403PC,Algorithms Design and Analysis,3,0,0,3
+AIDS,R25,II YEAR II SEMESTER,4,CS404PC,Computer Networks,3,0,0,3
+AIDS,R25,II YEAR II SEMESTER,5,CS405PC,Machine Learning,3,0,0,3
+AIDS,R25,II YEAR II SEMESTER,6,MS406HS,Innovation and Entrepreneurship,2,0,0,2
+AIDS,R25,II YEAR II SEMESTER,7,CS407PC,Operating Systems Lab,0,0,2,1
+AIDS,R25,II YEAR II SEMESTER,8,CS408PC,Computer Networks lab,0,0,2,1
+AIDS,R25,II YEAR II SEMESTER,9,CS409PC,Machine Learning Lab,0,0,2,1
+AIDS,R25,II YEAR II SEMESTER,10,CS410SD,Data Visualization- R Programming/ Power BI,0,0,2,1
+AIDS,R25,II YEAR II SEMESTER,11,VA400HS,Indian Knowledge System,1,0,0,1
+AIDS,R25,III YEAR I SEMESTER,1,AD501PC,Introduction to Data Science,3,0,0,3
+AIDS,R25,III YEAR I SEMESTER,2,AD502PC,Big Data Technologies,3,0,0,3
+AIDS,R25,III YEAR I SEMESTER,3,AD503PC,Artificial Intelligence,3,0,0,3
+AIDS,R25,III YEAR I SEMESTER,4,Professional,Elective-I,3,0,0,3
+AIDS,R25,III YEAR I SEMESTER,5,Open,Elective-I,2,0,0,2
+AIDS,R25,III YEAR I SEMESTER,6,AD504PC,Data Science Lab,0,0,2,1
+AIDS,R25,III YEAR I SEMESTER,7,AD505PC,Big Data Technologies Lab,0,0,2,1
+AIDS,R25,III YEAR I SEMESTER,8,AD506PC,Artificial Intelligence with Python Lab,0,0,2,1
+AIDS,R25,III YEAR I SEMESTER,9,AD508SD,UI Design –Flutter/ Android Studio,0,0,2,1
+AIDS,R25,III YEAR II SEMESTER,1,AD601PC,Data Mining,3,0,0,3
+AIDS,R25,III YEAR II SEMESTER,2,AD602PC,Deep Learning,3,0,0,3
+AIDS,R25,III YEAR II SEMESTER,3,AD603PC,Business Economics and Financial Analysis,3,0,0,3
+AIDS,R25,III YEAR II SEMESTER,4,Professional,Elective-II,3,0,0,3
+AIDS,R25,III YEAR II SEMESTER,5,Open,Elective – II,2,0,0,2
+AIDS,R25,III YEAR II SEMESTER,6,AD604PC,Data mining Lab,0,0,2,1
+AIDS,R25,III YEAR II SEMESTER,7,AD605PC,Deep Learning Lab,0,0,2,1
+AIDS,R25,III YEAR II SEMESTER,8,AD606PC,Web Programming Lab,0,0,2,1
+AIDS,R25,III YEAR II SEMESTER,10,AD608SD,Prompt Engineering,0,0,2,1
+AIDS,R25,III YEAR II SEMESTER,11,VA600ES,Environmental Science,1,0,0,1
+AIDS,R25,IV YEAR I SEMESTER,1,AD701PC,Generative AI,3,0,0,3
+AIDS,R25,IV YEAR I SEMESTER,2,AD702PC,Data Engineering,3,0,0,3
+AIDS,R25,IV YEAR I SEMESTER,3,MS703HS,Fundamentals of Management for Engineers,3,0,0,3
+AIDS,R25,IV YEAR I SEMESTER,4,Professional,Elective-III,3,0,0,3
+AIDS,R25,IV YEAR I SEMESTER,5,Professional,Elective – IV,3,0,0,3
+AIDS,R25,IV YEAR I SEMESTER,6,Open,Elective – III,2,0,0,2
+AIDS,R25,IV YEAR I SEMESTER,7,AD704PC,Generative AI Lab,0,0,2,1
+AIDS,R25,IV YEAR I SEMESTER,8,AD705PC,Data Engineering Lab,0,0,2,1
+AIDS,R25,IV YEAR I SEMESTER,9,AD706PC,Industry Oriented Mini Project/ Internship,0,0,4,2
+AIDS,R25,IV YEAR II SEMESTER,1,Professional,Elective – V,3,0,0,3
+AIDS,R25,IV YEAR II SEMESTER,2,Professional,Elective – VI,3,0,0,3
+AIDS,R25,IV YEAR II SEMESTER,3,AD801PC,Project Work,0,0,28,14
+ECE,R25,I YEAR I SEMESTER,1,MA101BS,Matrices and Calculus,3,1,0,4
+ECE,R25,I YEAR I SEMESTER,2,PH102BS,Advanced Engineering Physics,3,0,0,3
+ECE,R25,I YEAR I SEMESTER,3,CS103ES,Programming for Problem Solving,3,0,0,3
+ECE,R25,I YEAR I SEMESTER,4,EC104ES,Introduction to Electrical Engineering,2,0,0,2
+ECE,R25,I YEAR I SEMESTER,5,ME105ES,Engineering Drawing and Computer Aided Drafting,2,0,2,3
+ECE,R25,I YEAR I SEMESTER,6,EN106HS,English for Skill Enhancement,3,0,0,3
+ECE,R25,I YEAR I SEMESTER,7,PH107BS,Advanced Engineering Physics Lab,0,0,2,1
+ECE,R25,I YEAR I SEMESTER,8,CS108ES,Programming for Problem Solving Lab,0,,2,1
+ECE,R25,I YEAR I SEMESTER,9,EN109HS,English Language and Communication Skills Lab,0,0,2,1
+ECE,R25,I YEAR II SEMESTER,1,MA201BS,Ordinary Differential Equations and Vector Calculus,3,0,0,3
+ECE,R25,I YEAR II SEMESTER,2,CH202BS,Engineering Chemistry,3,0,0,3
+ECE,R25,I YEAR II SEMESTER,3,CS203ES,Python Programming,3,0,0,3
+ECE,R25,I YEAR II SEMESTER,4,CS204ES,Data Structures,3,0,0,3
+ECE,R25,I YEAR II SEMESTER,5,EE205ES,Network Analysis and Synthesis,3,0,0,3
+ECE,R25,I YEAR II SEMESTER,6,CH206BS,Engineering Chemistry Lab,0,0,2,1
+ECE,R25,I YEAR II SEMESTER,7,EC207ES,Applied Python Programming Lab,0,0,2,1
+ECE,R25,I YEAR II SEMESTER,8,CS208ES,Data Structures Lab,0,0,2,1
+ECE,R25,I YEAR II SEMESTER,9,EC209ES,Basic Electrical Engineering Lab,0,0,2,1
+ECE,R25,I YEAR II SEMESTER,10,ME210ES,Engineering Workshop,0,0,2,1
+ECE,R25,II YEAR I SEMESTER,1,EC301PC,Probability Theory and Stochastic Processes,3,0,0,3
+ECE,R25,II YEAR I SEMESTER,2,EC302PC,Signals and Systems,3,0,0,3
+ECE,R25,II YEAR I SEMESTER,3,EC303PC,Electronic Devices and Circuits,3,0,0,3
+ECE,R25,II YEAR I SEMESTER,4,EC304PC,Digital Logic Design,3,0,0,3
+ECE,R25,II YEAR I SEMESTER,5,EC305PC,Control Systems,2,0,0,2
+ECE,R25,II YEAR I SEMESTER,6,MS306HS,Innovation and Entrepreneurship,2,0,0,2
+ECE,R25,II YEAR I SEMESTER,7,EC307PC,Modelling and Simulation Lab,0,0,2,1
+ECE,R25,II YEAR I SEMESTER,8,EC308PC,Electronic Devices and Circuits Lab,0,0,2,1
+ECE,R25,II YEAR I SEMESTER,9,EC309PC,Digital Logic Design Lab,0,0,2,1
+ECE,R25,II YEAR I SEMESTER,10,EC310SD,Linux and Shell Scripting,0,0,2,1
+ECE,R25,II YEAR I SEMESTER,11,VA300ES,Environmental Science,1,0,0,1
+ECE,R25,II YEAR II SEMESTER,1,MA401BS,Numerical Methods and Complex Variables,3,0,0,3
+ECE,R25,II YEAR II SEMESTER,2,EC402PC,Electromagnetic Fields and Transmission Lines,3,0,0,3
+ECE,R25,II YEAR II SEMESTER,3,EC403PC,Analog and Digital Communications,3,0,0,3
+ECE,R25,II YEAR II SEMESTER,4,EC404PC,Electronic Circuit Analysis,3,0,0,3
+ECE,R25,II YEAR II SEMESTER,5,EC405PC,Linear and Digital IC Applications,3,0,0,3
+ECE,R25,II YEAR II SEMESTER,6,MA406PC,Computational Mathematics Lab,0,0,2,1
+ECE,R25,II YEAR II SEMESTER,7,EC407PC,Analog and Digital Communications Lab,0,0,2,1
+ECE,R25,II YEAR II SEMESTER,8,EC408PC,Electronic Circuit Analysis Lab,0,0,2,1
+ECE,R25,II YEAR II SEMESTER,9,EC409PC,Linear and Digital IC Applications Lab,0,0,2,1
+ECE,R25,II YEAR II SEMESTER,10,EC410SD,Web and Mobile Applications,0,0,2,1
+ECE,R25,III YEAR I SEMESTER,1,EC501PC,Digital Signal Processing,3,0,0,3
+ECE,R25,III YEAR I SEMESTER,2,EC502PC,RISC and Microcontroller architectures,3,0,0,3
+ECE,R25,III YEAR I SEMESTER,3,EC503PC,CMOS VLSI Design,3,0,0,3
+ECE,R25,III YEAR I SEMESTER,4,Professional,Elective-I,3,0,0,3
+ECE,R25,III YEAR I SEMESTER,5,Open,Elective-I,2,0,0,2
+ECE,R25,III YEAR I SEMESTER,6,EC504PC,RISC and Microcontroller Interfacing Laboratory,0,0,2,1
+ECE,R25,III YEAR I SEMESTER,7,EC505PC,CMOS VLSI Design Laboratory,0,0,2,1
+ECE,R25,III YEAR I SEMESTER,8,EC506PC,Digital Signal Processing Laboratory,0,0,2,1
+ECE,R25,III YEAR I SEMESTER,9,EC507PC,Field-based Research Project,0,0,4,2
+ECE,R25,III YEAR I SEMESTER,10,EC508SD,FPGA based System Design,0,0,2,1
+ECE,R25,III YEAR I SEMESTER,11,VA500HS,Indian Knowledge System,1,0,0,1
+ECE,R25,III YEAR II SEMESTER,1,EC601PC,Antenna Design and Wave Propagation,3,0,0,3
+ECE,R25,III YEAR II SEMESTER,2,EC602PC,IoT Architectures and Protocols,3,0,0,3
+ECE,R25,III YEAR II SEMESTER,3,MS603HS,Business Economics and Financial Analysis,3,0,0,3
+ECE,R25,III YEAR II SEMESTER,4,Professional,Elective-II,3,0,0,3
+ECE,R25,III YEAR II SEMESTER,5,Open,Elective – II,2,0,0,2
+ECE,R25,III YEAR II SEMESTER,6,EC604PC,Advanced Communications Lab,0,0,2,1
+ECE,R25,III YEAR II SEMESTER,7,EC605PC,IoT Architectures and Protocols Laboratory,0,0,2,1
+ECE,R25,III YEAR II SEMESTER,8,EC606PC,VLSI Design Verification Laboratory,0,0,2,1
+ECE,R25,III YEAR II SEMESTER,9,EN607HS,English for Employability Skills Lab,0,0,2,1
+ECE,R25,III YEAR II SEMESTER,10,EC608SD,45G Practical Lab/Robotic Lab/Drone Lab,0,0,2,1
+ECE,R25,IV YEAR I SEMESTER,1,EC701PC,Microwave and Optical Communications,3,0,0,3
+ECE,R25,IV YEAR I SEMESTER,2,EC702PC,Embedded System Design,3,0,0,3
+ECE,R25,IV YEAR I SEMESTER,3,MS703HS,Fundamentals of Management for Engineers,3,0,0,3
+ECE,R25,IV YEAR I SEMESTER,4,Professional,Elective-III,3,0,0,3
+ECE,R25,IV YEAR I SEMESTER,5,Professional,Elective – IV,3,0,0,3
+ECE,R25,IV YEAR I SEMESTER,6,Open,Elective – III,2,0,0,2
+ECE,R25,IV YEAR I SEMESTER,7,EC704PC,Microwave and Optical Communications Laboratory,0,0,2,1
+ECE,R25,IV YEAR I SEMESTER,8,EC705PC,Embedded System Design Lab,0,0,2,1
+ECE,R25,IV YEAR I SEMESTER,9,EC706PC,Industry Oriented Mini Project/ Internship,0,0,4,2
+ECE,R25,IV YEAR II SEMESTER,1,Professional,Elective – V,3,0,0,3
+ECE,R25,IV YEAR II SEMESTER,2,Professional,Elective – VI,3,0,0,3
+ECE,R25,IV YEAR II SEMESTER,3,EC801PC,Project Work,0,0,42,14
+CSIT,R25,I YEAR I SEMESTER,1,BSC,Matrices and Calculus,3,1,0,4
+CSIT,R25,I YEAR I SEMESTER,2,BSC,Advanced Engineering Physics,3,0,0,3
+CSIT,R25,I YEAR I SEMESTER,3,MEC,Engineering Graphics and Computer Aided Drafting,2,0,2,3
+CSIT,R25,I YEAR I SEMESTER,4,Basic,Electrical Engineering,3,0,0,3
+CSIT,R25,I YEAR I SEMESTER,5,CSC,Programming for Problem Solving,3,0,0,3
+CSIT,R25,I YEAR I SEMESTER,6,BSC,Advanced Engineering Physics Lab,0,0,2,1
+CSIT,R25,I YEAR I SEMESTER,7,CSC,Programming for Problem Solving Lab,0,0,2,1
+CSIT,R25,I YEAR I SEMESTER,8,Python,Programming Lab,0,0,2,1
+CSIT,R25,I YEAR I SEMESTER,9,HSC,Basic Electrical Engineering Lab,0,0,2,1
+CSIT,R25,I YEAR II SEMESTER,1,BSC,Ordinary Differential Equations and Vector Calculus,3,0,0,3
+CSIT,R25,I YEAR II SEMESTER,2,BSC,Engineering Chemistry,3,0,0,3
+CSIT,R25,I YEAR II SEMESTER,3,HSC,English for Skill Enhancement,3,0,0,3
+CSIT,R25,I YEAR II SEMESTER,4,Electronic,Devices and Circuits,3,0,0,3
+CSIT,R25,I YEAR II SEMESTER,5,Data,Structures,3,0,0,3
+CSIT,R25,I YEAR II SEMESTER,6,BSC,Engineering Chemistry Lab,0,0,2,1
+CSIT,R25,I YEAR II SEMESTER,7,Data,Structures Lab,0,0,2,1
+CSIT,R25,I YEAR II SEMESTER,8,HSC,English Language and Communication Skills Lab,0,0,2,1
+CSIT,R25,I YEAR II SEMESTER,9,MEC,Engineering Workshop,0,0,2,1
+CSIT,R25,I YEAR II SEMESTER,10,IT,Workshop,0,0,2,1
+CSIT,R25,II YEAR I SEMESTER,1,BSC,Mathematical and Statistical Foundation,3,0,0,3
+CSIT,R25,II YEAR I SEMESTER,2,JAVA,Programming,3,0,0,3
+CSIT,R25,II YEAR I SEMESTER,3,Operating,Systems,3,0,0,3
+CSIT,R25,II YEAR I SEMESTER,4,Computer,Organization and Microprocessor,3,0,0,3
+CSIT,R25,II YEAR I SEMESTER,5,Introduction,to IoT,3,0,0,3
+CSIT,R25,II YEAR I SEMESTER,6,Computational,Mathematics Laboratory,0,0,2,1
+CSIT,R25,II YEAR I SEMESTER,7,JAVA,Programming Laboratory,0,0,2,1
+CSIT,R25,II YEAR I SEMESTER,8,Operating,Systems Laboratory,0,0,2,1
+CSIT,R25,II YEAR I SEMESTER,9,Internet,of Things Laboratory,0,0,2,1
+CSIT,R25,II YEAR I SEMESTER,10,SDC,Data Visualization-R Programming/Power BI/,0,0,2,1
+CSIT,R25,II YEAR II SEMESTER,1,Discrete,Mathematics,3,0,0,3
+CSIT,R25,II YEAR II SEMESTER,2,Data,Communications and Computer Networks,3,0,0,3
+CSIT,R25,II YEAR II SEMESTER,3,Database,Management Systems,3,0,0,3
+CSIT,R25,II YEAR II SEMESTER,4,Web,Programming,3,0,0,3
+CSIT,R25,II YEAR II SEMESTER,5,Formal,Languages and Automata Theory,3,0,0,3
+CSIT,R25,II YEAR II SEMESTER,6,Innovation,and Entrepreneurship,2,0,0,2
+CSIT,R25,II YEAR II SEMESTER,7,Computer,Networks Laboratory,0,0,2,1
+CSIT,R25,II YEAR II SEMESTER,8,Database,Management Systems Laboratory,0,0,2,1
+CSIT,R25,II YEAR II SEMESTER,9,Web,Programming Laboratory,0,0,2,1
+CSIT,R25,II YEAR II SEMESTER,10,SDC,"Node JS/ React JS/ Django, UI Design - Flutter",0,0,2,1
+CSIT,R25,II YEAR II SEMESTER,11,,*MC          Indian Knowledge Systems,1,0,0,1
+CSIT,R25,III YEAR I SEMESTER,1,Machine,Learning,3,0,0,3
+CSIT,R25,III YEAR I SEMESTER,2,Algorithm,Design and Analysis,3,0,0,3
+CSIT,R25,III YEAR I SEMESTER,3,Mobile,Application Development,3,0,0,3
+CSIT,R25,III YEAR I SEMESTER,4,Professional,Elective-I,3,0,0,3
+CSIT,R25,III YEAR I SEMESTER,5,Open,Elective-I,2,0,0,2
+CSIT,R25,III YEAR I SEMESTER,6,Machine,Learning Laboratory,0,0,2,1
+CSIT,R25,III YEAR I SEMESTER,7,Algorithm,Design and Analysis Laboratory,0,0,2,1
+CSIT,R25,III YEAR I SEMESTER,8,Mobile,Application Development Laboratory,0,0,2,1
+CSIT,R25,III YEAR I SEMESTER,9,SDC,Full Stack Development,0,0,2,1
+CSIT,R25,III YEAR II SEMESTER,1,Software,Engineering,3,0,0,3
+CSIT,R25,III YEAR II SEMESTER,2,Compiler,Design,3,0,0,3
+CSIT,R25,III YEAR II SEMESTER,3,Business,Economics and Financial Analysis,3,0,0,3
+CSIT,R25,III YEAR II SEMESTER,4,Professional,Elective-II,3,0,0,3
+CSIT,R25,III YEAR II SEMESTER,5,Open,Elective-II,2,0,0,2
+CSIT,R25,III YEAR II SEMESTER,6,Software,Engineering Laboratory,0,0,2,1
+CSIT,R25,III YEAR II SEMESTER,7,Compiler,Design Laboratory,0,0,2,1
+CSIT,R25,III YEAR II SEMESTER,8,Development,Operations (DevOps) Laboratory,0,0,2,1
+CSIT,R25,III YEAR II SEMESTER,9,HSC,English for Employability Skills Lab,0,0,2,1
+CSIT,R25,III YEAR II SEMESTER,10,SDC,Big data-Spark,0,0,2,1
+CSIT,R25,III YEAR II SEMESTER,11,MC*,Environmental Science,1,0,0,1
+CSIT,R25,IV YEAR I SEMESTER,1,Information,Security,3,0,0,3
+CSIT,R25,IV YEAR I SEMESTER,2,Deep,Learning,3,0,0,3
+CSIT,R25,IV YEAR I SEMESTER,3,Fundamentals,of Management,3,0,0,3
+CSIT,R25,IV YEAR I SEMESTER,4,Professional,Elective-III,3,0,0,3
+CSIT,R25,IV YEAR I SEMESTER,5,Professional,Elective-IV,3,0,0,3
+CSIT,R25,IV YEAR I SEMESTER,6,Open,Elective – III,2,0,0,2
+CSIT,R25,IV YEAR I SEMESTER,7,Information,Security Laboratory,0,0,2,1
+CSIT,R25,IV YEAR I SEMESTER,8,Deep,Learning Laboratory,0,0,2,1
+CSIT,R25,IV YEAR I SEMESTER,9,Industry,Oriented Mini Project/ Summer Internship,0,0,4,2
+CSIT,R25,IV YEAR II SEMESTER,1,Professional,Elective – V,3,0,0,3
+CSIT,R25,IV YEAR II SEMESTER,2,Professional,Elective – VI,3,0,0,3
+CSIT,R25,IV YEAR II SEMESTER,3,Project,Work,0,0,28,14
+EEE,R25,I YEAR I SEMESTER,1,BSC,Matrices and Calculus,3,1,0,4
+EEE,R25,I YEAR I SEMESTER,2,BSC,Engineering Chemistry,3,0,0,3
+EEE,R25,I YEAR I SEMESTER,3,CSC,C and Data Structures,3,0,0,3
+EEE,R25,I YEAR I SEMESTER,4,ESC,Analog Electronics,2,0,0,2
+EEE,R25,I YEAR I SEMESTER,5,ESC,Electrical Circuits - I,3,0,0,3
+EEE,R25,I YEAR I SEMESTER,6,HSC,English for Skill Enhancement,3,0,0,3
+EEE,R25,I YEAR I SEMESTER,7,BSC,Engineering Chemistry Laboratory,0,0,2,1
+EEE,R25,I YEAR I SEMESTER,8,CSC,C and Data Structures Laboratory,0,0,2,1
+EEE,R25,I YEAR II SEMESTER,1,BSC,Ordinary Differential Equations and Vector Calculus,3,0,0,3
+EEE,R25,I YEAR II SEMESTER,2,BSC,Applied Physics,3,0,0,3
+EEE,R25,I YEAR II SEMESTER,3,ESC,Electromagnetic fields,2,0,0,2
+EEE,R25,I YEAR II SEMESTER,4,MEC,Engineering Graphics and Computer Aided Drafting,2,0,2,3
+EEE,R25,I YEAR II SEMESTER,5,,Dept. Core    Electrical Circuits - II,3,0,0,3
+EEE,R25,I YEAR II SEMESTER,6,MEC,Engineering Workshop,0,0,2,1
+EEE,R25,I YEAR II SEMESTER,7,CSC,IoT and Python Programming Laboratory 1*,0,,2,2
+EEE,R25,I YEAR II SEMESTER,8,BSC,Applied Physics Laboratory,0,0,2,1
+EEE,R25,I YEAR II SEMESTER,9,ESC,Analog Electronics Laboratory,0,0,2,1
+EEE,R25,I YEAR II SEMESTER,10,ESC,Electrical Circuits Laboratory,0,0,2,1
+EEE,R25,II YEAR I SEMESTER,1,,Dept. Core    Control Systems,3,0,0,3
+EEE,R25,II YEAR I SEMESTER,2,,Dept. Core    Electrical Machines - I,3,0,0,3
+EEE,R25,II YEAR I SEMESTER,3,,Dept. Core    Digital Electronics,3,0,0,3
+EEE,R25,II YEAR I SEMESTER,4,,Dept. Core    Power Systems - I,3,0,0,3
+EEE,R25,II YEAR I SEMESTER,5,,Dept. Core    Electrical Measurements and Sensors,3,0,0,3
+EEE,R25,II YEAR I SEMESTER,6,Innovation,and Entrepreneurship,2,0,0,2
+EEE,R25,II YEAR I SEMESTER,11,MC,Environmental Science,1,0,0,0
+EEE,R25,II YEAR II SEMESTER,1,BSC,Numerical Methods and Complex Variables,3,1,0,4
+EEE,R25,II YEAR II SEMESTER,2,,Dept. Core    Electrical Machines - II,3,0,0,3
+EEE,R25,II YEAR II SEMESTER,3,,Dept. Core    Power Systems - II,3,0,0,3
+EEE,R25,II YEAR II SEMESTER,4,,Dept. Core    Power Electronics,3,0,0,3
+EEE,R25,II YEAR II SEMESTER,5,,Dept. Core    Microprocessors and Microcontrollers,3,0,0,3
+EEE,R25,II YEAR II SEMESTER,8,Microprocessors,and Microcontrollers Laboratory,0,0,2,1
+EEE,R25,III YEAR I SEMESTER,1,,Dept. Core     Power Semiconductor Drives,3,0,0,3
+EEE,R25,III YEAR I SEMESTER,2,,Dept. Core     Power System Protection,3,1,0,4
+EEE,R25,III YEAR I SEMESTER,3,,Dept. Core     Power Electronics for Renewable Energy Systems,3,0,0,3
+EEE,R25,III YEAR I SEMESTER,4,Professional,Elective-I,3,0,0,3
+EEE,R25,III YEAR I SEMESTER,5,Open,Elective-I,2,0,0,2
+EEE,R25,III YEAR I SEMESTER,9,Field-Based,Project/Internship,0,0,4,2
+EEE,R25,III YEAR I SEMESTER,11,MC,Indian Knowledge System,1,0,0,0
+EEE,R25,III YEAR II SEMESTER,1,,Dept. Core       Power System Operation and Control,3,1,0,4
+EEE,R25,III YEAR II SEMESTER,2,,Dept. Core       Hybrid Electric Vehicles,3,0,0,3
+EEE,R25,III YEAR II SEMESTER,3,Business,Economics and Financial Analysis/,3,0,0,3
+EEE,R25,III YEAR II SEMESTER,4,Professional,Elective-II,3,0,0,3
+EEE,R25,III YEAR II SEMESTER,5,Open,Elective – II,2,0,0,2
+EEE,R25,III YEAR II SEMESTER,9,HSC,English for Employability Skills Laboratory,0,0,2,1
+EEE,R25,IV YEAR I SEMESTER,1,,Dept. Core     Smart Metering and Communication Protocols,3,0,0,3
+EEE,R25,IV YEAR I SEMESTER,2,,Dept. Core     EV Charging Infrastructure,3,0,0,3
+EEE,R25,IV YEAR I SEMESTER,3,Business,Economics and Financial Analysis/,3,0,0,3
+EEE,R25,IV YEAR I SEMESTER,4,Professional,Elective - III,3,0,0,3
+EEE,R25,IV YEAR I SEMESTER,5,Professional,Elective – IV,3,0,0,3
+EEE,R25,IV YEAR I SEMESTER,6,Open,Elective – III,2,0,0,2
+EEE,R25,IV YEAR I SEMESTER,9,Industry,Oriented Mini Project/ Summer Internship,0,0,4,2
+EEE,R25,IV YEAR II SEMESTER,1,Professional,Elective – V,3,0,0,3
+EEE,R25,IV YEAR II SEMESTER,2,Professional,Elective – VI,3,0,0,3
+EEE,R25,IV YEAR II SEMESTER,3,Project,Work,0,0,28,14
+ME,R25,I YEAR I SEMESTER,1,MA101BS,Matrices and Calculus,3,1,0,4
+ME,R25,I YEAR I SEMESTER,2,PH102BS,Advanced Engineering Physics,3,0,0,3
+ME,R25,I YEAR I SEMESTER,3,ME103ES,C Programming and Data Structures,3,0,0,3
+ME,R25,I YEAR I SEMESTER,4,ME104ES,Engineering Mechanics,3,0,0,3
+ME,R25,I YEAR I SEMESTER,5,EN105HS,English for Skill Enhancement,3,0,0,3
+ME,R25,I YEAR I SEMESTER,6,PH106BS,Advanced Engineering Physics Lab,0,0,2,1
+ME,R25,I YEAR I SEMESTER,7,CS107ES,C Programming and Data Structures Lab,0,0,2,1
+ME,R25,I YEAR I SEMESTER,8,ME108ES,Engineering Workshop,0,0,2,1
+ME,R25,I YEAR I SEMESTER,9,EN109HS,English Language and Communication Skills Lab,0,0,2,1
+ME,R25,I YEAR II SEMESTER,1,MA201BS,Ordinary Differential Equations and Vector Calculus,3,0,0,3
+ME,R25,I YEAR II SEMESTER,2,CH202BS,Applied Chemistry,3,0,0,3
+ME,R25,I YEAR II SEMESTER,3,CS203ES,Python Programming,3,0,0,3
+ME,R25,I YEAR II SEMESTER,4,EE204ES,Elements of Electrical and Electronics Engineering,3,0,0,3
+ME,R25,I YEAR II SEMESTER,5,ME205ES,Thermodynamics,3,0,0,3
+ME,R25,I YEAR II SEMESTER,6,ME206ES,Engineering Drawing and Computer Aided Drafting,2,0,2,3
+ME,R25,I YEAR II SEMESTER,7,CH207BS,Chemistry Lab for Engineers,0,0,2,1
+ME,R25,I YEAR II SEMESTER,8,CS208ES,Python Programming Lab,0,0,2,1
+ME,R25,II YEAR I SEMESTER,1,MA301BS,"Probability, Statistics and Complex Variables",3,0,0,3
+ME,R25,II YEAR I SEMESTER,2,ME302PC,Mechanics of Solids,3,0,0,3
+ME,R25,II YEAR I SEMESTER,3,ME303PC,Material Science and Metallurgy,3,0,0,3
+ME,R25,II YEAR I SEMESTER,4,ME304PC,Production Technology,3,0,0,3
+ME,R25,II YEAR I SEMESTER,5,ME305PC,Fluid Mechanics and Hydraulic Machines,3,0,0,3
+ME,R25,II YEAR I SEMESTER,6,MA306PC,Computational Mathematics Lab,0,0,2,1
+ME,R25,II YEAR I SEMESTER,7,ME307PC,Production Technology Lab,0,0,2,1
+ME,R25,II YEAR I SEMESTER,8,ME308PC,Material Science and Mechanics of Solids Lab,0,0,2,1
+ME,R25,II YEAR I SEMESTER,9,ME309PC,Fluid Mechanics and Hydraulic Machines Lab,0,0,2,1
+ME,R25,II YEAR I SEMESTER,10,ME310SD,Design Thinking and Ideation,0,0,2,1
+ME,R25,II YEAR II SEMESTER,1,ME401PC,Kinematics of Machinery,3,0,0,3
+ME,R25,II YEAR II SEMESTER,2,ME402PC,Thermal Engineering - I,3,0,0,3
+ME,R25,II YEAR II SEMESTER,3,ME403PC,Design of Machine Elements,3,0,0,3
+ME,R25,II YEAR II SEMESTER,4,ME404PC,Instrumentation and Control Systems,3,0,0,3
+ME,R25,II YEAR II SEMESTER,5,ME405PC,Operations Research,2,0,0,2
+ME,R25,II YEAR II SEMESTER,6,MS406HS,Innovation and Entrepreneurship,2,0,0,2
+ME,R25,II YEAR II SEMESTER,8,ME408PC,Instrumentation and Control Systems Lab,0,0,2,1
+ME,R25,II YEAR II SEMESTER,9,ME409PC,Thermal Engineering-I Lab,0,0,2,1
+ME,R25,II YEAR II SEMESTER,10,ME410SD,Data Analytics and Python for Engineers,0,0,2,1
+ME,R25,II YEAR II SEMESTER,11,VA400HS,Indian Knowledge System,1,0,0,1
+ME,R25,III YEAR I SEMESTER,1,ME501PC,Design of Transmission Elements,3,0,0,3
+ME,R25,III YEAR I SEMESTER,2,ME502PC,Thermal Engineering - II,3,0,0,3
+ME,R25,III YEAR I SEMESTER,3,ME503PC,Metrology and Machine Tools,3,0,0,3
+ME,R25,III YEAR I SEMESTER,4,Professional,Elective-I,3,0,0,3
+ME,R25,III YEAR I SEMESTER,5,Open,Elective-I,2,0,0,2
+ME,R25,III YEAR I SEMESTER,6,ME504PC,Thermal Engineering - II Lab,0,0,2,1
+ME,R25,III YEAR I SEMESTER,7,ME505PC,Metrology and Machine Tools Lab,0,0,2,1
+ME,R25,III YEAR I SEMESTER,8,ME506PC,Modelling and Drafting Lab,0,0,2,1
+ME,R25,III YEAR I SEMESTER,9,ME507PC,Field Based Research Project,0,0,4,2
+ME,R25,III YEAR I SEMESTER,10,ME508SD,Modelling and Simulation Tools,0,0,2,1
+ME,R25,III YEAR II SEMESTER,1,ME601PC,Dynamics of Machinery,3,0,0,3
+ME,R25,III YEAR II SEMESTER,2,ME602PC,Heat Transfer,3,0,0,3
+ME,R25,III YEAR II SEMESTER,3,MS603HS,Business Economics and Financial Analysis,3,0,0,3
+ME,R25,III YEAR II SEMESTER,4,Professional,Elective-II,3,0,0,3
+ME,R25,III YEAR II SEMESTER,5,Open,Elective – II,2,0,0,2
+ME,R25,III YEAR II SEMESTER,6,ME604PC,Heat Transfer Lab,0,0,2,1
+ME,R25,III YEAR II SEMESTER,7,ME605PC,Applied Manufacturing Lab,0,0,2,1
+ME,R25,III YEAR II SEMESTER,8,ME606PC,Kinematics and Dynamics Lab,0,0,2,1
+ME,R25,III YEAR II SEMESTER,9,EN607HS,Advanced English Communication Skills Lab,0,0,2,1
+ME,R25,III YEAR II SEMESTER,10,ME608SD,Troubleshooting of Mechanical Systems,0,0,2,1
+ME,R25,III YEAR II SEMESTER,11,VA600ES,Environmental Science,1,0,0,1
+ME,R25,IV YEAR I SEMESTER,1,ME701PC,Finite Element Methods,3,0,0,3
+ME,R25,IV YEAR I SEMESTER,2,ME702PC,Robotics and Automation,3,0,0,3
+ME,R25,IV YEAR I SEMESTER,3,ME703PC,Industrial Engineering and Management,3,0,0,3
+ME,R25,IV YEAR I SEMESTER,4,Professional,Elective - III,3,0,0,3
+ME,R25,IV YEAR I SEMESTER,5,Professional,Elective – IV,3,0,0,3
+ME,R25,IV YEAR I SEMESTER,6,Open,Elective – III,2,0,0,2
+ME,R25,IV YEAR I SEMESTER,7,ME704PC,Computer Aided Analysis Lab,0,0,2,1
+ME,R25,IV YEAR I SEMESTER,8,ME705PC,Robotics and Automation Lab,0,0,2,1
+ME,R25,IV YEAR I SEMESTER,9,ME706PC,Industry Oriented Mini Project/ Internship,0,0,4,2
+ME,R25,IV YEAR II SEMESTER,1,Professional,Elective – V,3,0,0,3
+ME,R25,IV YEAR II SEMESTER,2,Professional,Elective – VI,3,0,0,3
+ME,R25,IV YEAR II SEMESTER,3,ME801PC,Project Work,0,0,28,14
+CIVIL,R25,I YEAR I SEMESTER,1,MA101BS,Matrices and Calculus,3,1,0,4
+CIVIL,R25,I YEAR I SEMESTER,2,PH102BS,Advanced Engineering Physics,3,0,0,3
+CIVIL,R25,I YEAR I SEMESTER,3,ME103ES,C Programming and Data Structures,3,0,0,3
+CIVIL,R25,I YEAR I SEMESTER,4,EN104HS,English for Skill Enhancement,3,0,0,3
+CIVIL,R25,I YEAR I SEMESTER,5,ME105ES,Engineering Drawing and Computer Aided Drafting,2,0,2,3
+CIVIL,R25,I YEAR I SEMESTER,6,PH106BS,Advanced Engineering Physics Lab,0,0,2,1
+CIVIL,R25,I YEAR I SEMESTER,7,CS107ES,C Programming and Data Structures Lab,0,0,2,1
+CIVIL,R25,I YEAR I SEMESTER,8,ME108ES,Engineering Workshop,0,0,2,1
+CIVIL,R25,I YEAR I SEMESTER,9,EN109HS,English Language and Communication Skills Lab,0,0,2,1
+CIVIL,R25,I YEAR II SEMESTER,1,MA201BS,Ordinary Differential Equations and Vector Calculus,3,0,0,3
+CIVIL,R25,I YEAR II SEMESTER,2,CH202BS,Applied Chemistry,3,0,0,3
+CIVIL,R25,I YEAR II SEMESTER,3,CS203ES,Python Programming,3,0,0,3
+CIVIL,R25,I YEAR II SEMESTER,4,EE204ES,Elements of Electrical and Electronics Engineering,3,0,0,3
+CIVIL,R25,I YEAR II SEMESTER,5,CE205PC,Building Planning and Construction,3,0,0,3
+CIVIL,R25,I YEAR II SEMESTER,6,CE206PC,Engineering Mechanics for Civil Engineers,3,0,0,3
+CIVIL,R25,I YEAR II SEMESTER,7,CH207BS,Chemistry Lab for Engineers,0,0,2,1
+CIVIL,R25,I YEAR II SEMESTER,8,CS208ES,Python Programming Lab,0,0,2,1
+CIVIL,R25,II YEAR I SEMESTER,1,MA301BS,Probability and Statistics,3,0,0,3
+CIVIL,R25,II YEAR I SEMESTER,2,CE302PC,Building Materials and Concrete Technology,3,0,0,3
+CIVIL,R25,II YEAR I SEMESTER,3,CE303PC,Strength of Materials,3,0,0,3
+CIVIL,R25,II YEAR I SEMESTER,4,CE304PC,Surveying and Geomatics,3,0,0,3
+CIVIL,R25,II YEAR I SEMESTER,5,CE305PC,Fluid Mechanics,3,0,0,3
+CIVIL,R25,II YEAR I SEMESTER,6,MA306PC,Computational Mathematics Lab,0,0,2,1
+CIVIL,R25,II YEAR I SEMESTER,7,CE307PC,Material Testing Lab,0,0,2,1
+CIVIL,R25,II YEAR I SEMESTER,8,CE308PC,Strength of Materials Lab,0,0,2,1
+CIVIL,R25,II YEAR I SEMESTER,9,CE309PC,Surveying & Geomatics Lab,0,0,2,1
+CIVIL,R25,II YEAR I SEMESTER,10,CE310SD,Design Thinking and Tinkering Lab,0,0,2,1
+CIVIL,R25,II YEAR II SEMESTER,1,CE401PC,Structural Mechanics,3,0,0,3
+CIVIL,R25,II YEAR II SEMESTER,2,CE402PC,Water Resources and Irrigation Engineering,3,0,0,3
+CIVIL,R25,II YEAR II SEMESTER,3,CE403PC,Hydraulics & Hydraulic Machinery,3,0,0,3
+CIVIL,R25,II YEAR II SEMESTER,4,CE404PC,Theory of Structures,3,0,0,3
+CIVIL,R25,II YEAR II SEMESTER,5,CE405PC,Engineering Geology,2,0,0,2
+CIVIL,R25,II YEAR II SEMESTER,6,MS406HS,Innovation and Entrepreneurship,2,0,0,2
+CIVIL,R25,II YEAR II SEMESTER,7,CE407PC,Engineering Geology Lab,0,0,2,1
+CIVIL,R25,II YEAR II SEMESTER,8,CE408PC,Hydraulics & Hydraulic Machinery Lab,0,0,2,1
+CIVIL,R25,II YEAR II SEMESTER,9,CE409PC,Computer Aided Building Drafting Lab,0,0,2,1
+CIVIL,R25,II YEAR II SEMESTER,10,CE410SD,Digital Surveying Lab,0,0,2,1
+CIVIL,R25,II YEAR II SEMESTER,11,VA400HS,Indian Knowledge System,1,0,0,1
+CIVIL,R25,III YEAR I SEMESTER,1,CE501PC,Environmental Engineering,3,0,0,3
+CIVIL,R25,III YEAR I SEMESTER,2,CE502PC,Design of Reinforced Concrete Members,3,0,0,3
+CIVIL,R25,III YEAR I SEMESTER,3,CE503PC,Transportation Engineering,3,0,0,3
+CIVIL,R25,III YEAR I SEMESTER,4,Professional,Elective-I,3,0,0,3
+CIVIL,R25,III YEAR I SEMESTER,5,Open,Elective-I,2,0,0,2
+CIVIL,R25,III YEAR I SEMESTER,6,CE504PC,Environmental Engineering Lab,0,0,2,1
+CIVIL,R25,III YEAR I SEMESTER,7,CE505PC,Computer Aided Design Lab,0,0,2,1
+CIVIL,R25,III YEAR I SEMESTER,8,CE506PC,Highway Materials Lab,0,0,2,1
+CIVIL,R25,III YEAR I SEMESTER,9,CE507PC,Field Based Project/ Internship,0,0,4,2
+CIVIL,R25,III YEAR I SEMESTER,10,CE508SD,Building Information Modelling Lab,0,0,2,1
+CIVIL,R25,III YEAR II SEMESTER,1,CE601PC,Geotechnical Engineering,3,0,0,3
+CIVIL,R25,III YEAR II SEMESTER,2,CE602PC,Design of Steel Structures,3,0,0,3
+CIVIL,R25,III YEAR II SEMESTER,3,CE603PC,Business Economics and Financial Analysis,3,0,0,3
+CIVIL,R25,III YEAR II SEMESTER,4,Professional,Elective-II,3,0,0,3
+CIVIL,R25,III YEAR II SEMESTER,5,Open,Elective – II,2,0,0,2
+CIVIL,R25,III YEAR II SEMESTER,6,CE604PC,Geotechnical Engineering Lab,0,0,2,1
+CIVIL,R25,III YEAR II SEMESTER,7,CE605PC,GIS Lab,0,0,2,1
+CIVIL,R25,III YEAR II SEMESTER,8,CE606PC,Civil Engineering Software Lab,0,0,2,1
+CIVIL,R25,III YEAR II SEMESTER,9,EN607HS,English for Employability Skills Lab,0,0,2,1
+CIVIL,R25,III YEAR II SEMESTER,10,CE608SD,Project Management Software Lab,0,0,2,1
+CIVIL,R25,III YEAR II SEMESTER,11,VS600ES,Environmental Science,1,0,0,1
+CIVIL,R25,IV YEAR I SEMESTER,1,CE701PC,Estimation Quantity Surveying & Valuation,3,0,0,3
+CIVIL,R25,IV YEAR I SEMESTER,2,CE702PC,Foundation Engineering,3,0,0,3
+CIVIL,R25,IV YEAR I SEMESTER,3,MS703HS,Fundamentals of Management,3,0,0,3
+CIVIL,R25,IV YEAR I SEMESTER,4,Professional,Elective-III,3,0,0,3
+CIVIL,R25,IV YEAR I SEMESTER,5,Professional,Elective – IV,3,0,0,3
+CIVIL,R25,IV YEAR I SEMESTER,6,Open,Elective – III,2,0,0,2
+CIVIL,R25,IV YEAR I SEMESTER,7,CE704PC,Quantity Surveying Laboratory,0,0,2,1
+CIVIL,R25,IV YEAR I SEMESTER,8,CE705PC,Computational Lab / IOT Lab,0,0,2,1
+CIVIL,R25,IV YEAR I SEMESTER,9,CE706PC,Industry Oriented Mini Project/ Summer Internship,0,0,4,2
+CIVIL,R25,IV YEAR II SEMESTER,1,Professional,Elective – V,3,0,0,3
+CIVIL,R25,IV YEAR II SEMESTER,2,Professional,Elective – VI,3,0,0,3
+CIVIL,R25,IV YEAR II SEMESTER,3,CE801PC,Project Work,0,0,42,14

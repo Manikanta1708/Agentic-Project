@@ -1,0 +1,10 @@
+Skill,Jobs,Research,Priority,Confidence,Reason
+sql,2074,0,1451.8,1348.1,"Recommended based on industry demand, research trend and knowledge graph evidence."
+rag,1784,28,1257.2,1169.4,"Recommended based on industry demand, research trend and knowledge graph evidence."
+deep learning,468,1,327.9,304.55,"Recommended based on industry demand, research trend and knowledge graph evidence."
+tensorflow,378,0,264.6,245.7,"Recommended based on industry demand, research trend and knowledge graph evidence."
+nlp,353,1,247.4,229.8,"Recommended based on industry demand, research trend and knowledge graph evidence."
+pytorch,295,0,206.5,191.75,"Recommended based on industry demand, research trend and knowledge graph evidence."
+llm,94,81,90.1,89.45,"Recommended based on industry demand, research trend and knowledge graph evidence."
+mlops,80,105,87.5,88.75,"Recommended based on industry demand, research trend and knowledge graph evidence."
+knowledge graph,25,105,49.0,53.0,"Recommended based on industry demand, research trend and knowledge graph evidence."

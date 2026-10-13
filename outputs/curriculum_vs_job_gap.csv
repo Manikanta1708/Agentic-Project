@@ -1,0 +1,57 @@
+skill,curriculum_count,research_count,job_count,gap_score
+python,1.0,0.0,2493.0,2492.0
+sql,1.0,0.0,2074.0,2073.0
+machine learning,1.0,21.0,1973.0,1972.0
+rag,1.0,28.0,1784.0,1783.0
+aws,1.0,1.0,771.0,770.0
+spark,0.0,0.0,615.0,615.0
+deep learning,1.0,1.0,468.0,467.0
+data engineering,0.0,0.0,403.0,403.0
+tensorflow,1.0,0.0,378.0,377.0
+nlp,1.0,1.0,353.0,352.0
+big data,0.0,1.0,325.0,325.0
+pytorch,1.0,0.0,295.0,294.0
+scikit-learn,1.0,0.0,249.0,248.0
+time series,0.0,1.0,203.0,203.0
+hadoop,0.0,0.0,193.0,193.0
+gcp,1.0,0.0,169.0,168.0
+azure,1.0,0.0,168.0,167.0
+computer vision,1.0,0.0,166.0,165.0
+docker,0.0,0.0,126.0,126.0
+llm,2.0,81.0,94.0,92.0
+reinforcement learning,0.0,1.0,84.0,84.0
+mlops,0.0,105.0,80.0,80.0
+kubernetes,0.0,0.0,78.0,78.0
+bert,0.0,2.0,51.0,51.0
+recommendation systems,0.0,2.0,51.0,51.0
+transformers,0.0,1.0,30.0,30.0
+knowledge graph,1.0,105.0,25.0,24.0
+neo4j,0.0,0.0,22.0,22.0
+gpt,0.0,5.0,17.0,17.0
+generative ai,0.0,10.0,15.0,15.0
+graph neural networks,0.0,0.0,6.0,6.0
+vector database,0.0,0.0,4.0,4.0
+langchain,0.0,1.0,3.0,3.0
+faiss,0.0,0.0,2.0,2.0
+prompt engineering,0.0,1.0,2.0,2.0
+chromadb,0.0,0.0,0.0,0.0
+llmops,0.0,57.0,0.0,0.0
+pinecone,0.0,0.0,0.0,0.0
+agentic ai,0.0,44.0,0.0,0.0
+llamaindex,0.0,0.0,0.0,0.0
+federated learning,1.0,,0.0,-1.0
+database,1.0,,0.0,-1.0
+data structures,1.0,,0.0,-1.0
+chatbots,1.0,,0.0,-1.0
+data analytics,1.0,,0.0,-1.0
+data mining,1.0,,0.0,-1.0
+data visualization,1.0,,0.0,-1.0
+c programming,1.0,,0.0,-1.0
+artificial intelligence,1.0,,0.0,-1.0
+algorithms,1.0,,0.0,-1.0
+information retrieval,1.0,,0.0,-1.0
+image processing,1.0,,0.0,-1.0
+operating systems,1.0,,0.0,-1.0
+networking,1.0,,0.0,-1.0
+pandas,1.0,,0.0,-1.0
+text mining,1.0,,0.0,-1.0

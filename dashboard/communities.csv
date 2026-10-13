@@ -1,0 +1,297 @@
+node,type,community
+computer networks,Skill,0
+c++,Skill,0
+software engineering,Skill,0
+statistics,Skill,0
+digital forensics,Skill,0
+devops,Skill,0
+algorithms,Skill,0
+scripting,Skill,0
+data mining,Skill,0
+management,Skill,0
+flutter,Skill,0
+quantum computing,Skill,0
+video analytics,Skill,0
+nature inspired computing,Skill,0
+artificial intelligence,Skill,0
+data science,Skill,0
+distributed database,Skill,0
+human computer interaction,Skill,0
+operating systems,Skill,0
+programming languages,Skill,0
+cyber security,Skill,0
+social network analysis,Skill,0
+mobile computing,Skill,0
+mathematics,Skill,0
+automata,Skill,0
+agile,Skill,0
+wireless networks,Skill,0
+distributed systems,Skill,0
+pandas,Skill,0
+data warehousing,Skill,0
+spark,Skill,0
+expert systems,Skill,0
+kafka,Skill,0
+distributed computing,Skill,0
+prolog,Skill,0
+advanced operating systems,Skill,0
+django,Skill,0
+database,Skill,0
+blockchain,Skill,0
+css,Skill,0
+discrete mathematics,Skill,0
+big data,Skill,0
+information retrieval,Skill,0
+hci,Skill,0
+cryptography,Skill,0
+c programming,Skill,0
+augmented reality,Skill,0
+complexity theory,Skill,0
+AIML,Branch,0
+multimedia databases,Skill,0
+computer architecture,Skill,0
+parallel computing,Skill,0
+mobile development,Skill,0
+game theory,Skill,0
+html,Skill,0
+information security,Skill,0
+intrusion detection,Skill,0
+knowledge representation,Skill,0
+soft computing,Skill,0
+computer organization,Skill,0
+virtual reality,Skill,0
+compiler design,Skill,0
+biometrics,Skill,0
+pyswip,Skill,0
+cyber forensics,Skill,0
+image processing,Skill,0
+graph theory,Skill,0
+semantic web,Skill,0
+computer hardware,Skill,0
+full stack development,Skill,0
+organizational behavior,Skill,0
+software testing,Skill,0
+nodejs,Skill,0
+lisp,Skill,0
+computer graphics,Skill,0
+conversational ai,Skill,0
+robotics,Skill,0
+cognitive computing,Skill,0
+social media analytics,Skill,0
+web development,Skill,0
+rpa,Skill,0
+ad hoc networks,Skill,0
+javascript,Skill,0
+chatbots,Skill,0
+storage management,Skill,0
+iot,Skill,0
+database management,Skill,0
+data analytics,Skill,0
+mobile app development,Skill,0
+reasoning,Skill,0
+cloud computing,Skill,0
+sensor networks,Skill,0
+randomized algorithms,Skill,0
+data privacy,Skill,0
+computer vision,Skill,0
+etl,Skill,0
+data structures,Skill,0
+business economics,Skill,0
+financial analysis,Skill,0
+digital electronics,Skill,0
+speech processing,Skill,0
+computer fundamentals,Skill,0
+data stream mining,Skill,0
+database security,Skill,0
+oop,Skill,0
+power bi,Skill,0
+CSE,Branch,0
+full stack,Skill,0
+high performance computing,Skill,0
+IT,Branch,0
+pattern recognition,Skill,0
+DS,Branch,0
+embedded systems,Skill,0
+evolutionary computing,Skill,0
+data visualization,Skill,0
+video processing,Skill,0
+distributed databases,Skill,0
+r programming,Skill,0
+java,Skill,0
+social media mining,Skill,0
+react,Skill,0
+federated machine learning,Skill,0
+internship,Skill,0
+talend,Skill,0
+project management,Skill,0
+real time systems,Skill,0
+power plants,Skill,1
+MECH,Branch,1
+solar energy,Skill,1
+production planning,Skill,1
+cfd,Skill,1
+dynamics,Skill,1
+finite element analysis,Skill,1
+materials engineering,Skill,1
+gas turbines,Skill,1
+mechatronics,Skill,1
+solid mechanics,Skill,1
+turbomachinery,Skill,1
+operations research,Skill,1
+reengineering,Skill,1
+kinematics,Skill,1
+hvac,Skill,1
+fuzzy logic,Skill,1
+material science,Skill,1
+power engineering,Skill,1
+machine design,Skill,1
+3d printing,Skill,1
+cae,Skill,1
+composite materials,Skill,1
+thermal engineering,Skill,1
+mechanical engineering,Skill,1
+fluid power,Skill,1
+automation,Skill,1
+thermodynamics,Skill,1
+microprocessors,Skill,1
+heat transfer,Skill,1
+internal combustion engines,Skill,1
+vibration analysis,Skill,1
+industrial management,Skill,1
+cam,Skill,1
+machine tools,Skill,1
+metrology,Skill,1
+quality management,Skill,1
+jet propulsion,Skill,1
+electric vehicles,Skill,1
+advanced manufacturing,Skill,1
+energy management,Skill,1
+lubrication,Skill,1
+industry 4.0,Skill,1
+renewable energy,Skill,1
+refrigeration,Skill,1
+industrial automation,Skill,1
+automobile engineering,Skill,1
+artificial neural networks,Skill,1
+foundation engineering,Skill,2
+civil engineering software,Skill,2
+earthquake engineering,Skill,2
+ground improvement,Skill,2
+concrete technology,Skill,2
+business analytics,Skill,2
+cad,Skill,2
+water resources,Skill,2
+geotechnical engineering,Skill,2
+geomatics,Skill,2
+steel structures,Skill,2
+green buildings,Skill,2
+retaining structures,Skill,2
+quantity surveying,Skill,2
+building materials,Skill,2
+manufacturing,Skill,2
+groundwater hydrology,Skill,2
+air pollution,Skill,2
+structural analysis,Skill,2
+soil mechanics,Skill,2
+civil engineering,Skill,2
+environmental impact assessment,Skill,2
+pavement engineering,Skill,2
+slope stability,Skill,2
+smart cities,Skill,2
+workshop practice,Skill,2
+electrical engineering,Skill,2
+prestressed concrete,Skill,2
+research,Skill,2
+strength of materials,Skill,2
+solid waste management,Skill,2
+construction management,Skill,2
+hydraulic structures,Skill,2
+hydraulic machinery,Skill,2
+industry project,Skill,2
+CIVIL,Branch,2
+fluid mechanics,Skill,2
+pavement design,Skill,2
+engineering geology,Skill,2
+hydraulics,Skill,2
+environmental engineering,Skill,2
+material testing,Skill,2
+engineering mechanics,Skill,2
+reinforced concrete,Skill,2
+surveying,Skill,2
+transportation engineering,Skill,2
+transport infrastructure,Skill,2
+control systems,Skill,3
+wireless communication,Skill,3
+network analysis,Skill,3
+5g,Skill,3
+digital signal processing,Skill,3
+cmos,Skill,3
+integrated circuits,Skill,3
+healthcare electronics,Skill,3
+electronics,Skill,3
+electronic measurements,Skill,3
+optical communication,Skill,3
+logic design,Skill,3
+electronic devices,Skill,3
+capstone project,Skill,3
+vlsi,Skill,3
+microcontrollers,Skill,3
+electromagnetics,Skill,3
+biomedical engineering,Skill,3
+data communication,Skill,3
+antenna design,Skill,3
+satellite communication,Skill,3
+stochastic processes,Skill,3
+mobile communication,Skill,3
+probability,Skill,3
+transmission lines,Skill,3
+wireless sensor networks,Skill,3
+analog electronics,Skill,3
+sensors,Skill,3
+instrumentation,Skill,3
+circuit analysis,Skill,3
+ECE,Branch,3
+microwave engineering,Skill,3
+analog circuits,Skill,3
+signal processing,Skill,3
+analog ic design,Skill,3
+telecommunication,Skill,3
+system on chip,Skill,3
+communication systems,Skill,3
+radar,Skill,3
+electronic circuits,Skill,3
+pytorch,Skill,4
+power system protection,Skill,4
+llmops,Skill,4
+energy storage,Skill,4
+tensorflow,Skill,4
+cyber physical systems,Skill,4
+smart grid,Skill,4
+reliability engineering,Skill,4
+ev charging,Skill,4
+electric power,Skill,4
+Research,Research,4
+electrical machines,Skill,4
+simulation,Skill,4
+sql,Skill,4
+machine learning,Skill,4
+electrical machine design,Skill,4
+power electronics,Skill,4
+power quality,Skill,4
+agentic ai,Skill,4
+python,Skill,4
+Industry,Industry,4
+llm,Skill,4
+hvdc,Skill,4
+deep learning,Skill,4
+rag,Skill,4
+mlops,Skill,4
+nlp,Skill,4
+electrical distribution,Skill,4
+power systems,Skill,4
+battery technology,Skill,4
+high voltage engineering,Skill,4
+power system reliability,Skill,4
+facts,Skill,4
+knowledge graph,Skill,4
+EEE,Branch,4

@@ -1,0 +1,70 @@
+Branch : DS
+
+Curriculum Skills
+========================================
+
+- algorithms
+- artificial intelligence
+- automata
+- big data
+- blockchain
+- c programming
+- capstone project
+- cloud computing
+- compiler design
+- computer graphics
+- computer networks
+- computer organization
+- computer vision
+- cryptography
+- cyber security
+- data analytics
+- data mining
+- data privacy
+- data science
+- data stream mining
+- data structures
+- data visualization
+- data warehousing
+- database management
+- database security
+- devops
+- digital electronics
+- discrete mathematics
+- distributed computing
+- django
+- etl
+- flutter
+- image processing
+- information retrieval
+- internship
+- iot
+- java
+- kafka
+- machine learning
+- mobile app development
+- multimedia databases
+- nlp
+- nodejs
+- operating systems
+- organizational behavior
+- parallel computing
+- power bi
+- project management
+- python
+- quantum computing
+- r programming
+- react
+- research
+- robotics
+- scripting
+- social media analytics
+- social media mining
+- software engineering
+- software testing
+- sql
+- statistics
+- storage management
+- talend
+- video analytics
+- web development
