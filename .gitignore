@@ -1,15 +1,36 @@
-@'
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables & Secrets
 .env
 .env.*
 !.env.example
-.venv/
-venv/
-__pycache__/
-*.py[cod]
+*.env
+.streamlit/secrets.toml
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing and Caches
 .pytest_cache/
 .mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
 .ipynb_checkpoints/
-.streamlit/secrets.toml
+
+# Operating System Files
 .DS_Store
 Thumbs.db
-'@ | Set-Content -Encoding utf8 .gitignore
