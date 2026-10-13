@@ -17,19 +17,36 @@ st.set_page_config(
 
 
 # ==========================================================
-# PATHS
-# ==========================================================
-
-GRAPH_PATH = os.path.join(
-    "outputs",
-    "knowledge_graph",
-    "curriculum_knowledge_graph.graphml"
+PROJECT_ROOT = os.path.dirname(
+    os.path.dirname(
+        os.path.dirname(
+            os.path.abspath(__file__)
+        )
+    )
 )
 
-INTERACTIVE_GRAPH = os.path.join(
-    "outputs",
-    "figures",
-    "interactive_graph.html"
+def resolve_path(rel_path):
+    if os.path.exists(rel_path):
+        return rel_path
+    candidate = os.path.join(PROJECT_ROOT, rel_path)
+    if os.path.exists(candidate):
+        return candidate
+    return candidate
+
+GRAPH_PATH = resolve_path(
+    os.path.join(
+        "outputs",
+        "knowledge_graph",
+        "curriculum_knowledge_graph.graphml"
+    )
+)
+
+INTERACTIVE_GRAPH = resolve_path(
+    os.path.join(
+        "outputs",
+        "figures",
+        "interactive_graph.html"
+    )
 )
 
 

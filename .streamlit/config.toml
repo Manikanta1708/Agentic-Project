@@ -1,2 +1,8 @@
 [server]
+headless = true
 fileWatcherType = "none"
+enableCORS = false
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false

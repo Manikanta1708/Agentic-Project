@@ -1,15 +1,42 @@
-```text
+# Version Control
 .git
+.gitignore
+.gitattributes
+.github
+
+# Virtual Environments
 .venv
 venv
-__pycache__
-**/__pycache__
-*.pyc
+ENV
+env
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
 .pytest_cache
 .mypy_cache
-.streamlit/secrets.toml
+.ruff_cache
+.coverage
+htmlcov/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Secrets & Environment variables
 .env
 .env.*
-.vscode
-.DS_Store
-```
+!.env.example
+.streamlit/secrets.toml
+
+# Docker & local compose files
+docker-compose*.yml
+.dockerignore

@@ -4,16 +4,28 @@ Graphs
 =========================================================
 """
 
+import os
+import sys
 import matplotlib.pyplot as plt
 import pandas as pd
 import streamlit as st
+
+PROJECT_ROOT = os.path.dirname(
+    os.path.dirname(os.path.abspath(__file__))
+)
+
+if PROJECT_ROOT not in sys.path:
+    sys.path.insert(0, PROJECT_ROOT)
 
 
 def show_graphs(branch):
 
     st.subheader("Branch Performance")
 
-    df = pd.read_csv("outputs/final_evaluation.csv")
+    eval_path = os.path.join(PROJECT_ROOT, "outputs", "final_evaluation.csv")
+    if not os.path.exists(eval_path):
+        eval_path = "outputs/final_evaluation.csv"
+    df = pd.read_csv(eval_path)
 
     row = df[df["branch"] == branch].iloc[0]
 

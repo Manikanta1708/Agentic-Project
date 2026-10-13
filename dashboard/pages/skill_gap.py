@@ -10,9 +10,25 @@ st.set_page_config(
     layout="wide"
 )
 
-R25_PATH = "corpus/curriculum/R25_course_skill_mapping.csv"
-JOB_PATH = "outputs/job_description_skill_frequency.csv"
-RESEARCH_PATH = "outputs/research_skill_frequency.csv"
+PROJECT_ROOT = os.path.dirname(
+    os.path.dirname(
+        os.path.dirname(
+            os.path.abspath(__file__)
+        )
+    )
+)
+
+def resolve_path(rel_path):
+    if os.path.exists(rel_path):
+        return rel_path
+    candidate = os.path.join(PROJECT_ROOT, rel_path)
+    if os.path.exists(candidate):
+        return candidate
+    return candidate
+
+R25_PATH = resolve_path(os.path.join("corpus", "curriculum", "R25_course_skill_mapping.csv"))
+JOB_PATH = resolve_path(os.path.join("outputs", "job_description_skill_frequency.csv"))
+RESEARCH_PATH = resolve_path(os.path.join("outputs", "research_skill_frequency.csv"))
 
 BRANCHES = ["AIML", "CSE", "DS", "IT", "ECE", "EEE", "MECH", "CIVIL"]
 YEARS = ["I YEAR", "II YEAR", "III YEAR", "IV YEAR"]

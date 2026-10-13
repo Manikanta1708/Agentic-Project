@@ -1,10 +1,21 @@
 import os
+import sys
 import re
 import pandas as pd
 import networkx as nx
 import streamlit as st
 
-from sidebar import load_sidebar
+# Ensure dashboard and project root are in sys.path
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.dirname(BASE_DIR)
+for p in [BASE_DIR, PROJECT_ROOT]:
+    if p not in sys.path:
+        sys.path.insert(0, p)
+
+try:
+    from sidebar import load_sidebar
+except ImportError:
+    from dashboard.sidebar import load_sidebar
 
 
 # =========================================================
@@ -35,11 +46,19 @@ selected_version = str(settings["version"]).strip().upper()
 # FILE PATHS
 # =========================================================
 
-R22_PATH = "corpus/curriculum/R22_course_skill_mapping.csv"
-R25_PATH = "corpus/curriculum/R25_course_skill_mapping.csv"
-R29_PATH = "corpus/curriculum/R29_curriculum_recommendations.csv"
+def resolve_path(rel_path):
+    if os.path.exists(rel_path):
+        return rel_path
+    candidate = os.path.join(PROJECT_ROOT, rel_path)
+    if os.path.exists(candidate):
+        return candidate
+    return candidate
 
-GRAPH_PATH = "outputs/knowledge_graph/curriculum_knowledge_graph.graphml"
+R22_PATH = resolve_path(os.path.join("corpus", "curriculum", "R22_course_skill_mapping.csv"))
+R25_PATH = resolve_path(os.path.join("corpus", "curriculum", "R25_course_skill_mapping.csv"))
+R29_PATH = resolve_path(os.path.join("corpus", "curriculum", "R29_curriculum_recommendations.csv"))
+
+GRAPH_PATH = resolve_path(os.path.join("outputs", "knowledge_graph", "curriculum_knowledge_graph.graphml"))
 
 
 # =========================================================
@@ -253,10 +272,11 @@ future_recommendations = (
     else pd.DataFrame()
 )
 
-future_recommendations = future_recommendations.sort_values(
-    "r29_priority_score",
-    ascending=False
-)
+if not future_recommendations.empty and "r29_priority_score" in future_recommendations.columns:
+    future_recommendations = future_recommendations.sort_values(
+        "r29_priority_score",
+        ascending=False
+    )
 
 
 # =========================================================

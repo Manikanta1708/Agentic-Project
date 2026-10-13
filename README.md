@@ -108,13 +108,37 @@ pip install -r requirements.txt
 
 ## Running the Dashboard
 
+### Option A: Local Python Environment
+
 From the project root directory, run:
 
 ```bash
 streamlit run dashboard/app.py
 ```
 
-Streamlit will display a local URL in the terminal. Open that URL in your browser to access the dashboard.
+### Option B: Docker Compose (Recommended)
+
+To run with Docker without needing local Python or dependency setup:
+
+```bash
+docker compose up --build -d
+```
+
+Access the dashboard at `http://localhost:8501`.
+
+To stop the container:
+```bash
+docker compose down
+```
+
+### Option C: Docker CLI
+
+```bash
+docker build -t agentic-curriculum-dashboard .
+docker run -d -p 8501:8501 --name agentic-dashboard agentic-curriculum-dashboard
+```
+
+For detailed production and cloud deployment guidelines, refer to [DOCKER_DEPLOYMENT.md](DOCKER_DEPLOYMENT.md).
 
 **Note:** Dashboard startup may depend on the availability of the required datasets, generated outputs, vector indexes, and installed dependencies.
 

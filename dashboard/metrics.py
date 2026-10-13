@@ -19,7 +19,10 @@ if PROJECT_ROOT not in sys.path:
 
 def show_metrics(branch):
 
-    df = pd.read_csv("outputs/final_evaluation.csv")
+    eval_path = os.path.join(PROJECT_ROOT, "outputs", "final_evaluation.csv")
+    if not os.path.exists(eval_path):
+        eval_path = "outputs/final_evaluation.csv"
+    df = pd.read_csv(eval_path)
 
     row = df[df["branch"] == branch].iloc[0]
 

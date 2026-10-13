@@ -17,10 +17,26 @@ st.set_page_config(
 # DATA PATHS
 # =========================================================
 
-DATA_PATH = "corpus/curriculum/R22_R25_skill_evolution_summary.csv"
-R22_COURSE_PATH = "corpus/curriculum/R22_course_skill_mapping.csv"
-R25_COURSE_PATH = "corpus/curriculum/R25_course_skill_mapping.csv"
-R29_PATH = "corpus/curriculum/R29_curriculum_recommendations.csv"
+PROJECT_ROOT = os.path.dirname(
+    os.path.dirname(
+        os.path.dirname(
+            os.path.abspath(__file__)
+        )
+    )
+)
+
+def resolve_path(rel_path):
+    if os.path.exists(rel_path):
+        return rel_path
+    candidate = os.path.join(PROJECT_ROOT, rel_path)
+    if os.path.exists(candidate):
+        return candidate
+    return candidate
+
+DATA_PATH = resolve_path(os.path.join("corpus", "curriculum", "R22_R25_skill_evolution_summary.csv"))
+R22_COURSE_PATH = resolve_path(os.path.join("corpus", "curriculum", "R22_course_skill_mapping.csv"))
+R25_COURSE_PATH = resolve_path(os.path.join("corpus", "curriculum", "R25_course_skill_mapping.csv"))
+R29_PATH = resolve_path(os.path.join("corpus", "curriculum", "R29_curriculum_recommendations.csv"))
 
 BRANCHES = [
     "AIML",
